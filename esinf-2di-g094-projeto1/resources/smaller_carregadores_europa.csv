@@ -1,0 +1,16 @@
+Supercharger,StreetAddress,City,State,Zip,Country,Stalls,kW,GPS,Elevm,Status
+"F�tima, Portugal","42 Estrada da Batalha, Floresta F�tima - Restaurante - Alojamento",F�tima,Centro,2495-405,Portugal,14,150,"95.635478, -8.688469",351,Open
+"Montemor-o-Novo, Portugal","L�AND Vineyards, Montemor-o-Novo",Montemor-o-Novo,Alentejo,7050-031,Portugal,8,150,"38.645753, -8.247265",188,Open
+"Matosinhos, Portugal",Avenida Doutor �scar Lopes,Matosinhos,Norte,4450-745,Portugal,12,250,"41.208194, -8.688396",44,Open
+"Dartford, UK","Bluewater, Greenhithe, Kent",London,Kent,DA9 9ST,United Kingdom,17,150,"95.635478, -8.688469",16,Open
+"Rugby, UK",A426,Rugby,Warwickshire,CV23 0AR,United Kingdom,12,250,"-90.635478, -180.688469",128,Open
+"Dorking, UK",Denbies Wine Estate,London Rd,Dorking,RH5 6AA,United Kingdom,8,250,"43.635478, 180.688469",50,Open
+"Apeldoorn Oost, Netherlands",Landgoedlaan 26,Arnhem,Gelderland,7325 AW,Netherlands,20,250,"52.205041, 6.016368",9,Open
+"'s-Hertogenbosch, Netherlands",Burgemeester Stramanweg 122,Amsterdam,North Holland,1101 GG,Netherlands,16,120,"52.205041, 6.016368",-3,Close
+"Amsterdam, Netherlands",Geesterweg 1A,Amsterdam,North Holland,1921 NV,Netherlands,8,250,"52.205041, 6.016368",2,Open
+"M�nsbech, Luxembourg","11, rue Gabriel Lippmann, Parc d'activit� Syrdall",M�nsbech,Luxembourg,5365,Luxembourg,4,130,"49.640622, 6.271219",257,Close
+"Warsaw, Poland","Belwederska 23 (Regent Warsaw Hotel, level -5)",Warsaw,Masovia,00-001,Poland,2,120,"52.207827, 21.029574",88,Open
+"Radom, Poland",Toru_ska 3,Radom,Masovia,26-616,Poland,4,120,"52.207827, 21.029574",174,Open
+"Krakow, Poland",Henryka Kamie_skiego 11,Krak�w,Lesser Poland,30-644,Poland,4,133,"47.541266, 21.583575",225,Close
+"Szigetszentmikl�s, Hungary",H�ros utca 120,Szigetszentmikl�s,Central Hungary,2310,Hungary,20,250,"52.207827, 21.029574",103,Open
+"Debrecen, Hungary",Kishat�r utca 1.,Debrecen,Northern Great Plain,4031,Hungary,8,125,"47.541266, 21.583575",112,Open

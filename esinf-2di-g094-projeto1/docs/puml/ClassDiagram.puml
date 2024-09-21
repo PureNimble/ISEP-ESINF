@@ -1,0 +1,125 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class Charger {
+  + Charger(String, String, String, String, String, String, int, int, String, int, String): 
+  - streetAddress: String
+  - zip: String
+  - country: String
+  - status: String
+  - kW: int
+  - gps: String
+  - state: String
+  - elevm: int
+  - city: String
+  - stalls: int
+  - supercharger: String
+  + equals(Object): boolean
+  + hashCode(): int
+  + compareTo(Charger): int
+   zip: String
+   streetAddress: String
+   kW: int
+   stalls: int
+   elevm: int
+   country: String
+   city: String
+   state: String
+   status: String
+   gps: String
+   supercharger: String
+}
+class ChargingCapacity {
+  ~ ChargingCapacity(List<String>, Set<String>, int): 
+  - cities: Set<String>
+  - totalCapacity: int
+  - states: List<String>
+   states: List<String>
+   totalCapacity: int
+   cities: Set<String>
+}
+class CityStalls {
+  + CityStalls(String, int): 
+  - stalls: int
+  - city: String
+  + hashCode(): int
+  + equals(Object): boolean
+  + compareTo(CityStalls): int
+   city: String
+   stalls: int
+}
+class Distribution {
+  + Distribution(): 
+  - verifyYears(int, int, int, int): void
+  - verifyEqualCoordinates(double, double, double, double): boolean
+  + getNumChargersKW(int): SortedSet<Entry<String, NumChargersKW>>
+  - verifyCoordinates(double, double): boolean
+  + getCountryTopNCharger(int, List<String>): ChargingCapacity
+  - verifyCountriesAndStates(List<String>): void
+  + getReportQuotas(int, int, int): Map<String, ReportQuotas>
+  + getClusters(ArrayList<String>): Map<String, List<String>>
+  - haversineFormula(double, double, double, double): double
+  - verifyPointsOfInterest(ArrayList<String>): void
+  + getEvolutionByCountry(int, int): Map<String, Double>
+  - sortNumChargerMap(Map<String, NumChargersKW>): SortedSet<Entry<String, NumChargersKW>>
+  + buildCharger(List<String>): void
+  + buildEvSales(List<String>): void
+   countriesWithNoIncrease: Map<String, List<PowertrainDif>>
+   minimalAutonomy: Map<String, Double>
+   evSales: Map<String, List<EvSales>>
+   charger: Map<String, List<Charger>>
+   cityStalls: Map<String, Set<CityStalls>>
+}
+class EvSales {
+  + EvSales(String, String, int, int): 
+  - powertrain: String
+  - year: int
+  - country: String
+  - number_of_vehicles: int
+  + equals(Object): boolean
+  + hashCode(): int
+  + compareTo(EvSales): int
+   year: int
+   number_of_vehicles: int
+   powertrain: String
+   country: String
+}
+class NumChargersKW {
+  + NumChargersKW(int, int): 
+  - totalBelowKW: int
+  - total: int
+  - totalAboveKW: int
+   total: int
+   totalBelowKW: int
+   totalAboveKW: int
+}
+class PowertrainDif {
+  ~ PowertrainDif(int): 
+  - year: int
+  - differenceFromLastYearPhev: int
+  - differenceFromLastYearBev: int
+   differenceFromLastYearBev: int
+   year: int
+   differenceFromLastYearPhev: int
+}
+class ReportQuotas {
+  + ReportQuotas(int, int, double): 
+  ~ stallsTotal: int
+  ~ quota: double
+  ~ eletricVehiclesTotal: int
+   quota: double
+   eletricVehiclesTotal: int
+   stallsTotal: int
+}
+
+Distribution      -[#595959,dashed]->  Charger          : "«create»"
+Distribution      -[#595959,dashed]->  ChargingCapacity : "«create»"
+Distribution      -[#595959,dashed]->  CityStalls       : "«create»"
+Distribution      -[#595959,dashed]->  EvSales          : "«create»"
+Distribution      -[#595959,dashed]->  NumChargersKW    : "«create»"
+Distribution      -[#595959,dashed]->  PowertrainDif    : "«create»"
+Distribution      -[#595959,dashed]->  ReportQuotas     : "«create»"
+@enduml

@@ -1,0 +1,1110 @@
+Supercharger,StreetAddress,City,State,Zip,Country,Stalls,kW,GPS,Elevm,Status
+"Bj�rkliden, Sweden",Bj�rklidenv�gen 70,Bj�rkliden,Lappland,981 93,Sweden,3,250,"68.407105, 18.676377",471,Open
+"Nottingham - Victoria Centre, UK",Glasshouse Street,Nottingham,,NG1 3QN,United Kingdom,12,250,"52.957009, -1.147388",44,Open
+"Pfaffenhofen, Germany",Siebenecken 1,Pfaffenhofen an der Ilm,Bavaria,85276,Germany,24,250,"48.518159, 11.562124",500,Open
+"Beaune, France","Mercure Beaune Centre 7 Ave, Charles de Gaulle",Beaune,Bourgogne-Franche-Comt�,21200,France,12,150,"47.017089, 4.836543",210,Open
+"Aichstetten, Germany",Am Waizenhof 12 (Autohof),Aichstetten,Baden-W�rttemberg,88317,Germany,8,130,"47.88036, 10.040488",630,Open
+"London - North Greenwich, UK","Waterview Dr, Greenwich Peninsula",London,,SE10 0TW,United Kingdom,12,150,"51.5023724, -0.0018343",7,Open
+"Domb�s, Norway","Frichg�rden,Sentralplassen 1C, behind KIWI Mini Pris",Domb�s,Innlandet,2660,Norway,24,250,"62.073923, 9.125562",659,Open
+"Arboga, Sweden",Burskapsv�gen 1,Arboga,V�stmanland,732 95,Sweden,14,150,"59.426307, 15.827684",20,Open
+"Wilnsdorf, Germany",Elkersberg 2 (Autohof),Wilnsdorf,North Rhine-Westphalia,57234,Germany,8,130,"50.816873, 8.08576",436,Open
+"Middelfart, Denmark",Karensmindevej 3,Middelfart,Syddanmark,5500,Denmark,12,150,"55.510639, 9.764306",26,Open
+"Regensburg-Ost, Germany",Junkersstra�e 3,Regensburg,Bavaria,93055,Germany,10,150,"48.994967, 12.150416",333,Open
+"Hohenwarsleben, Germany",Zum Raukler 1,Hohenwarsleben,Saxony-Anhalt,39326,Germany,6,120,"52.174057, 11.494488",133,Open
+"M�con, France",1 Boulevard du G�n�ral de Gaulle,Sanc�,Bourgogne-Franche-Comt�,71000,France,20,150,"46.346553, 4.850173",172,Open
+"Cavagli�, Italy","Via Santhi�, 75, Cavagli� BI",Cavagli�,Piedmont,13881,Italy,8,150,"45.38967, 8.128911",221,Open
+"Oosterhout, Netherlands",Beneluxweg 1,Oosterhout,North Brabant,4904 SJ,Netherlands,12,150,"51.626423, 4.869517",7,Open
+"Asp�ya, Norway","Fjordkroa AS, Asp�ya, E39",Asp�ya,M�re og Romsdal,6670,Norway,8,150,"63.011584, 7.977743",7,Open
+"Aurland, Norway",Nyheim Aurland,Aurland,Vestland,5745,Norway,6,130,"60.89863, 7.21082",11,Open
+"Lier (north), Norway","E18 North by Max burger (4 in front, 4 more in back)",Lier,Viken,3400,Norway,8,150,"59.770833, 10.262139",17,Open
+"Gol, Norway",Heradvegen 5,Gol,Viken,3550,Norway,8,130,"60.70232, 8.9862",201,Open
+"Lully, Switzerland","Restoroute 1470, Autogrill",Lully,Fribourg,1470,Switzerland,10,125,"46.832137, 6.859096",490,Open
+"�mot, Norway","by Heimat, Vinjevegen 159",Vinje,Vestfold og Telemark,3890,Norway,12,150,"59.5701306, 7.992551",457,Open
+"Hamburg - Stillhorn, Germany",Stillhorner Weg 40,Hamburg,,21109,Germany,12,250,"53.479693, 10.024845",4,Open
+"L�ddek�pinge, Sweden",Marknadsv�gen 1,L�ddek�pinge,Sk�ne,246 42,Sweden,14,150,"55.766399, 12.990671",10,Open
+"Grays, UK","Lakeside Shopping Centre, W Thurrock Way","Thurrock, Essex",,RM20 2ZG,United Kingdom,16,250,"51.4894519, 0.2866192",5,Open
+"M�hldorf, Germany",24 TOTAL Autohof,M�hldorf,Bavaria,84453,Germany,4,125,"48.272557, 12.549892",405,Open
+"Lier (south), Norway",E18 South,Lier,Viken,3400,Norway,8,150,"59.766259, 10.257838",17,Open
+"Auxerre, France",Route national 6 - Lieu dit,Appoigny,Bourgogne-Franche-Comt�,89380,France,8,150,"47.85183, 3.542802",99,Open
+"Solli, Norway",Solliveien 276,Rolvs�y,Viken,1667,Norway,10,150,"59.324292, 10.954448",3,Open
+"Sandane, Norway",Firdavegen 2,Sandane,Vestland,6823,Norway,6,150,"61.7780226, 6.2131884",1,Open
+"Tilburg (SC), Netherlands",Atlasstraat 7-9,Tilburg,North Brabant,5047 RG,Netherlands,2,120,"51.606331, 5.005621",5,Open
+"Kamen, Germany",4 Schattweg,Kamen,North Rhine-Westphalia,59174,Germany,12,150,"51.5701759, 7.6751678",73,Open
+"Karlstad, Sweden",V�xn�sgatan 158,Karlstad,V�rmland,653 41,Sweden,6,150,"59.381535, 13.467609",51,Open
+"Uddevalla, Sweden",Herrestads Torp 310,Uddevalla,Bohusl�n,451 98,Sweden,20,250,"58.3516862, 11.8116943",41,Open
+"Jung, Sweden",1 Jung Jungatorp,Kv�num,V�sterg�tland,535 92,Sweden,6,150,"58.328002, 13.132237",73,Open
+"Ljubljana, Slovenia",Pot za Brdom 4,Ljubljana,Central Slovenia,1000,Slovenia,8,125,"46.0520565, 14.45315",328,Open
+"Edinburgh Airport, UK",Edinburgh Airport,Edinburgh,,,United Kingdom,2,130,"55.945361, -3.366667",32,Open
+"Nivelles-Sud, Belgium",Chauss�e de Mons 22,Nivelles,Walloon Brabant,1400,Belgium,12,150,"50.588397, 4.307388",113,Open
+"Mosj�en, Norway","Elvegata, Fru Haugans Hotel",Mosj�en,Nordland,8651,Norway,6,150,"65.83483634, 13.191672563",0,Open
+"Irschenberg, Germany",Wendling 14,Irschenberg,Bavaria,83737,Germany,9,250,"47.826777, 11.898642",681,Open
+"Maienfeld, Switzerland","Swiss Heidi Hotel, Werkhofstrasse 1",Maienfeld,Grisons,7304,Switzerland,14,125,"47.003972, 9.525835",503,Open
+"Neuberg, Germany",R�ntgenstra�e 1,Neuberg,Hesse,63526,Germany,6,130,"50.1817522, 9.0074826",139,Open
+"Narbonne, France",130 Rue de L'H�tellerie,Narbonne,Occitanie,11100,France,12,150,"43.167693, 2.986012",15,Open
+"Senlis, France",72 Avenue du General de Gaulle,Senlis,Hauts-de-France,60300,France,16,150,"49.208728, 2.6057883",83,Open
+"Dorno Ovest, Italy","Autostrada A7 Milano-Genova, Dorno Autogrill area",Dorno,Lombardy,27020,Italy,6,150,"45.147886, 8.990914",87,Open
+"Grong, Norway","by hotel Vertshuset, FV 391",Grong,Tr�ndelag,7870,Norway,12,150,"64.464913, 12.316532",45,Open
+"Elverum, Norway","By Elgstua, Trondheimsvegen 9",Elverum,Innlandet,2406,Norway,16,150,"60.884165, 11.540741",186,Open
+"G�vle, Sweden","Brov�gen, by Dinners G�vlebro AB",G�vle,G�strikland,805 91,Sweden,14,150,"60.648513, 17.120583",37,Open
+"Toftaholm, Sweden",Toftaholm Manor,Lagan,Sm�land,340 14,Sweden,16,250,"57.028956, 14.014744",150,Open
+"Reading, UK",250 S Oak Way,Reading,,RG2 6UG,United Kingdom,4,130,"51.420611, -0.988028",40,Open
+"Hirschberg, Germany",Goldbeckstra�e 1A,Hirschberg,Baden-W�rttemberg,69493,Germany,8,150,"49.507337, 8.637361",98,Open
+"London - Westfield White City, UK",Westfield Shopping Town,London,,W12 7GD,United Kingdom,24,150,"51.507888, -0.221972",9,Open
+"Weyarn, Germany",Am Weiglfeld 30,Weyarn,Bavaria,83629,Germany,18,150,"47.86533, 11.790203",666,Open
+"Achern, Germany",Euro-Rastpark Achern Am Achernsee 1,Achern,Baden-W�rttemberg,77855,Germany,6,150,"48.641373, 8.03762",134,Open
+"Croydon, UK","Airport House, Purley Way",Croydon,,CR0 0XZ,United Kingdom,8,250,"51.3566659, -0.1168213",63,Open
+"Villach, Austria",Maria-Gailer-Stra�e 38,Villach,Carinthia,9500,Austria,8,150,"46.604079, 13.86908",490,Open
+"Vierum�ki, Finland",Tervalammentie 1,Vierum�ki,P�ij�t-H�me,19110,Finland,8,125,"61.111599, 25.928814",144,Open
+"Tours, France",19 Quai de la Loire Rochecorbon,Rochecorbon,Centre-Val de Loire,37210,France,8,150,"47.407325, 0.744827",66,Open
+"Metz, France","Rue de Maizi�res-les-Metz, near E.Leclerc",Hauconcourt,Grand Est,57280,France,12,150,"49.216495, 6.171078",162,Open
+"Archamps, France","Archamps Technopole, Route de Chosal",Archamps,Auvergne-Rh�ne-Alpes,74160,France,8,150,"46.136917, 6.124306",507,Open
+"Setermoen, Norway",Veksthuset Bardu,Setermoen,Troms og Finnmark,9365,Norway,8,150,"68.860147, 18.346723",85,Open
+"Sundsvall, Sweden",Gillebergsgatan 1,Sundsvall,Medelpad,85630,Sweden,8,150,"62.398404, 17.338877",17,Open
+"Krokomsporten, Krokom, Sweden","Across the road from OK/Q8, Krokomsporten 3",Krokom,J�mtland,835 32,Sweden,8,150,"63.328793, 14.43",303,Open
+"Ume�, Sweden","Marknadsgatan 19, By MAX burger",Ume�,V�sterbotten,904 21,Sweden,12,150,"63.811159, 20.250153",2,Open
+"Monte Ceneri/Rivera, Switzerland","Via Monte Ceneri 8, behind Agip",Rivera,Ticino,6802,Switzerland,6,125,"46.138926, 8.90781",473,Open
+"Dettelbach, Germany",20 Mainfrankenpark,Dettelbach,Bavaria,97337,Germany,18,150,"49.77884, 10.068646",315,Open
+"Warrington, UK","The Park Royal Hotel, Stretton Road",Warrington,,WA4 4NS,United Kingdom,2,130,"53.339515, -2.569358",88,Open
+"Malsfeld, Germany",Dr.-Reimer St 2,Malsfeld,Hesse,34323,Germany,8,150,"51.087435, 9.485296",269,Open
+"Nossen, Germany","Maxi-Autohof Nossen an der A14, Abfahrt 36, Im Industriegebiet 1",Nossen,Saxony,1683,Germany,10,250,"51.082468, 13.27406",252,Open
+"Bristol - Cribbs Causeway, UK","John Lewis, The Mall at Cribbs Causeway",Bristol,,BS34 5QU,United Kingdom,14,250,"51.526694, -2.599806",65,Open
+"Busdorf, Germany","by Wikingerland, Wittgenstein 9",Busdorf,Schleswig-Holstein,24866,Germany,28,250,"54.477896, 9.544913",24,Open
+"Saintes, France",132 Cours Genet,Saintes,Nouvelle-Aquitaine,17100,France,8,150,"45.75, -0.661722",48,Open
+"Algeciras, Spain","Autov�a del Mediterr�neo, A-7 Algeciras, Exit 106",Algeciras,Andalusia,11203,Spain,8,250,"36.134985, -5.461758",37,Open
+"Modena, Italy",1684 Strada Vignolese,Modena,Emilia-Romagna,41126,Italy,12,150,"44.574119, 10.981157",47,Open
+"Aosta, Italy - A5 dir. Torino","Localit� Autoporto, 33B",Pollein,Aosta Valley,11020,Italy,6,150,"45.737302, 7.372361",544,Open
+"Hauk�s, Norway",Nordre Brur�s 2,Nyborg,Vestland,5131,Norway,6,150,"60.484297, 5.375426",70,Open
+"Wernberg-K�blitz, Germany",Keplerstra�e 1,Wernberg-K�blitz,Bavaria,92533,Germany,10,250,"49.532694, 12.134861",391,Open
+"Maidstone, UK",Eclipse Park,Maidstone,,ME14,United Kingdom,6,130,"51.286224, 0.545783",66,Open
+"Exeter - Darts Farm, UK",Dart Farm Village,Exeter,,EX3 0QH,United Kingdom,12,250,"50.685442, -3.448837",6,Open
+"Toulouse, France","By Eurocentre H�tel, Avenue de Saint Guillan",Toulouse,Occitanie,31620,France,8,150,"43.769334, 1.361378",113,Open
+"Waldlaubersheim, Germany","Euro Rastpark Waldlaubersheim, auf dem Stein 1",Waldlaubersheim,Rhineland-Palatinate,55444,Germany,8,150,"49.923972, 7.825736",221,Open
+"Nancy, France","8 All�e de la Geneli�re, Hotel Ibis Styles",Nancy,Grand Est,54180,France,8,150,"48.638215, 6.184349",247,Open
+"Charleville M�zi�res, France","Rue Louise Michel, Hotel IBIS Charleville-M�zi�res,",Villers-Semeuse,Grand Est,8000,France,8,150,"49.736827, 4.744083",172,Open
+"Chamb�ry Barberaz, France",61 Rue de la R�publique by La Maison Rouge,Barberaz,Auvergne-Rh�ne-Alpes,73000,France,4,150,"45.56085, 5.949646",288,Open
+"Trondheim, Norway",Haakon VIIs gate,Trondheim,Tr�ndelag,7041,Norway,12,250,"63.441783, 10.456979",33,Open
+"Winchester - Norton Park, UK",Norton Park,Winchester,,,United Kingdom,2,130,"51.16725, -1.328024",90,Open
+"�rhus (SC), Denmark",Bredskiftevej 20,Aarhus,Midtjylland,8210,Denmark,6,150,"56.178223, 10.139406",67,Open
+"Affi, Italy","Highway A22, Via S. Pieretto, 27",Affi,Veneto,37010,Italy,24,250,"45.551296, 10.787143",189,Open
+"Leinstrand-Klett, Norway",S�ravegen 4,Leinstrand,Tr�ndelag,7083,Norway,18,150,"63.325319, 10.305137",32,Open
+"West Drayton, UK","West London Tesla Service Center, Park House, Horton road",London,,UB7 8HZ,United Kingdom,5,130,"51.511647, -0.461166",30,Open
+"Hamburg, Hotel Lindtner, Germany","Hotel Lindtner, Heimfelder Stra�e 123",Hamburg,Hamburg,21075,Germany,4,150,"53.460761, 9.939778",61,Open
+"Northampton - Grange Park, UK","Grange Park, Junction 15, M1 Loake Close",Northampton,,NN4 5EZ,United Kingdom,6,150,"52.185729, -0.89127",81,Open
+"Gardermoen, Norway","By Plantasjen, N�ringsparkveien 2",Jessheim,Viken,2050,Norway,20,250,"60.167383, 11.152464",206,Open
+"Sangerhausen, Germany","Am Mittelfeld 5, by 24 TOTAL - Autohof Sangerhausen",Sangerhausen,Saxony-Anhalt,6526,Germany,6,130,"51.450532, 11.304467",148,Open
+"Calais, France","ZAC Les Terrasses, Rue des Longues Pi�ces by hotel L'Haut'Aile",Coquelles,Hauts-de-France,62231,France,6,150,"50.924425, 1.80414",23,Open
+"Torri di Quartesolo, Italy","Via Brescia, 53-63",Torri di Quartesolo,Veneto,36040,Italy,20,250,"45.508412, 11.626038",28,Open
+"Nempitz, Germany","An der Autobahn 1, by Saale Autohof Bad D�rrenberg",Nempitz,Saxony-Anhalt,6231,Germany,8,150,"51.290043, 12.137328",114,Open
+"Kitzb�hel, Austria",St. Johanner Str. 49,Kitzb�hel,Tyrol,6370,Austria,3,130,"47.459597, 12.385877",735,Open
+"Le Mans, France","Centre Commercial Auchan Le Mans, ZAC du Moulin aux Moines",La Chapelle St Aubin,Pays de la Loire,72650,France,8,150,"48.041833, 0.175342",0,Open
+"Palmanova, Italy","km 1600, S.P. 125",Aiello del Friuli UD,Friuli-Venezia Giulia,33041,Italy,16,250,"45.884158, 13.344976",18,Open
+"Zurich - Dietlikon, Switzerland",Erlenweg 1,Dietlikon,Zurich,8305,Switzerland,8,150,"47.413063, 8.616766",436,Open
+"Rubigen, Switzerland",Belpstrasse by Denner,Rubigen,Bern,3113,Switzerland,16,150,"46.891778, 7.542771",524,Open
+"Lohne, Germany","Motorpark Lohne, Von-Siemens-Stra�e 1, Along A1/E37",Lohne,Lower Saxony,49393,Germany,20,250,"52.657695, 8.169447",27,Open
+"Abington, UK",M74 exit 13 by Welcome Break,Abington,,ML12 6RG,United Kingdom,6,130,"55.507944, -3.694786",242,Open
+"Birchanger Green, UK",Bishops Stortford by Welcome Break (M11),Birchanger Green,,CM23 5QZ,United Kingdom,4,130,"51.871619, 0.193886",93,Open
+"Rade, Germany","Hoyer Autohof Hamburg S�d, Schlepelsberg 2, Neu Wulmstorf",Rade,Lower Saxony,21629,Germany,8,150,"53.369722, 9.802193",83,Open
+"N�rre Alslev, Denmark",Cargovej 3,N�rre Alslev,Sj�lland,4840,Denmark,8,125,"54.899872, 11.896921",21,Open
+"Weimar, Germany",Kastanienallee 1,Weimar,Thuringia,99428,Germany,6,150,"50.933645, 11.289118",346,Open
+"Uckerfelde, Germany","Gramzower Stra�e 4, exit 6 from E28/11 by Gramzow",Uckerfelde,Brandenburg,17291,Germany,4,150,"53.23499, 13.98606",68,Open
+"Paimio, Finland",L�nsiportti 1,Paimio,Southwest Finland,21530,Finland,8,130,"60.442961, 22.605621",18,Open
+"Toijala, Finland","Satamatie 43, by ABC",Akaa,Pirkanmaa,37800,Finland,8,150,"61.181106, 23.885075",89,Open
+"Pyh�j�rvi, Finland","Liiketie 2, by ABC services",Pyh�j�rvi,North Ostrobothnia,86800,Finland,4,150,"63.716298, 25.920103",160,Open
+"Vienne, France","145 Rue Pasteur, hotel IBIS",Chasse-sur-Rh�ne,Auvergne-Rh�ne-Alpes,38670,France,8,150,"45.587457, 4.787527",158,Open
+"Rungis, France","1 Rue du pont des halles, Novotel Paris Orly Rungis",Rungis,�le-de-France,94150,France,6,150,"48.754456, 2.351036",89,Open
+"Porsgrunn, Norway",By Statoil Telemarksporten,Porsgrunn,Vestfold og Telemark,3946,Norway,12,150,"59.122098, 9.707564",33,Open
+"Stj�rdal, Norway",V�rnesgata 7b,Stj�rdal,Tr�ndelag,7503,Norway,16,150,"63.466385, 10.918098",9,Open
+"Gensingen, Germany",Am Kieselberg 38-36,Gensingen,Rhineland-Palatinate,55457,Germany,22,250,"49.902512, 7.929372",101,Open
+"Wiener Neustadt, Austria",Leopold-Ungar-Stra�e 4,Wiener Neustadt,Lower Austria,2700,Austria,14,150,"47.804883, 16.210756",271,Open
+"Birmingham-Hopwood Park, UK","M42 Motorway, Junction 2 Redditch Road",Birmingham,,B48 7AU,United Kingdom,16,130,"52.363197, -1.945572",125,Open
+"South Mimms, UK","South Mimms Services, M25, Junction 23",Potters Bar,,EN6 3QQ,United Kingdom,12,150,"51.687536, -0.223548",89,Open
+"Bersteland, Germany","Van der Valk Allee 2, by Spreewald Parkhotel Van der Valk",Bersteland,Brandenburg,15910,Germany,6,104,"51.949095, 13.787957",54,Open
+"Folkestone, UK","Eurotunnel UK terminal, Ashford Rd",Folkestone,,CT18 8XX,United Kingdom,8,130,"51.096752, 1.121336",66,Open
+"Rennes, France",All�e d'Ukraine,Rennes,Bretagne,35200,France,8,150,"48.08208, -1.684395",35,Open
+"Varazze, Italy","Marina di Varazze, 24 Via Maestri d'Ascia",Varazze,Liguria,17019,Italy,8,150,"44.351747, 8.565401",16,Open
+"Melegnano, Italy","Ibis Styles Milano Melegnano via Dosetti, Localita' Francolino Carpiano",Carpiano,Lombardy,20080,Italy,8,150,"45.34834, 9.282206",87,Open
+"Bygland, Norway",Riksvei 9,Bygland,Agder,4745,Norway,8,150,"58.82792, 7.796114",208,Open
+"Moers, Germany","Krefelder Stra�e 169, by hotel Van der Valk",Moers,North Rhine-Westphalia,47447,Germany,12,150,"51.441844, 6.611776",28,Open
+"Mora, Sweden",Strandgatan 8B,Mora,Dalarna,792 30,Sweden,8,150,"61.005921, 14.54418",157,Open
+"Senj, Croatia",Obala kralja Zvonimira 15,Senj,,53270,Croatia,4,150,"44.989707, 14.89947",1,Open
+"Liezen, Austria",Ges�use Str. 14,Liezen,Styria,8940,Austria,8,130,"47.55952, 14.251709",630,Open
+"Wiesbaden, Germany",9 Ostring,Wiesbaden,Hesse,65205,Germany,4,125,"50.059472, 8.346059",152,Open
+"��nekoski, Finland","Suonenjoentie 10, by ABC services",Koivisto,Central Finland,44250,Finland,4,150,"62.516908, 25.691666",107,Open
+"Valence, France","217 Avenue de Provence, Novotel Valence Sud",Valence,Auvergne-Rh�ne-Alpes,26000,France,8,150,"44.918953, 4.878081",106,Open
+"Campogalliano, Italy","160 Via del Passatore, Best Western, Modena District",Campogalliano,Emilia-Romagna,41011,Italy,8,150,"44.685971, 10.851913",42,Open
+"Eindhoven, Netherlands",Aalsterweg 322,Eindhoven,North Brabant,5644 RL,Netherlands,24,150,"51.407268, 5.479937",20,Open
+"Kaiserslautern Eselsf�rth, Germany",Hotel Barbarossahof 10 Eselsf�rth,Kaiserslautern,Rhineland-Palatinate,67657,Germany,8,150,"49.459902, 7.82134",255,Open
+"Kalmar, Sweden",7 Dragonv�gen,Kalmar,Sm�land,39239,Sweden,6,150,"56.673228, 16.321408",4,Open
+"Blankenfelde, Germany",Eschenweg 18,Blankenfelde-Mahlow,Brandenburg,15827,Germany,20,250,"52.308961, 13.444752",42,Open
+"Washington, UK",Campanile Washington Emerson Road,Washington,,NE37 1LB,United Kingdom,8,150,"54.88762, -1.557413",78,Open
+"�rnsk�ldsvik, Sweden","H�rn�sandsv�gen 4, by Burger King",�rnsk�ldsvik,�ngermanland,891 31,Sweden,6,150,"63.291556, 18.706134",9,Open
+"Edegem, Belgium",Kattenbroek 1,Edegem,Antwerp,2650,Belgium,18,150,"51.1506204, 4.4334085",11,Open
+"Leonberg-Ost, Germany","Breitwiesenstra�e 4A, by McDonalds",Leonberg,Baden-W�rttemberg,71229,Germany,20,150,"48.785104, 9.017632",371,Open
+"Humpolec, Czech Republic","Highway D1, E551, Vystrkov",Humpolec,Vyso_ina,"39,601",Czech Republic,6,150,"49.521746, 15.347476",593,Open
+"Wertheim, Germany",Bl�ttleins�cker 1,Wertheim,Baden-W�rttemberg,97877,Germany,6,150,"49.770564, 9.576403",153,Open
+"Chapelle-sur-Erdre, France",Westotel 34 rue de la Vri�re,La Chapelle-sur-Erdre,Pays de la Loire,44240,France,8,150,"47.282708, -1.549982",28,Open
+"Bayonne, France",1 Chemin de Hayet,Bayonne,Nouvelle-Aquitaine,64100,France,8,150,"43.493245, -1.452739",6,Open
+"Aix-en-Provence, France","Avenue Arc de Meyran, Hotel Novotel Aix en Provence, Pont de l'Arc Fenouill�res,",Aix-en-Provence,Provence-Alpes-C�te d'Azur,13100,France,4,100,"43.510637, 5.456429",140,Open
+"Eidfjord, Norway",Tenestetorget Simadalsvegen 1,Eidfjord,Vestland,5783,Norway,8,150,"60.467438, 7.068209",6,Open
+"Bispingen, Germany",Horstfeldweg 9 by Snow Dome,Bispingen,Lower Saxony,29646,Germany,10,150,"53.104089, 9.981917",78,Open
+"Edsbruk, Sweden",E22 at Tindered Lantk�k,Edsbruk,Sm�land,590 98,Sweden,14,250,"57.97985, 16.482407",25,Open
+"Dugopolje, Croatia",near Split. Exit from A1 highway,Dugopolje,,,Croatia,6,125,"43.587987, 16.577041",301,Open
+"Matougues, France",8 Route Nationale,Matougues,Grand Est,51510,France,4,125,"48.991991, 4.244946",81,Open
+"Valencia, Spain",S/N Carrer de Leonardo Da Vinci Paterna,Valencia,Valencia,46980,Spain,8,250,"39.542965, -0.451521",107,Open
+"Lillehammer, Norway",Korgvegen 37,Lillehammer,Innlandet,2619,Norway,14,150,"61.13045, 10.43491",159,Open
+"Nes, Norway",�dalsvegen,Nes i �dal,Viken,3524,Norway,20,150,"60.58475, 9.985092",152,Open
+"Katowice, Poland",Murckowska 22,Katowice,Silesia,40-265,Poland,4,150,"50.254594, 19.046594",265,Open
+"�sarna, Sweden",Olstav�gen 45,�sarna,J�mtland,845 51,Sweden,8,250,"62.640747, 14.371052",355,Open
+"Innhavet, Norway","by Hamar�y Hotel, E6",Innhavet,Nordland,8260,Norway,10,250,"67.962327, 15.9298",9,Open
+"L'ldea, Spain",L'Aldea,L'Aldea,Catalonia,43896,Spain,8,150,"40.753019, 0.606421",32,Open
+"Kristianstad, Sweden",Jochums v�g 18,Kristianstad,Sk�ne,291 59,Sweden,14,250,"56.02474, 14.116383",5,Open
+"Aire de Reims-Champagne-Sud, France",A4 Aire de Reims Sud,Les Petites-Loges,Grand Est,51400,France,6,150,"49.120781, 4.24261",119,Open
+"Fano, Italy",2/A Via Luigi Einaudi,Fano,Marche,61032,Italy,6,130,"43.802874, 13.015345",21,Open
+"M�nsbech, Luxembourg","11, rue Gabriel Lippmann, Parc d'activit� Syrdall",M�nsbech,Luxembourg,5365,Luxembourg,4,130,"49.640622, 6.271219",257,Open
+"Innsbruck, Austria",Bernhard-H�fel-Stra�e 16,Innsbruck,Tyrol,6020,Austria,6,125,"47.264861, 11.428453",567,Open
+"Bad Rappenau, Germany",Buch�ckerring 40 (Autohof),Bad Rappenau,Baden-W�rttemberg,74906,Germany,8,130,"49.211936, 9.077322",207,Open
+"Bernau am Chiemsee, Germany",Theodor-Sanne-Stra�e 6,Bernau am Chiemsee,Bavaria,83233,Germany,8,150,"47.814441, 12.367768",526,Open
+"Mougins, France",205 avenue du Golf,Mougins,Provence-Alpes-C�te d'Azur,6250,France,4,130,"43.603659, 7.011155",183,Open
+"Orgeval, France",482 Route Des 40 Sous,Orgeval,�le-de-France,78630,France,4,125,"48.925026, 1.996508",76,Open
+"Albaret-Sainte-Marie, France",Aire de la Garde,Albaret-Sainte-Marie,Occitanie,48200,France,8,150,"44.870977, 3.252918",1066,Open
+"Chamb�ry, France",1097 Avenue Des Landiers,Chamb�ry,Auvergne-Rh�ne-Alpes,73000,France,4,125,"45.592227, 5.899842",256,Open
+"Bourges, France",3 Rue Joseph Aristide,Bourges,Centre-Val de Loire,18000,France,10,150,"47.049393, 2.344843",154,Open
+"Drachten, Netherlands",Lavendelheide 4,Drachten,Friesland,9202 PD,Netherlands,16,250,"53.105883, 6.129539",6,Open
+"Bristol - M5, UK","M5 Jct 19, by Welcome Break Services",Bristol,,BS20 7XG,United Kingdom,8,130,"51.477207, -2.706308",12,Open
+"Dundee, UK","Hilton Hotel, Kingsway W",Dundee,,DD2 5JT,United Kingdom,8,150,"56.466428, -3.062962",20,Open
+"Sarn, UK",36 M4 Motorway,Sarn,,CF32 9SY,United Kingdom,8,130,"51.535351, -3.577637",75,Open
+"Caen, France",1 Avenue du Fresne,Bretteville-sur-Odon,Normandie,14760,France,12,150,"49.16398, -0.424802",27,Open
+"Thetford, UK",57 Brandon Rd,Elveden,,IP24 3TP,United Kingdom,8,150,"52.38641, 0.664606",40,Open
+"Ceprano, Italy",27 Via Caragno,Ceprano,Lazio,3024,Italy,8,150,"41.544226, 13.511958",98,Open
+"C�llar, Spain",A-92N,C�llar,Andalusia,18850,Spain,8,150,"37.5540305, -2.6139444",997,Open
+"Lleida, Spain",S N La Variant Torrefarera,Torrefarera,Catalonia,25123,Spain,6,150,"41.663959, 0.605371",203,Open
+"Burgos, Spain","Carretera Madrid-Ir�n, 137",Burgos,Castile and Le�n,9001,Spain,6,150,"42.312365, -3.704115",931,Open
+"Skellefte�, Sweden","N�ppelbergsv�gen 1, by OKQ8 station along E4",Skellefte�,V�sterbotten,93176,Sweden,6,150,"64.76235, 21.002864",80,Open
+"Membury Services Westbound, UK","Welcome Break Membury, M4",Hungerford,,RG17 7TY,United Kingdom,8,150,"51.4813, -1.5561",207,Open
+"Moncalieri, Italy",Via Guido Rossa 11,Moncalieri,Piedmont,10024,Italy,8,150,"44.973333, 7.730113",224,Open
+"Caudan, France",758 rue Pierre Landais,Caudan,Bretagne,56850,France,8,150,"47.788035, -3.331263",27,Open
+"Le Caylar, France",Aire du Caylar,Le Caylar,Occitanie,34520,France,8,150,"43.864589, 3.313277",733,Open
+"Chasseneuil-du-Poitou, France",Avenue Ren� Monory,Chasseneuil-du-Poitou,Nouvelle-Aquitaine,86360,France,8,150,"46.670356, 0.362651",81,Open
+"Orl�ans, France",Chemin des Sablons Saran,Saran,Centre-Val de Loire,45770,France,12,250,"47.948869, 1.86831",124,Open
+"Lampeland, Norway",By KIWI grocery store,Lampeland,Viken,3621,Norway,12,150,"59.836224, 9.579221",188,Open
+"Greding, Germany",An der Autobahn 1a,Greding,,91171,Germany,20,250,"49.0419751, 11.3421439",410,Open
+"Dugo Selo, Croatia","By gas station exit 6a from E70, close to Dugoselska ulica",Zagreb,,10370,Croatia,6,125,"45.766601, 16.233971",99,Open
+"Warwick - Southbound, UK","M40, Welcome Break Service, South",Warwick,,CV35 0AA,United Kingdom,8,150,"52.219105, -1.502085",83,Open
+"Zaragoza, Spain","Estaci�n de Servicio EL CISNE, A2, km 309",Zaragoza,Aragon,50012,Spain,10,150,"41.625707, -1.009618",321,Open
+"Mogliano Veneto, Italy",1 Via Bonfadini,Mogliano Veneto,Veneto,31021,Italy,16,250,"45.584722, 12.287137",5,Open
+"Bernin, France",134 Chemin des Fontaines,Bernin,Auvergne-Rh�ne-Alpes,38190,France,8,150,"45.265676, 5.876448",238,Open
+"Dietikon, Switzerland",Moosmattstrasse 24,Dietikon,Zurich,8953,Switzerland,24,150,"47.418041, 8.396577",386,Open
+"Merry Hill, UK","Merry Hill Shopping Centre, Pedmore Rd, Brierley Hill",Birmingham,West Midlands,DY5 1QX,United Kingdom,14,250,"52.483377, -2.113597",124,Open
+"Aire de Saint-Priest, France",A43 - Aire de Saint-Priest,Saint-Priest,Auvergne-Rh�ne-Alpes,69800,France,6,150,"45.698042, 4.975513",236,Open
+"Urvillers, France",A26 Aire d'Urvillers,Urvillers,Hauts-de-France,2690,France,8,150,"49.787019, 3.335626",104,Open
+"Langon, France","Centre commercial Mol�on, Boulevard Pierre Lagorce",Langon,Nouvelle-Aquitaine,33210,France,10,150,"44.54244, -0.253972",26,Open
+"Occhiobello, Italy",36 Via Eridania,Occhiobello,Veneto,45030,Italy,8,150,"44.918787, 11.594051",6,Open
+"Mercato San Severino, Italy","Via Bagnara 12, ""San Severino Park Hotel & Spa""",Mercato San Severino,Campania,84085,Italy,6,150,"40.771952, 14.746048",153,Open
+"Hoorn, Netherlands","Hotel Van der Valk Hotel Hoorn, Westfriese Parkweg 1,",Hoorn,North Holland,1625 MA,Netherlands,12,150,"52.650769, 5.038917",-2,Open
+"Oto_ac, Croatia",By gas station Vrata Like at exit Oto_ac (10) from A1 motorway,Kompolje,,53226,Croatia,6,108,"44.893164, 15.183865",443,Open
+"Hartshead Moor East, UK","24-25 M62, North",Brighouse,,HD6 4JX,United Kingdom,6,150,"53.712, -1.747",136,Open
+"Maribor, Slovenia","Along E59 southbound, 20 Na polju",Maribor,Drava,2000,Slovenia,6,130,"46.533247, 15.699366",244,Open
+"Albacete, Spain",KM 52 La Gineta,Albacete,Castilla�La Mancha,2110,Spain,8,150,"39.134675, -2.039013",705,Open
+"Ariza, Spain","Calle Carr. de Madrid, 197",Ariza,Aragon,50220,Spain,6,150,"41.313192, -2.002201",726,Open
+"Getafe, Spain","Av. Ada Lovelace, 23",Getafe,Madrid,28906,Spain,8,150,"40.290389, -3.696302",597,Open
+"Schaffhausen, Switzerland",Schweizersbildstrasse 20,Schaffhausen,Schaffhausen,8207,Switzerland,8,125,"47.721034, 8.646353",469,Open
+"Woodall Southbound, UK","Woodall Motorway Services Area, M1 (south)",Sheffield,,S26 7XR,United Kingdom,8,125,"53.314145, -1.281904",128,Open
+"Newport Pagnell Southbound, UK","M1, Newport Pagnell",Newport Pagnell,,MK16 8DS,United Kingdom,12,150,"52.084312, -0.748467",71,Open
+"Lavik, Norway","FV607, Gnr 74 Bnr 65",Lavik,Vestland,6947,Norway,10,150,"61.103869, 5.51268",16,Open
+"Beckenried, Switzerland",Buochserstrasse 54,Beckenried,Nidwalden,6375,Switzerland,6,125,"46.971497, 8.459258",439,Open
+"Warwick - Northbound, UK","M40, Welcome Break Service, North",Warwick,,CV35 0AA,United Kingdom,8,150,"52.216831, -1.50513",83,Open
+"Saint-Brieuc, France",23 Rue Blaise Pascal,Saint-Brieuc,Bretagne,22360,France,8,150,"48.493453, -2.722645",104,Open
+"Aire de Manissieux, France","A43, Aire de Manissieux",Saint-Priest,Auvergne-Rh�ne-Alpes,69800,France,6,150,"45.69848, 4.977541",240,Open
+"Aix-en-Provence - Val de l'Arc, France",Avenue des Infirmeries,Aix-en-Provence,Provence-Alpes-C�te d�Azur,13100,France,12,250,"43.511938, 5.466433",149,Open
+"Vinstra, Norway","By Circle-K station at Vinstra vegpark, 81 Rustveien",Vinstra,Innlandet,2640,Norway,12,150,"61.591797, 9.722393",266,Open
+"Rh�den, Germany",Am Zainer Berg 2,Rh�den,Lower Saxony,38723,Germany,16,250,"51.947228, 10.140842",153,Open
+"Caldes de Malavella, Spain","Carretera N-II, km. 701",Caldes de Malavella,Catalonia,17455,Spain,20,250,"41.859029, 2.767237",132,Open
+"Vrgorac, Croatia",Zagreba_ka ul. 31,Vrgorac,,,Croatia,6,125,"43.204105, 17.373824",224,Open
+"Burtonwood, UK","Welcome Break Burtonwood, M62",Burtonwood,,,United Kingdom,8,150,"53.417605, -2.639522",12,Open
+"Leeds, UK",Capitol Boulevard by Village Urban Resort Leeds South,Leeds,,LS27 0TS,United Kingdom,2,130,"53.732769, -1.585628",142,Open
+"Paderborn, Germany",Balhorner Feld 11,Paderborn,,33106,Germany,12,250,"51.710867, 8.713883",112,Open
+"Grantham, UK","Grantham North Services, Trunk Rd",Grantham,,NG32 2AB,United Kingdom,16,150,"52.948794, -0.677802",44,Open
+"Bratislava, Slovakia","Aupark Shopping Center, Einsteinova 18",Bratislava,Bratislava,851 01,Slovakia,6,130,"48.132138, 17.108438",136,Open
+"Heusden-Zolder, Belgium",Industrieweg 3-9,Heusden-Zolder,Limburg,3550,Belgium,12,150,"50.993363, 5.242222",31,Open
+"Cerignola, Italy","km 3,600 Via Manfredonia",Cerignola,Apulia,71042,Italy,8,150,"41.306389, 15.899738",67,Open
+"S�rkjosen, Norway","Ringveien 45, behind Joker store",S�rkjosen,Troms og Finnmark,9152,Norway,6,150,"69.792498, 20.93907",9,Open
+"Skibotn, Norway",By Nordkalottsenteret along E6,Skibotn,Troms og Finnmark,9143,Norway,6,150,"69.392448, 20.268423",1,Open
+"Jaren, Spydeberg, Norway","By YX Jaren gas station along E18, Osloveien 265.",Tomter,Viken,1825,Norway,20,150,"59.617809, 11.004422",110,Open
+"Manzanares, Spain","km 173, Autovia de Andaluc�a",Manzanares,Castilla-La Mancha,13200,Spain,4,150,"39.006855, -3.382999",656,Open
+"Sant Cugat, Spain","Sant Cugat del Vall�s, 15-17 Cami de Can Camps",Barcelona,Catalonia,8174,Spain,12,150,"41.498135, 2.072674",209,Open
+"Girona, Spain","Calle Francesc Ferrer, 16-18",Girona,Catalonia,17006,Spain,4,150,"41.998411, 2.817295",83,Open
+"Stoke-on-Trent Northbound, UK","Welcome break northbound M6, Keele Motorway Services/Whitmore Rd","Newcastle, Staffordshire",,ST5 5HG,United Kingdom,8,130,"52.993, -2.2903",155,Open
+"Telford, UK","M54, Welcome Break, 4 Priorslee Rd",Telford,,,United Kingdom,8,130,"52.677334, -2.399552",114,Open
+"Hedensted, Denmark",Kildeparken 10,Hedensted,Midtjylland,8722,Denmark,16,150,"55.786395, 9.667926",63,Open
+"Pau, France","2 rue Suzanne Lenglen, H�tel Kyriad Prestige, exit 10 from E80",Pau,Nouvelle-Aquitaine,64000,France,8,150,"43.332257, -0.358762",210,Open
+"Aire de Ch�teauvillain - Val Marnay, France",A5 - Aire de Ch�teauvillain-Val Marnay,Ch�teauvillain,Grand Est,52120,France,6,150,"48.057341, 4.959604",256,Open
+"Aire de Ch�teauvillain - Orges, France",A5 - Aire de Ch�teauvillain-Orges,Ch�teauvillain,Grand Est,52120,France,6,150,"48.057681, 4.96061",257,Open
+"Bissendorf, Germany",Zum Eistruper Feld 1,Bissendorf,Lower Saxony,49143,Germany,16,250,"52.238354, 8.162975",80,Open
+"Uppsala, Sweden",Fuller� Backe 101,Uppsala,Uppland,"75,594",Sweden,10,150,"59.939144, 17.656107",48,Open
+"T�cksfors, Sweden","T�cksfors Handels, Linudden 3",T�cksfors,V�rmland,670 10,Sweden,20,150,"59.509437, 11.822381",118,Open
+"Gretna Green, UK","A74M , Jct 21/22 by Welcome Break",Gretna Green,,DG16 5HQ,United Kingdom,4,150,"55.0078, -3.083018",43,Open
+"Exeter, UK","M5 Junction 30, Sandygate Roundabout",Exeter,,EX2 7HF,United Kingdom,16,250,"50.716827, -3.463562",10,Open
+"S�derholz, Germany","Abfahrt 23, Grimmen-Ost, Pommerndreieck stra�e, close to McDonalds or gas station",S�derholz,Mecklenburg-Vorpommern,18516,Germany,4,150,"54.092811, 13.085489",16,Open
+"Beelitz, Germany",Doktor-Herrmann-Stra�e 5,Beelitz,Brandenburg,14822,Germany,14,150,"52.266782, 12.922582",68,Open
+"Penrith -Tebay Southbound, UK",Tebay Services Westmorland Place Orton,Orton,,CA10 3SB,United Kingdom,8,150,"54.453104, -2.605743",214,Open
+"Valenciennes, France",Rue de Maugr�,Rouvignies,Hauts-de-France,59220,France,10,150,"50.336704, 3.455931",51,Open
+"Trento, Italy","Via Innsbruck, 11",Trento,Trentino-South Tyrol,38121,Italy,10,150,"46.111577, 11.092008",195,Open
+"Palmi, Italy","Hotel Stella Maris, Contrada S. Gaetano",Palmi,Calabria,89015,Italy,4,150,"38.366929, 15.869555",229,Open
+"M�nchberg-Nord, Germany",12 August-Horch-Strasse,M�nchberg,Bavaria,95213,Germany,10,250,"50.202872, 11.776552",593,Open
+"Granada, Spain",Moraleda de Zafayona,Granada,Andalusia,18370,Spain,10,150,"37.181805, -3.928417",594,Open
+"Membury Services Eastbound, UK","Welcome Break Membury Eastbound, M4",Hungerford,,RG17 7TY,United Kingdom,6,150,"51.4839, -1.5568",206,Open
+"Scotch Corner, UK",Holiday Inn Darlington - A1 & A66,Richmond,,,United Kingdom,8,130,"54.4421, -1.6713",148,Open
+"Michaelwood Services Northbound, UK","M5 Junction 13/14, Lower Wick, Dursley, Gloucestershire",Dursley,,GL11 6DD,United Kingdom,8,130,"51.656431, -2.434545",31,Open
+"Kapfenberg, Austria",Werk-VI-Stra�e 28,Kapfenberg,Styria,8605,Austria,12,125,"47.450336, 15.317516",514,Open
+"Sailly-Flibeaucourt, France",A16 - Aire de la Baie de Somme,Sailly-Flibeaucourt,Hauts-de-France,80970,France,10,150,"50.167321, 1.755505",10,Open
+"Toulon, France",80 Chemin de la Capellane,La Seyne-sur-Mer,Provence-Alpes-C�te d'Azur,83500,France,8,150,"43.121199, 5.85086",10,Open
+"Morano Calabro, Italy",Loc. Campotenese,Morano Calabro,Calabria,87016,Italy,4,150,"39.875989, 16.065094",971,Open
+"Hokksund, Norway","Prestebr�tan, by Eiker shopping center",Hokksund,Viken,3300,Norway,20,150,"59.761033, 9.905583",10,Open
+"Jalasj�rvi, Finland","Keisarintie 145, Pentinm�ki",Jalasj�rvi,South Ostrobothnia,61710,Finland,8,150,"62.417805, 22.792112",99,Open
+"Aviemore, UK",MacDonald Highland Resort,Aviemore,,PH22 1PN,United Kingdom,4,150,"57.189774, -3.836206",225,Open
+"Amiens, France",5144A Route d'Amiens,Amiens,Hauts-de-France,80480,France,10,150,"49.863492, 2.27814",106,Open
+"Madrid - Nuevos Ministerios, Spain","SABA Parking Nuevos Ministerios, Paseo de la Castellana, 100",Madrid,Madrid,28046,Spain,6,150,"40.443082, -3.691335",672,Open
+"Norheimsund, Norway","Gamle Sandvenvegen 9, By Spar",Norheimsund,Vestland,5600,Norway,10,150,"60.372342, 6.141213",10,Open
+"Aguadulce, Spain",N-334 & A-92,Aguadulce,Andalusia,41550,Spain,8,150,"37.256871, -4.986068",291,Open
+"Rivabellosa, Spain","Pol., Industrial la Coba Pol., 1303, �lava",Rivabellosa,Basque Country,1213,Spain,8,150,"42.701171, -2.91951",474,Open
+"Schaan, Liechtenstein",Steckergass 7,Schaan,Oberland,9494,Liechtenstein,10,125,"47.165317, 9.507795",449,Open
+"Liphook, UK","Old Thorns Hotel, Longmoor Road",Liphook,,GU30 7PE,United Kingdom,8,150,"51.076281, -0.831807",93,Open
+"Romford, UK",11 Western Rd,Romford,Essex,RM1 3RL,United Kingdom,12,250,"51.57799, 0.18502",19,Open
+"Hovden, Norway","Fjellgardstun, next to Hovden Sport",Hovden,Agder,4756,Norway,12,150,"59.561243, 7.356849",785,Open
+"Adda Sud, Italy",Adda Sud,Caravaggio,Lombardy,24043,Italy,4,250,"45.510579, 9.635503",120,Open
+"Oftringen, Switzerland",Z�richstrasse 52,Oftringen,Aargau,4665,Switzerland,14,125,"47.310788, 7.934951",426,Open
+"Birdhill, Ireland","M7 Jtn 27, Coolderry",Birdhill,,,Ireland,6,130,"52.757747, -8.40932",85,Open
+"La�nitzh�he, Austria",Liebmannweg 22-23,La�nitzh�he,Styria,8301,Austria,12,125,"47.071071, 15.577942",536,Open
+"Olomouc, Czech Republic",Doln� Novosadsk� 421/89,Olomouc,Olomouc,783 01,Czech Republic,8,138,"49.561356, 17.262209",210,Open
+"Antwerp, Belgium",Luithagen-Haven 6,Antwerp,Antwerp,2030,Belgium,14,250,"51.268158, 4.402342",5,Open
+"Badhoevedorp, Netherlands",Schipholweg 275,Badhoevedorp,North Holland,1171 PK,Netherlands,32,150,"52.328927, 4.78492",-4,Open
+"Emmeloord, Netherlands",Het Hooiveld 9,Emmeloord,Flevoland,8302 AE,Netherlands,10,150,"52.727421, 5.764693",-5,Open
+"Berk�k, Norway","Mjukliveien 1, behind Berk�k veikro",Rennebu,Tr�ndelag,7391,Norway,20,150,"62.832142, 10.010141",439,Open
+"Holmestrand, Norway","Hvittingfossveien 123, By Meny",Holmestrand,Vestfold og Telemark,3080,Norway,16,150,"59.490174, 10.294565",122,Open
+"F�tima, Portugal","42 Estrada da Batalha, Floresta F�tima - Restaurante - Alojamento",F�tima,Centro,2495-405,Portugal,14,150,"39.635478, -8.688469",351,Open
+"Fl�elen, Switzerland",Axenstra�e 82,Fl�elen,Uri,6454,Switzerland,6,150,"46.913185, 8.623031",435,Open
+"Castlebellingham - Southbound, Ireland","A91 A3PH, Whiterath, Dromiskin, Co. Louth",Castlebellingham,,,Ireland,8,130,"53.924106, -6.411373",13,Open
+"Castlebellingham - Northbound, Ireland",Applegreen Motorway Services,Castlebellingham,,,Ireland,8,130,"53.932462, -6.417717",7,Open
+"Portsmouth, UK","Langstone Technology Park, Langstone Road",Havant,,PO9 1SA,United Kingdom,8,150,"50.847773, -0.991137",7,Open
+"Montemor-o-Novo, Portugal","L�AND Vineyards, Montemor-o-Novo",Montemor-o-Novo,Alentejo,7050-031,Portugal,8,150,"38.645753, -8.247265",188,Open
+"St. Georgen, Austria",Am Seering 2,St. Georgen,Upper Austria,4880,Austria,8,125,"47.929013, 13.502143",559,Open
+"Voss, Norway","Strandavegen 255, by REMA 1000 store",Skulestadmo,Vestland,5710,Norway,12,150,"60.658297, 6.436256",79,Open
+"Bembibre, Spain","Autov�a del Noroeste, Camino Real, 1",Ponferrada / Bembibre,Castile and Le�n,24318,Spain,8,150,"42.623851, -6.451837",618,Open
+"Almaraz, Spain","Autov�a del Suroeste, km. 200",Almaraz,Extremadura,10350,Spain,10,150,"39.791255, -5.695668",315,Open
+"M�rida, Spain",Pol�gono Industrial El Prado Ser 1A,M�rida,Extremadura,6800,Spain,10,150,"38.921746, -6.375133",224,Open
+"Hernes, Norway",S�rskogbygdveien 2,Hernes,Innlandet,2410,Norway,16,150,"60.93304, 11.675945",302,Open
+"Charnock Richard Northbound, UK",Jct 27-28 M6 Northbound Mill Ln,Chorley,,PR7 5LR,United Kingdom,12,150,"53.630562, -2.692578",69,Open
+"Langkampfen, Austria",Sch�nw�rthstra�e 99,Langkampfen,Tyrol,6336,Austria,27,250,"47.534556, 12.09294",492,Open
+"Eurocentral, UK",1-3 Parklands Ave,Motherwell,,ML1 4WQ,United Kingdom,12,150,"55.8358, -3.9845",104,Open
+"L�rdal, Norway","Haabakken Kro, H�bakken 1",L�rdal,Vestland,6887,Norway,12,150,"61.064428, 7.509793",35,Open
+"Alcantarilha, Portugal",Morgado da Lameira -302,Alcantarilha,Algarve,8365-302,Portugal,8,150,"37.150529, -8.364525",13,Open
+"Murcia, Spain","Calle Nueva Condomina 1. 1, 5T",Murcia,Murcia,30009,Spain,10,150,"38.038172, -1.149343",109,Open
+"Lasses, Norway",Europaveien 139,Rugtvedt,Vestfold og Telemark,3960,Norway,20,150,"59.037422, 9.674266",37,Open
+"Brekkvasselv, Norway",Brekkvasselv,Brekkvasselv,Tr�ndelag,7896,Norway,12,250,"64.847572, 13.014827",177,Open
+"Mellbystrand, Sweden",S�derleden 5,Mellbystrand,Halland,312 61,Sweden,20,150,"56.500904, 12.9573",12,Open
+"T�re, Sweden","By OKQ8 gas station, Klippgr�nd 2",T�re,Norrbotten,95040,Sweden,8,150,"65.911576, 22.657062",17,Open
+"Lille, France",55 route de Douai Lesquin,Lille,Hauts-de-France,59810,France,16,150,"50.583875, 3.088602",58,Open
+"Guarrom�n, Spain","salida 288, Pol�gono Industrial de Guadiel",Guarrom�n,Andalusia,23210,Spain,10,150,"38.143021, -3.722848",357,Open
+"Ulricehamn, Sweden",Falk�pingsv�gen 10,Ulricehamn,V�sterg�tland,52325,Sweden,20,150,"57.814003, 13.418759",178,Open
+"Kriegstetten, Switzerland",Kirchweg,Kriegstetten,Solothurn,4566,Switzerland,12,150,"47.175596, 7.598601",453,Open
+"Piacenza, Italy","127 Via Caorsana, MH Hotel Piacenza Fiera",Piacenza,Emilia-Romagna,29122,Italy,8,150,"45.039461, 9.753871",52,Open
+"Sorm�s, Hungary","M7-es f_�tvonal, 215-�s kilom�terk_, 8881",Sorm�s,Western Transdanubia,8881,Hungary,12,250,"46.460543, 16.906756",172,Open
+"Santiago de Compostela, Spain","R�a do Pa�s Vasco, 65",Santiago de Compostela,Galicia,15707,Spain,2,125,"42.91012, -8.493394",312,Open
+"Oppdal, Norway",Aunevegen 3,Oppdal,Tr�ndelag,7340,Norway,12,250,"62.59583, 9.689139",552,Open
+"Rygge, Norway","�stre Huggenesvei - behind Circle-K gas station by E6, exit Rygge airport",Rygge,Viken,1580,Norway,42,150,"59.38753, 10.751039",46,Open
+"Barnsley, UK",Church Lane by Tankersley Manor hotel,Barnsley,,S75 3DQ,United Kingdom,2,130,"53.489393, -1.486223",176,Open
+"Bregenz, Austria",Weidachstra�e 10,Bregenz,Vorarlberg,6900,Austria,20,138,"47.488536, 9.739797",415,Open
+"Mont-Saint-Michel, France",Za Le Point du Jour,Saint-Georges-de-Gr�haigne,Bretagne,35610,France,8,150,"48.568171, -1.543283",7,Open
+"Bruchsal, Germany",Kammerforststra�e 17,Bruchsal,Baden-W�rttemberg,76646,Germany,14,130,"49.138361, 8.562417",111,Open
+"Ciechocinek, Poland",Miko_aja Kopernika 56,Ciechocinek,Kuyavia-Pomerania,87-720,Poland,4,150,"52.874469, 18.773758",43,Open
+"Perth, UK",Broxden Ave,Perth,Tayside,PH2 0PX,United Kingdom,12,150,"56.386, -3.4792",83,Open
+"Zarechye, Russia","Skolkovskoye Shosse, 100 ________ 1",Zarechye,Moscow Oblast,143085,Russia,4,120,"55.695015, 37.380434",159,Open
+"Oxford, UK","Wheatley services, London road by M40, interchange 8A",Oxford,,OX33 1JL,United Kingdom,16,150,"51.7374, -1.0948",73,Open
+"Nimes, France",152 rue Claude Nicolas Ledoux,Nimes,Occitanie,30900,France,8,150,"43.816537, 4.345114",32,Open
+"Tarquinia, Italy","Km 83, SS 1 Via Aurelia",Tarquinia,Lazio,1016,Italy,10,150,"42.1831722, 11.7879767",39,Open
+"Brennero, Italy",by Plessi museum at the Brenner pass,Brennero,Trentino-South Tyrol,39041,Italy,24,250,"46.99533, 11.502136",1371,Open
+"G�tzkow, Germany",Am Kleinbahnhof 3,G�tzkow,Mecklenburg-Vorpommern,17506,Germany,10,125,"53.943896, 13.396869",19,Open
+"Warsaw, Poland","Belwederska 23 (Regent Warsaw Hotel, level -5)",Warsaw,Masovia,00-001,Poland,2,120,"52.207827, 21.029574",88,Open
+"Vaterstetten, Germany",Am Lerchenfeld 4,Vaterstetten,Bavaria,85599,Germany,18,250,"48.146661193201865, 11.790340101642",525,Open
+"Cagnes-sur-Mer, France",119 Avenue des Alpes,Cagnes-sur-Mer,Provence-Alpes-C�te d'Azur,6800,France,4,125,"43.666446, 7.127372",31,Open
+"Verona, Italy","Verona Crowne Plaza, Via Belgio 16",Verona,Veneto,37135,Italy,10,150,"45.412326, 10.970212",61,Open
+"Skj�k - Bismo, Norway",Skeimoplassen 8,Bismo,Innlandet,2690,Norway,18,250,"61.883135, 8.267249",396,Open
+"Mogendorf, Germany",Im Reimersheck 3,Mogendorf,Rhineland-Palatinate,56424,Germany,12,150,"50.482676, 7.75006",315,Open
+"Atalaya del Ca�avate, Spain",�rea 175,Atalaya del Ca�avate,Castilla-La Mancha,16710,Spain,10,150,"39.538687, -2.254555",818,Open
+"Slavonski Brod, Croatia","By APIOS gas station Istok exit from A3, Gospodarska ulica 11",Gornja Vrba,,35207,Croatia,4,150,"45.175641, 18.063889",96,Open
+"London - Sidcup, UK","Ruxley Manor Garden Centre, Maidstone Rd",Orpington,,DA14 5BQ,United Kingdom,15,250,"51.4128, 0.1343",58,Open
+"Kappel-Grafenhausen, Germany",Hauptstr. 201,Kappel-Grafenhausen,Baden-W�rttemberg,77966,Germany,10,150,"48.281347, 7.77755",162,Open
+"Aleksinac, Serbia",_itkova_ki put (bb),Aleksinac,Southern and Eastern Serbia,18220,Serbia,4,125,"43.528789, 21.709381",164,Open
+"Firenze, Italy",Via Tevere 23,Florence,Tuscany,50019,Italy,8,150,"43.810011, 11.177737",36,Open
+"Wokingham, UK",Mill Lane,Sindlesham,Wokingham,RG41 5DG,United Kingdom,16,138,"51.428346, -0.898911",37,Open
+"Guarda, Portugal",Travessa das Covas 31,Guarda,Centro,6300-388,Portugal,8,150,"40.559107, -7.230415",842,Open
+"La L�ch�re-les-Bains, France","Chemin des Marronniers, near Les Thermes",La L�ch�re,Auvergne-Rh�ne-Alpes,73260,France,8,150,"45.51877, 6.482522",440,Open
+"Aire du Jura, France","A39, Aire du Jura",Arlay,Bourgogne-Franche-Comt�,39140,France,12,250,"46.773935772378195, 5.5216493098633",259,Open
+"Levanger, Norway",Moafj�ra 14. By Magneten shopping center,Levanger,Tr�ndelag,7606,Norway,12,150,"63.734453, 11.281124",0,Open
+"Lyngdal, Norway",Fiboveien 1,Lyngdal,Agder,4580,Norway,36,250,"58.15653, 7.10298",12,Open
+"Bussigny, Switzerland",Route de Cond�mine 35,Bussigny,Vaud,1030,Switzerland,14,130,"46.556706, 6.561566",475,Open
+"Zadar, Croatia",66B Zemunik Gornji Ulica V,Zemunik Gornji,,23222,Croatia,6,125,"44.114082, 15.407112",87,Open
+"Brugge, Belgium",Koning Albert I-laan 242,Brugge,West Flanders,8200,Belgium,14,250,"51.170127, 3.197162",6,Open
+"Norrk�ping, Sweden",Koppargatan 30,Norrk�ping,�sterg�tland,60223,Sweden,20,150,"58.622192, 16.154991",6,Open
+"Reichertshofen, Germany",Am Auer Bach 1,Reichertshofen,Bavaria,85084,Germany,20,250,"48.645235, 11.520787",401,Open
+"Vuren, Netherlands",Azewijnseweg 9,Vuren,Gelderland,4214,Netherlands,12,150,"51.838994, 5.090603",-1,Open
+"Mo i Rana, Norway","Stigerplat�veien 2, by Circle K gas station",Mo i Rana,Nordland,8626,Norway,12,150,"66.307715, 14.152268",40,Open
+"Melide, Switzerland","Via Cantonale 13, Swissminiatur",Melide,Ticino,6815,Switzerland,10,125,"45.954229, 8.950579",273,Open
+"Aartselaar (SC), Belgium",Boomsesteenweg 6,Aartselaar,Antwerp,2630,Belgium,6,150,"51.1369638, 4.3773699",9,Open
+"Mont�limar, France",N7 Z.A. du Pav�,Saulce-sur-Rh�ne,Auvergne-Rh�ne-Alpes,26270,France,28,250,"44.6760522, 4.7963217",84,Open
+"Imperia, Italy",11 Via Garessio,Imperia,Liguria,18100,Italy,10,150,"43.89258, 8.039121",8,Open
+"Dorno Est, Italy","Autostrada A7 Genova-Milano, Dorno Autogrill area",Dorno,Lombardy,27020,Italy,6,150,"45.1473468, 8.9912729",88,Open
+"Breukelen, Netherlands",Stationsweg 91,Breukelen,Utrecht,3621 LK,Netherlands,28,150,"52.167863, 4.988514",0,Open
+"Vikes�, Norway","By Coop Extra store, Vikes�gata 1",Vikes�,Rogaland,4389,Norway,12,150,"58.63192, 6.077767",78,Open
+"Wittlich, Germany",Hof Breit,Wittlich,Rhineland-Palatinate,54516,Germany,10,150,"49.97003, 6.86175",197,Open
+"La Seu d'Urgell, Spain","Carrer del Bisbe Benlloch, 34",La Seu d'Urgell,Catalonia,25700,Spain,10,150,"42.359108, 1.462297",690,Open
+"Thiais, France",Rue du Luxembourg,Thiais,�le-de-France,94320,France,12,150,"48.754865, 2.373034",87,Open
+"Aire de Vidauban Sud, France",Aire de Vidauban Sud,Vidauban,Provence-Alpes-C�te d'Azur,83550,France,10,150,"43.414592, 6.452515",85,Open
+"Dordrecht, Netherlands",Laan van Europa 1600,Dordrecht,South Holland,3317 DB,Netherlands,16,150,"51.774425, 4.653024",-2,Open
+"�rskog, Norway",By Fjellstova on �rskogfjellet along E136/E39,�rskog,M�re og Romsdal,6240,Norway,12,150,"62.520404, 6.915983",338,Open
+"�ndalsnes, Norway","By Raumasenteret, along E136 at �ran",�ndalsnes,M�re og Romsdal,6300,Norway,12,150,"62.557729, 7.685328",7,Open
+"Stavanger, Norway",Parking at Jorenholmsgata 16,Stavanger,Rogaland,4013,Norway,16,250,"58.972104, 5.73698",3,Open
+"Ribeira de Pena, Portugal",Rua do Complexo Tur�stico de Lamelas 1,Ribeira de Pena,Norte,4870-110,Portugal,10,150,"41.503684, -7.801877",728,Open
+"Enk�ping, Sweden","By Dinners, Grusgatan 2",Enk�ping,Uppland,"74,595",Sweden,16,150,"59.658468, 17.076533",35,Open
+"Arna, Norway",By �yrane Torg shopping center,Indre Arna,Vestland,5260,Norway,20,150,"60.421749, 5.467271",3,Open
+"Mealhada, Portugal","Portagem Bairrada Center-Hotelaria, R. S�o Domingos 20",Mealhada,Centro,3050-983,Portugal,20,150,"40.37306, -8.4805",55,Open
+"Kung�lv, Sweden",Lilla Kongah�llav�gen 2,Kung�lv,Bohusl�n,442 90,Sweden,20,150,"57.8581639, 11.9982719",4,Open
+"Winsen, Germany",Scharmbecker Dorfstra�e 2,Winsen,Lower Saxony,21423,Germany,12,250,"53.35027379594935, 10.1475061076794",10,Open
+"Os, Norway","Byvegen 85, Rema 1000 Kuven",Os,Vestland,5200,Norway,14,150,"60.192788, 5.4652",24,Open
+"Fuengirola, Spain",Avenida del Higueron 48,Fuengirola,Andalusia,29640,Spain,8,150,"36.580783, -4.595893",126,Open
+"Fontainebleau, France","D152, Chemin De Melun",Ury,�le-de-France,77760,France,10,150,"48.3495627, 2.6067816",120,Open
+"Herbolzheim, Germany",Breisgauallee 2-4,Herbolzheim,Baden-W�rttemberg,79336,Germany,10,150,"48.227093, 7.753694",169,Open
+"Sondrio, Italy","Strada Statale dello Stelvio Km 22,3, Hotel Ristorante ""La Brace""",Forcola,Lombardy,23010,Italy,8,150,"46.164615, 9.677338",262,Open
+"Grums, Sweden","Ny�ngsgatan 1, by Rasta",Grums,V�rmland,66434,Sweden,16,150,"59.367618, 13.144922",73,Open
+"Besan�on, France",1 bis rue Victor Consid�rant,Chemaudin et Vaux,Bourgogne-Franche-Comt�,25770,France,8,150,"47.234539, 5.901153",265,Open
+"R�ldal, Norway",H�ra 52,R�ldal,Vestland,5760,Norway,12,150,"59.816824, 6.752226",650,Open
+"Troyes - Saint-Parres-aux-Tertres, France",Zone commerciale de Saint-Parres-aux-Tertres,Saint-Parres-aux-Tertres,Grand Est,10410,France,26,250,"48.293229, 4.130685",111,Open
+"Nebbenes, Norway","Nebbenes service area northbound, next to Nebbenes Kro",Eidsvoll Verk,Viken,2074,Norway,44,150,"60.312269, 11.145104",209,Open
+"Breda, Netherlands",Princenhagelaan 5,Breda,North Brabant,4813 DA,Netherlands,16,150,"51.577507, 4.729798",5,Open
+"Eurotunnel - Flexiplus Lounge, France",Boulevard de l'Europe,Coquelles,Hauts-de-France,62231,France,2,125,"50.929973, 1.813182",8,Open
+"Karlovac, Croatia","Banija, Bb",47000 Karlovac,,47000,Croatia,8,125,"45.513107, 15.547314",108,Open
+"Leiderdorp, Netherlands",Persant Snoepweg 2,Leiderdorp,South Holland,2353 KA,Netherlands,24,150,"52.1601396, 4.5491453",2,Open
+"Brumunddal, Norway",Mj�st�rnet,Brumunddal,Innlandet,2380,Norway,20,150,"60.876807, 10.930353",124,Open
+"Egerkingen, Switzerland",H�henstrasse 12,Egerkingen,Solothurn,4622,Switzerland,10,125,"47.326963, 7.805343",499,Open
+"Pratteln, Switzerland",Hardstrasse 55,Pratteln,Basel-Landschaft,4133,Switzerland,18,250,"47.524843, 7.682486",292,Open
+"Brinkum, Germany",Rudolf-Diesel-Strasse 7,Stuhr,,28816,Germany,12,150,"53.0282208, 8.8087104",7,Open
+"Mulhouse, France","Golden Tulip H�tel, Ile napoleon, Rue des C�vennes",Mulhouse,Grand Est,68390,France,8,150,"47.782016, 7.388299",242,Open
+"Plattling, Germany",Dr.-Walter-Bruch-Stra�e 1,Plattling,Bavaria,94447,Germany,20,250,"48.788682, 12.897229",318,Open
+"Albertville, France",Chemin du Chiriac,Albertville,Auvergne-Rh�ne-Alpes,73200,France,16,250,"45.65548, 6.365633",330,Open
+"Rauenberg, Germany",Hohenaspen 40/1,Rauenberg,Baden-W�rttemberg,69231,Germany,12,150,"49.273806, 8.695444",134,Open
+"Steg-Hohtenn, Switzerland",Besche Mattenstrasse 1,Steg-Hohtenn,Valais,3940,Switzerland,8,125,"46.310323, 7.74971",631,Open
+"Kortrijk, Belgium",President Kennedylaan,Kortrijk,West Flanders,8500,Belgium,12,150,"50.805626, 3.274434",26,Open
+"Borca di Cadore, Italy",Via Roma 15,Borca di Cadore,Veneto,32040,Italy,8,150,"46.435158, 12.222934",938,Open
+"'s-Hertogenbosch, Netherlands",Burgemeester Burgerslaan 50,Rosmalen,North Brabant,5245 NH,Netherlands,16,150,"51.720551, 5.333622",3,Open
+"Pfalzfeld, Germany",in der Scheib,Pfalzfeld,Rhineland-Palatinate,56291,Germany,16,150,"50.115761, 7.59807",466,Open
+"Storuman, Sweden",Bl� v�gen 219 by Qstar gas station,Storuman,Lappland,92331,Sweden,8,150,"65.092773, 17.108301",346,Open
+"Torsby, Sweden",By Coop Extra,Torsby,V�rmland,685 33,Sweden,14,150,"60.129704, 12.998069",90,Open
+"Plovdiv, Bulgaria",kv. Kamenitsa,Plovdiv,Plovdiv,4017,Bulgaria,4,150,"42.144521, 24.768837",161,Open
+"Quinto, Switzerland",16 Via di Mezzo,Quinto,Ticino,6776,Switzerland,10,125,"46.515263, 8.67061",1010,Open
+"Haverslev, Denmark","Jyllandsgade, N�rager",Haverslev,Nordjylland,9610,Denmark,16,150,"56.783428, 9.69082",53,Open
+"Newbridge (SC) - Edinburgh, UK",23 Cliftonhall Road,Edinburgh,Lothian,EH28 8PW,United Kingdom,16,250,"55.93391, -3.407749",49,Open
+"Hj�rring, Denmark",Sprog�vej 5,Hj�rring,Nordjylland,9800,Denmark,12,150,"57.455791, 10.04227",24,Open
+"�yer, Norway","By Circle K �yer, Str�mshuguvegen 1",�yer,Innlandet,2636,Norway,20,150,"61.243236, 10.434457",169,Open
+"Mosj�en North, Norway","Dolstadgata 19, by Uno-X",Mosj�en,Nordland,8663,Norway,10,150,"65.841737, 13.187839",0,Open
+"Stoke-on-Trent Southbound, UK","Welcome break southbound M6, Keele Motorway Services Area/Whitmore Road","Newcastle, Staffordshire",,ST5 5HG,United Kingdom,4,130,"52.99413, -2.290797",155,Open
+"Remouchamps, Belgium",Square Phillipe Gilbert 1,Remouchamps,Li�ge,4920,Belgium,10,150,"50.484271, 5.70141",140,Open
+"Eching, Germany",Dieselstra�e 3A,Eching,Bavaria,85386,Germany,12,250,"48.3076137, 11.6327579",464,Open
+"Aire de Cambarette, France",Aire de Cambarette Nord A8,Brignoles,Provence-Alpes-C�te d'Azur,83170,France,10,150,"43.424125, 5.989588",307,Open
+"Aire du Poulet de Bresse, France",A39 - Aire du Poulet de Bresse,Dommartin-l�s-Cuiseaux,Bourgogne-Franche-Comt�,71480,France,10,150,"46.496179, 5.310394",209,Open
+"Gouda, Netherlands",Harderwijkweg 3,Gouda,South Holland,2803 PW,Netherlands,16,150,"52.022955, 4.684605",1,Open
+"Alc�cer do Sal, Portugal",Avenida Jos� Saramago,Alcac�r do Sal,Alentejo,7580-000,Portugal,10,150,"38.391941, -8.513867",60,Open
+"Tordesillas, Spain","Hotel Resort El Montico, Ctra. Burgos Salamanca, KM. 147",Tordesillas,Castile and Le�n,47100,Spain,8,150,"41.516125, -4.943023",692,Open
+"Falkenberg, Sweden",Mellang�rdsv�gen 6,Falkenberg,Halland,311 50,Sweden,18,150,"56.93167, 12.51805",22,Open
+"Roma - North, Italy","Centro commerciale �Porta di Roma�, Yellow Car Parking level -2",Roma,Lazio,139,Italy,8,250,"41.969474, 12.540143",54,Open
+"Dem�nova, Slovakia",Dem�novsk� cesta,Liptovsky Mikulas,_ilina,031 01,Slovakia,4,150,"49.054644, 19.578833",639,Open
+"T�r�kb�lint, Hungary",Torb�gy u. 1,T�r�kb�lint,Central Hungary,2045,Hungary,12,250,"47.439444, 18.889835",175,Open
+"Hilpoltstein, Germany","An der Autobahn K 4, Autohof Hilpodrom",Hilpoltstein,Bavaria,91161,Germany,16,250,"49.160465, 11.26101",425,Open
+"Bamble, Norway","E18 northbound, Langr�nningen Circle K service station",Stathelle,Vestfold og Telemark,3960,Norway,20,250,"58.971256, 9.512438",108,Open
+"Uden, Netherlands",Rondweg 2,Uden,North Brabant,5406 NK,Netherlands,12,250,"51.6714, 5.6031",17,Open
+"Manchester South (SC), UK","396 Wellington Rd N, by Tesla store",Stockport,,SK4 5AD,United Kingdom,8,250,"53.430295, -2.179375",69,Open
+"Szeged, Hungary",Z�por �t,Szeged,Southern Great Plain,6728,Hungary,8,150,"46.274152, 20.10498",77,Open
+"Miskolc, Hungary",Pesti �t 9,Miskolc,Northern Hungary,3516,Hungary,8,150,"48.058139, 20.799306",111,Open
+"Duiven, Netherlands",Impuls 2,Duiven,Gelderland,6921 RK,Netherlands,24,250,"51.958931, 6.020418",7,Open
+"J�ckvik, Sweden",Byv�gen,J�ckvik,Lappland,930 95,Sweden,4,150,"66.390131, 16.96506",430,Open
+"Skei, Norway",J�lstravegen 3261,Skei,Vestland,6843,Norway,16,250,"61.575568, 6.483719",212,Open
+"Egilssta_ir, Iceland",Kaupvangur 7,Egilssta_ir,Eastern Region,700_,Iceland,2,150,"65.259594, -14.407004",41,Open
+"Seville, Spain","Calle Inca Garcilaso, 1",Sevilla,Andalusia,41092,Spain,10,150,"37.392573, -6.010369",9,Open
+"F�t, Hungary",Feh�rk_ utca 1.,F�t,Central Hungary,2151,Hungary,12,250,"47.580072, 19.16243",124,Open
+"Huittinen, Finland","ABC gas station, Loimijoentie 89",Huittinen,Satakunta,32700,Finland,6,250,"61.16844, 22.680099",50,Open
+"Buchelay, France",Avenue de la Durance,Buchelay,�le-de-France,78200,France,8,150,"48.990167, 1.671528",42,Open
+"Larissa South, Greece","Fashion City Outlet, 4th km K. Karamanli Palaia Ave., EO1, Larisa",Larissa,Thessaly,413 35,Greece,8,250,"39.605426, 22.441458",77,Open
+"Jerez, Spain",Ronda Aurora Boreal,Jerez de la Frontera,Andalusia,11408,Spain,10,150,"36.692559, -6.160618",23,Open
+"Flachau, Austria",Unterberggasse 240,Flachau,Salzburg,5542,Austria,18,125,"47.354626, 13.386021",920,Open
+"Brno, Czech Republic",U d�lnice 777,Mod_ice,South Moravian,664 42,Czech Republic,8,250,"49.138336, 16.630748",190,Open
+"Seljord, Norway",Ingrid Slettens veg 20 by Sj�ormen Kro,Seljord,Vestfold og Telemark,3840,Norway,12,250,"59.48116271911978, 8.6362650990486",123,Open
+"Leeds - Whitehouse St (SC), UK",7 Whitehouse Street,Leeds,,LS10 1AD,United Kingdom,8,250,"53.784591281445174, -1.532506942749",26,Open
+"Trzebownisko, Poland",Hotel Blue Diamond Active SPA,Nowa Wie_,Subcarpathia,36-001,Poland,4,150,"50.089246, 22.045561",197,Open
+"Tarragona, Spain",La Boella Tarragona exit 12 Autovia T-11,Tarragona,Catalonia,43110,Spain,2,150,"41.134294, 1.1683",52,Open
+"Angoul�me, France",122 Rue des Meneaux,Champniers,Nouvelle-Aquitaine,16430,France,8,250,"45.6944312, 0.1788031",68,Open
+"Atalanti East, Greece","Atalanti Rest Area, motorway 1 / E75 northbound",Atalanti,Central Greece,352 00,Greece,4,250,"38.66084, 23.071963",4,Open
+"Skarnes, Norway","By Slomarka Gjesteg�rd, Slomarka 4",Skarnes,Innlandet,2100,Norway,16,150,"60.248218, 11.74337",142,Open
+"Hilton Park Southbound, UK",M6 southbound between Junction 10A and 11,Wolverhampton,,WV11 2AT,United Kingdom,12,150,"52.644074, -2.054209",150,Open
+"Aksdal South, Norway",Behind Shell station at Aksdal center,Aksdal,Rogaland,5570,Norway,18,250,"59.421338, 5.443543",40,Open
+"Radom, Poland",Toru_ska 3,Radom,Masovia,26-616,Poland,4,120,"51.379569, 21.125477",174,Open
+"Zevenaar, Netherlands",Doesburgseweg 39,Zevenaar,Gelderland,6902 PL,Netherlands,8,150,"51.94066, 6.0818",10,Open
+"Katowice - Jankego, Poland","Genera_a Zygmunta Waltera Jankego, 15c",Katowice,Silesia,40-615,Poland,4,150,"50.220179, 18.990308",289,Open
+"Hilton Park Northbound, UK",M6 Motorway (N) Junction 10A/11,Wolverhampton,,WV11 2AT,United Kingdom,12,150,"52.644063, -2.058389",152,Open
+"Assen, Netherlands",Balkenweg 1,Assen,Drenthe,9405 CC,Netherlands,20,250,"52.992932, 6.524337",13,Open
+"Apeldoorn Oost, Netherlands",Landgoedlaan 26,Apeldoorn,Gelderland,7325 AW,Netherlands,20,250,"52.205041, 6.016368",9,Open
+"Storlien, Sweden","Vintergatan, by new shopping center",Storlien,J�mtland,830 19,Sweden,8,150,"63.31038, 12.109508",601,Open
+"P�rigueux, France","ZA Grand Font,",Boulazac Isle Manoire,Nouvelle-Aquitaine,24330,France,8,250,"45.152092, 0.791146",152,Open
+"Loul�, Portugal",Av. do Algarve,Almancil,Algarve,8135-182,Portugal,8,250,"37.097586, -7.9978675",77,Open
+"Ikast, Denmark",Uhreg�rds Alle 6,Ikast,Midtjylland,7430,Denmark,16,250,"56.121583, 9.172972",62,Open
+"Herzsprung, Germany","Autohof Herzsprung bei A24, J�gerstra�e 4",Herzsprung,Brandenburg,16909,Germany,18,250,"53.06735, 12.53333",53,Open
+"Saint-Quentin, France",Rue des Marlettes,Fayet,Hauts-de-France,2100,France,20,250,"49.858948, 3.253782",84,Open
+"Akersloot, Netherlands",Geesterweg 1A,Akersloot,North Holland,1921 NV,Netherlands,8,250,"52.547626, 4.722645",2,Open
+"Svolv�r, Norway",Trollfjordgata,Svolv�r,Nordland,8300,Norway,4,150,"68.233259, 14.560533",0,Open
+"Middelburg, Netherlands",Paukenweg 3,Middelburg,Zeeland,4337 WH,Netherlands,12,250,"51.4802623, 3.6364364",-1,Open
+"Herrieden, Germany","Outlet Center, Am Eichelberg 1",Herrieden,Bavaria,91567,Germany,12,250,"49.257951, 10.501761",479,Open
+"Jokkmokk, Sweden",Klockarv�gen 17,Jokkmokk,Lappland,962 32,Sweden,6,250,"66.605666, 19.824713",253,Open
+"Munchen - Pasing Arcaden, Germany","Floor -2 of the Pasing Arcade underground parking, entry from Offenbachstra�e 3",M�nchen,Bavaria,81241,Germany,12,250,"48.147904, 11.465776",525,Open
+"Niort, France",Aire de Poitou,Vouill�,Nouvelle-Aquitaine,79230,France,12,250,"46.298292, -0.375188",52,Open
+"Notodden, Norway",Semsvegen 40 - by Rema 1000,Notodden,Vestfold og Telemark,3676,Norway,12,250,"59.566378, 9.219203",22,Open
+"Gol West, Norway","By Biltema caf�, Hahaugvegen 31",Gol,Viken,3550,Norway,24,150,"60.697433, 8.953477",219,Open
+"Colchester, UK","London Rd, Marks Tey",Colchester,,CO6 1DU,United Kingdom,12,150,"51.8807, 0.7889",38,Open
+"Bristol - Lysander Road (SC), UK","Lysander Road, Westbury-on-Trym",Bristol,,BS10 7UB,United Kingdom,6,120,"51.522889, -2.609222",49,Open
+"Aranda de Duero, Spain","N-I, Km 152",Fuentespina,Castile and Le�n,9471,Spain,8,150,"41.62361, -3.687539",829,Open
+"Arvidsjaur, Sweden",Storgatan 43,Arvidsjaur,Lappland,93333,Sweden,6,150,"65.590494, 19.183823",400,Open
+"Eschborn, Germany",Elly-Beinhorn-Stra�e 3-7,Eschborn,Hesse,65760,Germany,16,250,"50.1343207, 8.5607616",128,Open
+"Fort William, UK",MacFarlane Way,Fort William,,PH33 6AN,United Kingdom,6,250,"56.821388, -5.103697",7,Open
+"Storjord, Norway","By Storjord turistsenter, E6",Storjord,Nordland,8255,Norway,8,150,"66.814045, 15.401738",103,Open
+"Fossvogur, Iceland",Kringlum_rarbraut 100,Reykjavik,Capital Region,108,Iceland,4,120,"64.117675, -21.899378",8,Open
+"Montb�liard, France",ZAC du Pied des Gouttes,Montb�liard,Bourgogne-Franche-Comt�,25200,France,16,250,"47.500266, 6.811016",335,Open
+"Barbastro, Spain",Hotel Rey Sancho Ram�rez,Huesca,Aragon,22300,Spain,4,250,"42.033344, 0.104199",384,Open
+"Dartford, UK","Bluewater, Greenhithe, Kent",London,,DA9 9ST,United Kingdom,17,150,"51.438052, 0.26879",16,Open
+"Gatwick (SC), UK",3 County Oak Way,Crawley,,RH11 7ST,United Kingdom,8,250,"51.135183, -0.191314",61,Open
+"Heathrow Airport Terminal 5, UK","Hilton London Heathrow Airport Terminal 5, Poyle Rd",Slough,,SL3 0FF,United Kingdom,24,250,"51.478181, -0.515753",22,Open
+"Les Herbiers, France",9 Avenue de Arborescente,Les Herbiers,Pays de la Loire,85500,France,8,250,"46.889425, -1.034616",115,Open
+"Wyboston, UK",Great N Road,Wyboston,Bedford,MK44 3AL,United Kingdom,10,250,"52.2024, -0.2915",21,Open
+"Erharting, Germany",Neuh�usl 1,Erharting,Bavaria,84513,Germany,12,250,"48.282736, 12.554843",403,Open
+"W�rth, Germany",Luitpoldpark,W�rth an der Isar,Bavaria,84109,Germany,12,250,"48.625639, 12.320222",373,Open
+"Vestby, Norway",Senterveien 6,Vestby,Viken,1540,Norway,40,250,"59.602863, 10.741169",72,Open
+"Martigny, Switzerland",March� Relais St. Bernard by A9,Martigny,Valais,1920,Switzerland,20,250,"46.126595, 7.060944",451,Open
+"Lugo, Spain","Av. Infanta Elena, 213",Lugo,Galicia,27003,Spain,14,250,"43.0364661, -7.5690078",463,Open
+"Amesbury, UK",Solstice Park Avenue,Salisbury,Wiltshire,SP4,United Kingdom,16,250,"51.1771, -1.7564",89,Open
+"Atalanti West, Greece","Atalanti Rest Area, motorway 1 / E75 southbound",Atalanti,Central Greece,352 00,Greece,4,250,"38.6588362, 23.0719843",6,Open
+"Kostom_oty, Poland",Droga Krajowa 5,Kostom_oty,Lower Silesia,55-311,Poland,4,150,"51.036946, 16.583294",160,Open
+"Markaryd, Sweden",Ulvarydsv�gen,Markaryd,Sm�land,285 91,Sweden,20,250,"56.444823, 13.603767",100,Open
+"Northampton (SC), UK",1 Ferris Row,Northampton,,NN3 9HX,United Kingdom,8,250,"52.2425, -0.8341",55,Open
+"Uxbridge, UK",High Street,Uxbridge,Uxbridge,UB8 1GE,United Kingdom,12,150,"51.5459212, -0.4749488",49,Open
+"Elverum West, Norway",By McDonalds/Extra at Torolf Storsveens veg 22/26,Elverum,Innlandet,2406,Norway,28,250,"60.887582, 11.515705",199,Open
+"Pozna_, Poland","City Park Hotel & Residence, Wyspia_skiego 26A",Pozna_,Greater Poland,60-751,Poland,6,150,"52.400285, 16.893091",85,Open
+"Meerkerk, Netherlands",Energieweg 116,Meerkerk,Utrecht,4231 DJ,Netherlands,24,250,"51.899615, 4.982857",0,Open
+"Lifton, UK",1 Fore St.,Lifton,,PL16 0AA,United Kingdom,8,150,"50.643377, -4.284553",84,Open
+"Leer Ems Park, Germany","Ems-Park, N�ttermoorer Str. 2",Leer (Ostfriesland),Lower Saxony,26789,Germany,16,250,"53.259691, 7.45576",-1,Open
+"Kautokeino, Norway","Baktevarri 1, 9520",Kautokeino,Troms og Finnmark,9520,Norway,4,250,"69.020425, 23.04871",343,Open
+"Maurset, Norway",Sjonaleitsvegen 2,V�ringsfossen,Vestland,5785,Norway,12,250,"60.41054, 7.325091",778,Open
+"Oxford - Redbridge, UK",Redbridge Park and Ride,Oxford,Oxford,,United Kingdom,12,250,"51.72969, -1.24929",57,Open
+"M�cke, Germany",Gottesrain 2,M�cke,Hesse,35325,Germany,10,250,"50.645417, 8.989917",314,Open
+"Gj�vik, Norway",6 Jernbanesvingen,Gj�vik,Innlandet,2821,Norway,24,250,"60.801012, 10.692058",126,Open
+"Wismar, Germany",Querstrasse 1,Wismar,Mecklenburg-Vorpommern,23970,Germany,12,250,"53.878994, 11.454682",56,Open
+"Inverness, UK",Rose St,Inverness,Highland,IV1 1NQ,United Kingdom,6,150,"57.481303, -4.226404",11,Open
+"Parma North, Italy","Via Rocco Bormioli, 33/A, Centro Euro Torri",Parma,Emilia-Romagna,43122,Italy,20,250,"44.8210758, 10.3364031",45,Open
+"Berlin EUREF-Campus, Germany",EUREF-Platz,Berlin,Berlin,10829,Germany,12,250,"52.480894, 13.355937",43,Open
+"Ljusdal, Sweden",Norra J�rnv�gsgatan 36,Ljusdal,H�lsingland,827 32,Sweden,11,250,"61.829746, 16.093612",141,Open
+"Istanbul Asia, Turkey","P2, Emaar shopping centre, �nalan, Libadiye Cd. No:88,",�sk�dar/_stanbul,,34700,Turkey,8,250,"41.004568, 29.07231",82,Open
+"Nice, France",606 Boulevard du Mercantour,Nice,Provence-Alpes-C�te d�Azur,6200,France,16,250,"43.727745, 7.186437",39,Open
+"Asten, Austria",Handelsring 7,Asten,Upper Austria,4481,Austria,12,250,"48.2212, 14.407208",256,Open
+"King's Lynn, UK","Beveridge Way, Hardwick Narrow",King's Lynn,Norfolk,PE30 4NB,United Kingdom,8,250,"52.73516519868067, 0.4138348756162883",6,Open
+"Banbury, UK",15 Lockheed Cl,Banbury,,OX16 1LX,United Kingdom,12,250,"52.073571, -1.342005",100,Open
+"Ulm, Germany",Hotel und Rasthaus Seligweiler Seligweiler 1,Ulm,Baden-W�rttemberg,89081,Germany,38,250,"48.456694, 10.030074",568,Open
+"Athens, Greece",Leof. Kifisias 37A,Marousi,Attica,151 23,Greece,6,150,"38.035, 23.790957",168,Open
+"Grosseto, Italy","snc, Via Ecuador",Grosseto,Tuscany,58100,Italy,8,150,"42.789258, 11.115675",12,Open
+"Leusden, Netherlands",Philipsstraat 18,Leusden,Utrecht,3833 LC,Netherlands,12,250,"52.1438244, 5.4169032",4,Open
+"Lillesand - Circle K, Norway",Kjerlingland next to Circle K,Lillesand,Agder,4790,Norway,24,150,"58.2365936579024, 8.298910260200502",90,Open
+"Leicester, UK",Grove Way,Fosse Park,Enderby,LE19 1UT,United Kingdom,8,250,"52.5949694, -1.181623",61,Open
+"Gr�nheide, Germany",Tesla-Stra�e,Gr�nheide,Brandenburg,15537,Germany,19,250,"52.39134, 13.79612",44,Open
+"Tinqueux, France",Route de Soissons,Tinqueux,Grand Est,51430,France,12,250,"49.252877, 3.975955",124,Open
+"Montlu�on, France","Technopole de la Loue, sortie 37",Saint-Victor,Auvergne-Rh�ne-Alpes,3410,France,8,250,"46.37831, 2.586475",199,Open
+"Kirkjub�jarklaustur, Iceland",Klausturvegur 6,Kirkjub�jarklaustur,Southern Region,880,Iceland,4,250,"63.788946, -18.051878",38,Open
+"Lu_mierz, Poland",Lanowa 4,Lucmierz,_�d_,95-100,Poland,8,250,"51.887, 19.384297",145,Open
+"Sollentuna, Sweden","by Max burger, Breddenv�gen",Sollentuna,Uppland,192 79,Sweden,14,250,"59.496093, 17.924441",18,Open
+"Kolding, Denmark",Skovvangen 42,Kolding,Syddanmark,6000,Denmark,16,250,"55.512596, 9.462833",59,Open
+"Zwolle, Netherlands",Nieuwleusenerdijk 1,Zwolle,Overijssel,8028,Netherlands,24,250,"52.531375, 6.157279",0,Open
+"Piding, Germany",Lattenbergstra�e 13,Piding,Bavaria,83451,Germany,8,250,"47.764132, 12.904263",457,Open
+"Benavente, Spain","Centro de Transportes, Calle Simon Bolivar",Benavente,Castile and Le�n,49600,Spain,8,250,"42.0076352, -5.6633678",710,Open
+"Tanum, Sweden","by Tanum Shopping center, Brehogsv�gen 6",Tanum,Bohusl�n,457 32,Sweden,24,150,"58.72117, 11.34538",49,Open
+"Varangerbotn, Norway","E6, by Varangerkroa",Varangerbotn,Troms og Finnmark,9840,Norway,3,250,"70.172139, 28.555323",9,Open
+"Labouheyre, France",67 All�e de Gen�ts,Labouheyre,Nouvelle-Aquitaine,40210,France,8,250,"44.2028103, -0.9268266",72,Open
+"Zuidbroek, Netherlands",Burgemeester Otmaweg 2,Zuidbroek,Groningen,9636 EM,Netherlands,8,250,"53.169573, 6.853042",1,Open
+"Sulz-V�hringen, Germany",Eythstra�e 16a by 24-TOTAL Autohof,V�hringen,Baden-W�rttemberg,72189,Germany,12,250,"48.343115, 8.662612",495,Open
+"Sta_arsk�li, Iceland",N1 - Sta_arsk�li,Sta_ur,Northwestern Region,500,Iceland,8,250,"65.14441, -21.083849",17,Open
+"Lippetal, Germany",Str�ngenbach 1,Lippetal,North Rhine-Westphalia,59510,Germany,8,250,"51.695531, 7.96733",66,Open
+"Bulle, Switzerland",Rue de l'Industrie 31,Bulle,Fribourg,1630,Switzerland,8,250,"46.624995, 7.037417",775,Open
+"Obfelden - A4 Southbound, Switzerland",Eni,Obfelden,Zurich,8912,Switzerland,12,250,"47.272015, 8.437738",484,Open
+"Weibersbrunn, Germany","Best Western Hotel Brunnenhof, Hauptstra�e 231",Weibersbrunn,Bavaria,63879,Germany,16,250,"49.934792, 9.353691",390,Open
+"Birmingham-St Andrews, UK",Small Heath,Birmingham,Birmingham,B10 0BW,United Kingdom,16,250,"52.4713, -1.8742",111,Open
+"Braak, Germany",Braaker Bogen 33,Braak,Schleswig-Holstein,22145,Germany,12,250,"53.617854, 10.239499",49,Open
+"Leira, Norway",Oslovegen 700,Leira i Valdres,Innlandet,2920,Norway,16,250,"60.969587, 9.29115",370,Open
+"Hermsdorf, Germany",Kraftsdorfer Str.,Hermsdorf,Thuringia,7629,Germany,12,250,"50.889767, 11.871249",347,Open
+"Aire du Granier, France",Aire du Granier,Saint-Jeoire-Prieur�,Auvergne-Rh�ne-Alpes,73800,France,12,250,"45.525412, 5.975084",316,Open
+"Aire de la Vend�e, France",A83 Route des Estuaires,Sainte-Hermine,Pays de la Loire,85210,France,9,250,"46.5732276, -1.117874",33,Open
+"Norwich - East, UK","Plot 7, Broadland Gate Business Park",Norwich East,Norwich,NR7 0,United Kingdom,8,250,"52.62754, 1.38392",24,Open
+"Affoltern - A4 Northbound, Switzerland",Moosbachstrasse 1,Affoltern am Albis,Zurich,8910,Switzerland,12,250,"47.27111, 8.43981",482,Open
+"Braintree, UK","Edison Way, Great Notley",Braintree,Essex,CM77 7AP,United Kingdom,6,250,"51.8526, 0.5224",76,Open
+"Liertoppen, Norway",By entrance A of Liertoppen shopping center,Lierskogen,Viken,3420,Norway,40,250,"59.808633, 10.299023",229,Open
+"Skaidi, Norway",Skaidiplassen,Kvalsund,Troms og Finnmark,9620,Norway,3,250,"70.431958, 24.506893",69,Open
+"Ko_ice, Slovakia",Parkovisko Optima,Ko_ice,Ko_ice,040 11,Slovakia,4,250,"48.695112, 21.235596",234,Open
+"Borl�nge, Sweden",Bygatan 33,Borl�nge,Dalarna,784 34,Sweden,12,250,"60.478749, 15.438795",130,Open
+"Kristinehamn, Sweden",Bartilsbrov�gen 4,Kristinehamn,V�rmland,681 43,Sweden,20,250,"59.314807, 14.147564",102,Open
+"Dartford (SC), UK","Unit 3 Capstan Court, Crossways Business Park",Dartford,,DA2 6SB,United Kingdom,12,250,"51.4538, 0.2478",5,Open
+"Oberhonnefeld, Germany",Westerwaldstra�e 10,Oberhonnefeld,Rhineland-Palatinate,56587,Germany,40,250,"50.562473, 7.525672",385,Open
+"Uddevalla - Hogstorp, Sweden",Hogstorp 249,Hogstorp,Bohusl�n,45195,Sweden,12,250,"58.393159, 11.758273",60,Open
+"St. Gallen - Shopping Arena, Switzerland",Z�rcherstrasse 464,St. Gallen,St. Gallen,9015,Switzerland,16,250,"47.408564, 9.306669",653,Open
+"Frechen, Germany",Europaallee,Frechen,North Rhine-Westphalia,50226,Germany,16,250,"50.917912, 6.833254",62,Open
+"Dublin - Sandyford (SC), Ireland",92 Bracken Rd,"Sandyford, Dublin",,D18 CY92,Ireland,4,250,"53.274232, -6.21746",97,Open
+"Rugby, UK",A426,Rugby,,CV23 0AR,United Kingdom,12,250,"52.4098, -1.251",128,Open
+"Adda Nord, Italy",Adda Nord,Caravaggio,Lombardy,24043,Italy,4,250,"45.511805, 9.63561",120,Open
+"Brunnthal, Germany",Zusestra�e 7,Brunnthal,Bavaria,85649,Germany,12,250,"48.039667, 11.661547",571,Open
+"Harderwijk, Netherlands",Boekhorstlaan 1,Harderwijk,Gelderland,3847 LP,Netherlands,16,250,"52.33582, 5.64362",7,Open
+"Hitra, Norway",J�sn�ya - close to Rema 1000 Sandstad,Sandstad,Tr�ndelag,7246,Norway,8,250,"63.521556, 9.109575",1,Open
+"El Ejido, Spain","Parque Comercial Copo, A-389",El Ejido,Andalusia,4700,Spain,8,250,"36.752423, -2.805312",78,Open
+"Link�ping, Sweden",Norra Svedengatan,Link�ping,�sterg�tland,582 73,Sweden,12,250,"58.435448, 15.590902",39,Open
+"Bochum - Ruhr Park, Germany",Am Einkaufszentrum 1,Bochum,North Rhine-Westphalia,44791,Germany,16,250,"51.495061, 7.284797",112,Open
+"Dorking, UK",Denbies Wine Estate,London Rd,Dorking,RH5 6AA,United Kingdom,8,250,"51.2476987, -0.3308733",50,Open
+"Flint, UK",Northop Rd,"Flint Mountain, Flint",Wales,CH6 5QG,United Kingdom,8,250,"53.232261, -3.14159265359",65,Open
+"Volda, Norway","Torvmyrvegen, next to E39",Volda,M�re og Romsdal,6100,Norway,12,250,"62.140694, 6.090757",66,Open
+"Mariestad, Sweden",Storeg�rdsv�gen,Mariestad,V�sterg�tland,542 35,Sweden,16,250,"58.678297, 13.812844",62,Open
+"Rovaniemi, Finland","Rinteenkulma Shopping Centre, Koskikatu 25",Rovaniemi,Lapland,96200,Finland,4,250,"66.502039, 25.722223",93,Open
+"Hvolsv�llur, Iceland",10 Austurvergur,Hvolsv�llur,Southern Region,860,Iceland,3,250,"63.752401, -20.236172",27,Open
+"Nottuln, Germany",Beisenbusch 5,Nottuln,Lower Saxony,48301,Germany,16,250,"51.911449, 7.398727",74,Open
+"Kemptthal, Switzerland",Kemptpark 12,Kemptthal,Zurich,8310,Switzerland,12,250,"47.451884, 8.704522",471,Open
+"Irxleben, Germany",Gewerbestr. 25,Hohe B�rde,Saxony-Anhalt,39167,Germany,12,250,"52.170971, 11.484885",128,Open
+"V�lizy 2, France",2 Avenue de l'Europe,V�lizy-Villacoublay,�le-de-France,78140,France,16,250,"48.7838175, 2.2209669",168,Open
+"Molde, Norway","Fannestrandvegen 70, behind Circle K station",Molde,M�re og Romsdal,6416,Norway,12,250,"62.738882, 7.19841",3,Open
+"Lutterberg, Germany",Triftstra�e 11,Staufenberg,Lower Saxony,34355,Germany,16,150,"51.370219, 9.633905",376,Open
+"Montauban, France",445 Route du Nord,Montauban,Occitanie,82000,France,16,250,"44.036419, 1.378375",99,Open
+"Colmar, France","Zone commerciale de Buhlfeld, Parking Cora",Houssen,Grand Est,68125,France,12,250,"48.1284726, 7.3692953",185,Open
+"Waiblingen, Germany",Stuttgarter Str. 137,Waiblingen,Baden-W�rttemberg,71332,Germany,12,250,"48.821576, 9.296583",282,Open
+"Skien, Norway",Henrik Ibsens gate 1,Skien,Vestfold og Telemark,3724,Norway,9,250,"59.206551, 9.609387",6,Open
+"Soltau, Germany",Rahrsberg 7,Soltau,Lower Saxony,29614,Germany,20,250,"52.983088, 9.9268767",80,Open
+"Rabat, Morocco",Bp 450 Quartier Aviation,Rabat,,10000,Morocco,4,150,"33.990308, -6.838415",69,Open
+"Mansfield - East Midlands Designer Outlet, UK",Mansfield Road,Alfreton,,DE55 2JW,United Kingdom,8,250,"53.10912, -1.31227",140,Open
+"Torrent - Southbound, Spain","Autov�a del Mediterr�neo, Km 345, 5",Torrent,Valencia,46900,Spain,2,150,"39.400207, -0.492621",94,Open
+"Torrent - Northbound, Spain","Autov�a del Mediterr�neo, Km. 519 Spain",Torrent,Valencia,46900,Spain,2,150,"39.401127, -0.492107",93,Open
+"K�sching, Germany",Ruppertswies 4,K�sching,Bavaria,85092,Germany,20,250,"48.811375, 11.479891",384,Open
+"Tournus, France",Rue Georges Mazoyer,Tournus,Bourgogne-Franche-Comt�,71700,France,20,250,"46.576917, 4.899323",223,Open
+"Saintes Nord, France",94 Cours du Mar�chal Leclerc,Saintes,Nouvelle-Aquitaine,17100,France,20,250,"45.753611, -0.653222",40,Open
+"Erftstadt, Germany","An der Patria, across from Jet gas station",Erftstadt,North Rhine-Westphalia,50374,Germany,28,250,"50.796469, 6.780077",100,Open
+"Timi_oara, Romania",Bulevardul Revolu_iei din 1989 2A,Timi_oara,Vest,300085,Romania,6,250,"45.755123, 21.233001",90,Open
+"Hudiksvall, Sweden",Medskog Norra 1,Hudiksvall,H�lsingland,82440,Sweden,16,250,"61.715109, 17.042695",53,Open
+"Weiterstadt, Germany",Robert-Koch-Stra�e 1A,Weiterstadt,Hesse,64331,Germany,8,250,"49.896466, 8.614553",116,Open
+"Emmen, Netherlands",Verlengde Herendijk 50,Nieuw Amsterdam,Drenthe,7833 JD,Netherlands,12,250,"52.72355, 6.883472",12,Open
+"Enfield, Ireland","The Johnstown Estate, Johnstown",Enfield,,,Ireland,6,250,"53.405468, -6.839554",76,Open
+"Denkendorf, Germany",Marie-Curie-Stra�e,Denkendorf,Baden-W�rttemberg,73770,Germany,12,250,"48.707, 9.306556",347,Open
+"Bensheim, Germany",An der Riedwiese 5,Bensheim,Baden-W�rttemberg,64625,Germany,20,250,"49.6721312, 8.6024176",97,Open
+"Kokkola, Finland","Heinolankaari 2, by ABC station",Kokkola,South Ostrobothnia,67700,Finland,6,250,"63.830141, 23.148574",8,Open
+"B�gles, France","Centre commercial Rives d�Arcins, Bordeaux bypass (Rocade), Exit 20",B�gles,Nouvelle-Aquitaine,33130,France,16,250,"44.793584, -0.532",5,Open
+"Saint-Gaudens, France",10 Avenue du Cagire,Estancarbon,Occitanie,31800,France,8,250,"43.11681, 0.76693",386,Open
+"Marne-la-Vall�e, France",2 All�e des Portes de la For�t Coll�gien,Coll�gien,�le-de-France,77090,France,12,150,"48.830877, 2.678019",106,Open
+"Szigetszentmikl�s, Hungary",H�ros utca 120,Szigetszentmikl�s,Central Hungary,2310,Hungary,20,250,"47.383317, 19.026694",103,Open
+"W�rrstadt, Germany",Sophie-Opel-Str. 4,W�rrstadt,Rhineland-Palatinate,55286,Germany,8,250,"49.839903, 8.143498",228,Open
+"Deventer, Netherlands",Birnieweg 4,Deventer,Overijssel,7418 HH,Netherlands,20,250,"52.234207, 6.210881",7,Open
+"Newark, UK","Maltings Retail Park, N Gate",Newark,,NG24 1HD,United Kingdom,10,250,"53.081235, -0.806391",16,Open
+"Bucharest, Romania",Calea Floreasca,Bucure_ti,Bucure_ti,14476,Romania,6,250,"44.478187, 26.103421",82,Open
+"Lugano Sud, Switzerland","Calzedonia, Via Cantonale",Grancia,Ticino,6916,Switzerland,12,250,"45.974786, 8.92796",298,Open
+"Bad Oeynhausen, Germany",Mindener Str. 22,Bad Oeynhausen,North Rhine-Westphalia,32547,Germany,12,250,"52.214135, 8.815111",50,Open
+"Sarzana, Italy","Centro commerciale �CentroLuna�, via Variante Cisa",Sarzana,Liguria,19038,Italy,12,250,"44.117291, 9.945708",17,Open
+"Ullevaal, Norway","Bergslia 75J, Ullevaal Stadion P-hus - Aimo Park",Oslo,Oslo,855,Norway,20,250,"59.950236915659765, 10.737472772598",101,Open
+"Cluj Napoca, Romania",Strada Avram Iancu 500,Flore_ti,Nord-Vest,407280,Romania,8,250,"46.753784, 23.532768",362,Open
+"Sillekrog, Sweden","OKQ8, L�stringe Sillekrog",Tystberga,S�dermanland,611 74,Sweden,8,150,"58.918156, 17.367987",53,Open
+"Wien - Gewerbepark Stadlau, Austria",Gewerbeparkstra�e 4-6,Vienna,Vienna,1220,Austria,16,250,"48.247224, 16.464421",160,Open
+"Hengelo, Netherlands",Bornsestraat 400,Hengelo,Overijssel,7556 BN,Netherlands,16,250,"52.287238, 6.773243",14,Open
+"Namur, Belgium",Chemin du Fort du Suarl�e,Rhisnes,Namur,5080,Belgium,15,250,"50.485513, 4.7961364",205,Open
+"Varberg, Sweden",Gunnestorpsv�gen,Varberg,Halland,432 48,Sweden,20,250,"57.168401, 12.275437",12,Open
+"Adderstone, UK",Adderstone Garage,"Warenford, Belford",,NE70 7JU,United Kingdom,6,250,"55.564568, -1.791857",85,Open
+"Kl�fta, Norway","By Burger King Kl�fta, Prestmoen 27",Kl�fta,Viken,2040,Norway,20,250,"60.079501, 11.149765",164,Open
+"F�vang, Norway","Stasjonsveien 9, by Tunet kro",F�vang,Innlandet,2634,Norway,16,250,"61.454035, 10.189197",183,Open
+"Lillehammer Strandtorget, Norway","Strandpromenaden, by Strandtorget shoppingcenter",Lillehammer,Innlandet,2609,Norway,20,250,"61.11454, 10.447179",123,Open
+"Kirke S�by, Denmark",Landevejen 51,Kirke S�by,Sj�lland,4060,Denmark,16,250,"55.640024, 11.830728",54,Open
+"Catania, Italy",1 Via Salvatore Quasimodo,Catania,Sicily,95030,Italy,4,250,"37.551544, 15.066791",282,Open
+"Plauen, Germany",�u�ere Reichenbacher Str. 64,Plauen,Saxony,8529,Germany,12,250,"50.4974681, 12.1703229",368,Open
+"Rijswijk, Netherlands",Laan van Hoornwijck 29,Rijswijk,South Holland,2289 DG,Netherlands,18,250,"52.048281, 4.349134",1,Open
+"Lycksele, Sweden",Storgatan 40,Lycksele,Lappland,921 31,Sweden,8,250,"64.59625, 18.674806",232,Open
+"Hemsbach, Germany",Seeweg 8,Hemsbach,Baden-W�rttemberg,69502,Germany,12,250,"49.59402, 8.632477",98,Open
+"Teruel, Spain","km 92, La Puebla de Valverde",Teruel,Aragon,44450,Spain,12,250,"40.2176138, -0.93962088",1155,Open
+"Carsoli Oricola, Italy","Via Tiburtina, Km 68,500",Oricola,Abruzzo,67063,Italy,8,150,"42.082194, 13.060417",594,Open
+"Kerpen, Germany",Kerpener Str. 150,Kerpen,North Rhine-Westphalia,50170,Germany,19,250,"50.897701, 6.682074",77,Open
+"Montpellier, France",2 place de Lisbonne,Montpellier,Occitanie,34000,France,16,250,"43.6024666, 3.9204733",25,Open
+"�l, Norway","�lingen shopping, Myren 19",�l,Viken,3570,Norway,20,250,"60.630096, 8.563888",452,Open
+"Vinstra North, Norway",96 Vinstragata,Vinstra,Innlandet,2640,Norway,20,250,"61.59452, 9.726808",261,Open
+"Parly 2, France",Le Chesnay,Le Chesnay-Rocquencourt,�le-de-France,78150,France,12,250,"48.8270072, 2.1189786",133,Open
+"Oristano, Italy",Centro Commerciale Via Dublino,Oristano,Sardinia,9170,Italy,4,150,"39.8901246, 8.5997914",8,Open
+"Blois, France",Rue des 11 Arpents,Blois,Centre-Val de Loire,41000,France,16,250,"47.61154, 1.339214",109,Open
+"Sassenheim, Netherlands",Warmonderweg 8,Sassenheim,South Holland,2171 AH,Netherlands,12,250,"52.213169, 4.503542",1,Open
+"Karasjok, Norway",Stuorraluohkka 1 next to Circle-K,Karasjok,Troms og Finnmark,9735,Norway,4,200,"69.47193, 25.509494",152,Open
+"Fokser�d, Norway",Fokser�dveien 23,T�nsberg,Vestfold og Telemark,3241,Norway,24,250,"59.179625, 10.20931",123,Open
+"Alcobendas, Spain","Moraleja Green, Av. de Europa, 13,",Alcobendas,Madrid,28108,Spain,12,250,"40.519872, -3.657064",692,Open
+"Plze_, Czech Republic",Univerzitn� 65,Plze_,Plze_,"30,100",Czech Republic,6,150,"49.72515, 13.326257",359,Open
+"Illertissen, Germany",Leitsch�cker,Illertissen,Bavaria,89257,Germany,14,250,"48.218902, 10.127593",522,Open
+"Trumpington, UK",Trumpington Park and Ride,Trumpington,Cambridge,CB2 9FT,United Kingdom,12,250,"52.1682, 0.1091",20,Open
+"Tilburg, Netherlands",Dokter Bloemenlaan 8,Tilburg,North Brabant,5022 KW,Netherlands,16,250,"51.543627, 5.11109",16,Open
+"Kaaresuvanto, Finland",K�sivarrentie 3767,Enonteki� Kaaresuvanto,Lapland,99470,Finland,4,250,"68.450248, 22.48161",336,Open
+"Pite_ti, Romania",DN65B F4,Pite_ti,Sud-Muntenia,117140,Romania,6,250,"44.823832, 24.910667",294,Open
+"Dijon, France",7 Rue de Beauregard,Dijon,Bourgogne-Franche-Comt�,21600,France,16,250,"47.27175, 5.043528",243,Open
+"Ellwangen - Hotel Montana, Germany",Max-Eyth-Stra�e 50,Ellwangen,Baden-W�rttemberg,73479,Germany,8,250,"48.959165, 10.173534",512,Open
+"Aberystwyth, UK","Park Lodge Hotel, Ffordd Parc y Llyn",Aberystwyth,Wales,SY23 3TL,United Kingdom,6,250,"52.4046976, -4.064694",6,Open
+"Trentham, UK",The Trentham Estate,Stoke,Stoke-on-Trent,ST4 8JG,United Kingdom,8,250,"52.9627348, -2.1965062",98,Open
+"_irovnica, Slovenia",Moste 101,_irovnica,Upper Carniola,4274,Slovenia,8,250,"46.40438283, 14.1317094",545,Open
+"Sibiu, Romania",Strada Sibiului 5,_elimb_r,Centru,557260,Romania,6,250,"45.77615, 24.171844",424,Open
+"Fuenlabrada (SC), Spain",11 Calle Almendro,Fuenlabrada,Madrid,28942,Spain,8,250,"40.298097, -3.820944",678,Open
+"Neuville-en-Ferrain, France",Route de Roncq,Neuville-en-Ferrain,Hauts-de-France,59960,France,20,250,"50.7417938, 3.145576",26,Open
+"Mal�, Sweden",11 Storgatan,Mal� t�tort,Lappland,939 31,Sweden,3,250,"65.1789, 18.7462",315,Open
+"Charleroi, Belgium",Rue Hubert Bastin 16,Jumet,Hainaut,6040,Belgium,12,250,"50.45232, 4.430372",178,Open
+"Metz Sud, France",Chemin de la Pie Grieche,Moulins-l�s-Metz,Grand Est,57160,France,28,250,"49.079703, 6.103413",171,Open
+"Cadenazzo, Switzerland",Via Stazione 12,Cadenazzo,Ticino,6593,Switzerland,4,250,"46.152041, 8.937698",202,Open
+"Halmstad, Sweden",Pr�stv�gen 1,Halmstad,Halland,302 63,Sweden,28,250,"56.65737, 12.90728",8,Open
+"Sundsvall West, Sweden",Bergsgatan 127,Sundsvall,Medelpad,853 50,Sweden,12,250,"62.39591, 17.252598",15,Open
+"Kuopio, Finland","Naulakatu 2, next to Juustoportti restaurant",Kuopio,North Savo,70800,Finland,8,250,"62.8201, 27.609726",104,Open
+"Le Mans - Saint-Saturnin, France",4-2 Rue Louis Chappee,Saint-Saturnin,Pays de la Loire,72650,France,20,250,"48.053195, 0.166336",65,Open
+"Manchester Trafford Centre, UK",Trafford Park,Trafford,,M17 8DA,United Kingdom,18,250,"53.4672215, -2.3530356",26,Open
+"Cork - Mahon Point Shopping Centre, Ireland",Link Rd,Cork,,T12 X7HK,Ireland,4,250,"51.8866, -8.3973",6,Open
+"Stryn, Norway",Tonningsgata 33,Stryn,Vestland,6783,Norway,12,250,"61.9046476, 6.7257957",1,Open
+"Troisdorf, Germany",Am Golfplatz 1,Troisdorf,North Rhine-Westphalia,53844,Germany,20,250,"50.813871, 7.107929",55,Open
+"Olbia, Italy",Via Ragazzi del '99,Olbia,Sardinia,7026,Italy,4,250,"40.9068915, 9.5159706",16,Open
+"Montenero di Bisaccia, Italy","Shopping Center Costaverde, SS16",Montenero di bisaccia,Molise,86036,Italy,8,250,"42.062429, 14.778935",4,Open
+"Vierzon, France","Parc Technologique de Sologne, Le B�tonnet",Vierzon,Centre-Val de Loire,18100,France,28,250,"47.245841, 2.069532",151,Open
+"Kaltenkirchen, Germany",Auf dem Berge 1,Kaltenkirchen,Schleswig-Holstein,24568,Germany,20,250,"53.846044, 9.93625",27,Open
+"Karlsruhe, Germany",Wolfartsweierer Str. 46,Karlsruhe,Baden-W�rttemberg,76137,Germany,11,250,"48.999495492095434, 8.4284749666213",117,Open
+"Psathopyrgos South, Greece","Psathopyrgos South, E.O. Korinthou Patron",Psathopyrgos,Western Greece,26504,Greece,4,250,"38.324465, 21.869204",39,Open
+"Tongham, UK","Hogs Back Hotel, Seale","Tongham, Farnham",,GU10 1EX,United Kingdom,8,250,"51.2262851, -0.7234964",126,Open
+"Forl�, Italy","Piazzale della Cooperazione, 2",Forl�,Emilia-Romagna,47122,Italy,12,250,"44.242877, 12.081828",18,Open
+"Gran, Norway",Smiegata 3,Gran,Innlandet,2750,Norway,12,250,"60.354572, 10.573026",206,Open
+"Camborne, UK",Trevenson Rd,"Pool, Redruth",,TR15 3RD,United Kingdom,8,250,"50.2275556, -5.2800278",97,Open
+"Barcelona - L'Illa Diagonal, Spain","Avinguda Diagonal L, illa Diagonal, 557",Barcelona,Catalonia,8029,Spain,2,150,"41.389482, 2.133672",62,Open
+"Athenry, Ireland",Raheen Woods,Athenry,Galway,H65 E443,Ireland,8,250,"53.3014, -8.762099",47,Open
+"Salaise-sur-Sanne, France",7 Zone Commerciale le Parc du Soleil,Salaise-sur-Sanne,Auvergne-Rh�ne-Alpes,38150,France,20,250,"45.3271311, 4.8054363",147,Open
+"Oslo Central - Sentrum P-hus, Norway","Inside Sentrum P-hus level -3, enter from Ring 1 or from Munchs gate",Oslo,Oslo,164,Norway,18,250,"59.91603, 10.741654",15,Open
+"Sofia, Bulgaria","bulevard ""Cherni vrah"" 100, Hladilnika",Sofia,Sofia City,1407,Bulgaria,6,250,"42.657867, 23.314052",604,Open
+"Reinfeld, Germany",Im Weddern 1,Reinfeld,Schleswig-Holstein,23858,Germany,12,250,"53.823264, 10.503279",35,Open
+"Vatnagar_ar, Iceland",Vatnagar_ar 24,Reykjavik,Capital Region,104,Iceland,3,250,"64.14507, -21.854582",14,Open
+"Gr�lum, Norway","By Inspiria Science Center, Bj�rnstadveien 16",Gr�lum,Viken,1712,Norway,40,250,"59.29771565801219, 11.0627969938622",43,Open
+"Sevenoaks, UK","Donnington Manor Hotel, London Rd",Dunton Green,Sevenoaks,TN13 2TD,United Kingdom,8,250,"51.3025544, 0.1614214",90,Open
+"Akureyri, Iceland",Austurs�_a 2,Akureyri,Northeastern Region,603,Iceland,8,250,"65.69773, -18.140122",66,Open
+"Posthausen, Germany",Posthausen 1,Ottersberg,Lower Saxony,28870,Germany,12,250,"53.059527, 9.164782",15,Open
+"Eberstalzell, Austria",Solarstra�e 4,4653 Eberstalzell,Upper Austria,4653,Austria,21,250,"48.039498, 13.991228",400,Open
+"G�ddede, Sweden",Hotellplan 2,G�ddede,J�mtland,833 61,Sweden,3,250,"64.506406, 14.1435553",311,Open
+"Rudsh�gda, Norway",Next to OBS Rudsh�gda,Rudsh�gda,Innlandet,2360,Norway,20,250,"60.91055934954914, 10.8116707205772",254,Open
+"Viernheim, Germany",Near Robert-Schuman-Stra�e 8a,Viernheim,Hesse,68519,Germany,18,250,"49.528056, 8.565833",99,Open
+"Beaune Nord, France",13 Rue Gustave Eiffel,Beaune,Bourgogne-Franche-Comt�,21200,France,28,250,"47.043151, 4.841372",234,Open
+"Dorotea, Sweden",Parkv�gen 6,Dorotea,Lappland,917 31,Sweden,4,250,"64.261509, 16.417872",317,Open
+"Marrakech, Morocco","Quartier De, Rue Haroun Errachid",Marrakesh,,40000,Morocco,4,150,"31.621903, -8.001945",461,Open
+"Agadir, Morocco",Baie Des Palmiers Cit� Founty P5,Agadir,,80010,Morocco,4,150,"30.391315, -9.597303",7,Open
+"Mikkeli, Finland",Tullikatu 2,Mikkeli,South Savo,50100,Finland,8,250,"61.688649, 27.280678",78,Open
+"St. P�lten, Austria",Roseggerstra�e 4,St. P�lten,Lower Austria,3100,Austria,12,125,"48.205756, 15.618428",269,Open
+"Levi, Finland",Gondolitie 1,Kittil�,Lapland,99100,Finland,4,250,"67.786076, 24.818804",219,Open
+"V�lkermarkt, Austria",IGP 19 S�d,V�lkermarkt,Carinthia,9100,Austria,16,250,"46.68231358900579, 14.6762444518587",462,Open
+"Knetzgau, Germany",Mainleite 12,Knetzgau,Bavaria,97478,Germany,12,250,"49.981648, 10.554985",254,Open
+"Cambrils, Spain","T312 Montbri� del Camp, Ctra. Cambrils-Montbri� km. 2,2",Cambrils,Catalonia,43850,Spain,4,150,"41.085094, 1.037462",48,Open
+"Mallorca, Spain","Autov�a Palma-Inca, Km 7,1, salida 8",Mallorca,Balearic Islands,7141,Spain,2,150,"39.633167, 2.733203",87,Open
+"Vetlanda, Sweden",Lasarettsgatan 70,Vetlanda,Sm�land,574 40,Sweden,8,250,"57.414845, 15.090307",183,Open
+"K�rs�m�ki, Finland",Haapaj�rventie 1,K�rs�m�ki,North Ostrobothnia,86710,Finland,12,250,"63.974043, 25.760589",108,Open
+"Derby, UK","Derbion, Burrows Walk",Derby,Derbyshire,DE12 2PL,United Kingdom,12,150,"52.919528, -1.471388",52,Open
+"Ondara, Spain",Portal de la Marina Shopping Center,Ondara,Valencia,3760,Spain,8,250,"38.816908, 0.02222",41,Open
+"N�rten-Hardenberg, Germany",Obere Dorfstra�e 32,N�rten-Hardenberg,Lower Saxony,37176,Germany,12,250,"51.6325825, 9.9101065",148,Open
+"R_zekne, Latvia",Stacijas iela 30,R_zekne,,LV-4601,Latvia,4,150,"56.514862, 27.351041",139,Open
+"Hasselt, Belgium",Kempische Steenweg 299,Hasselt,Limburg,3500,Belgium,12,250,"50.951555, 5.352944",32,Open
+"Chartres, France",24 Av. Gustave Eiffel,Chartres,Centre-Val de Loire,28000,France,20,250,"48.4461169, 1.53912747",142,Open
+"Brest, France","D788, Porte de Gouesnou",Gouesnou,Bretagne,29850,France,16,250,"48.429599, -4.4706",90,Open
+"Bologna Casalecchio di Reno, Italy","Via Aldo Moro, 64",Bologna,Emilia-Romagna,40033,Italy,16,250,"44.483842, 11.268252",31,Open
+"Vigo, Spain",R�a do Miradoiro 2,Vigo,Galicia,36210,Spain,12,250,"42.220797, -8.724277",45,Open
+"Eimeldingen, Germany",Im Rebacker 1,Eimeldingen,Baden-W�rttemberg,79591,Germany,12,250,"47.626517, 7.599646",268,Open
+"Belgrade, Serbia",Astrid Lindgren 11,Belgrade,Belgrade,11231,Serbia,4,150,"44.7100564, 20.5610539",113,Open
+"Wuppertal, Germany",Dieselstra�e 65,Wuppertal,North Rhine-Westphalia,42389,Germany,20,250,"51.282762, 7.25658",181,Open
+"Poitiers Sud, France",6 Rue de la Saulaie,Croutelle,Nouvelle-Aquitaine,86240,France,28,250,"46.547948, 0.295865",138,Open
+"Limburg an der Lahn, Germany",Vinzenz-Pallotti-Stra�e 1,Limburg,Hesse,65552,Germany,20,250,"50.381138, 8.089637",184,Open
+"Lehre-Wendhausen, Germany",In den Lohbalken 1,Lehre-Wendhausen,Lower Saxony,38165,Germany,12,250,"52.313139, 10.635067",85,Open
+"Pamplona, Spain","Barrio La Morea, s/n",Cordovilla,Navarre,31191,Spain,8,250,"42.784789, -1.630871",436,Open
+"Bolu, Turkey","Ankara-Istanbul Highway, km 227","Yol�at�/Bolu, Turkey",,14030,Turkey,8,250,"40.72401491, 31.4647896",846,Open
+"Bialystok, Poland",_wi_toja_ska 15,Bialystok,Podlasie,15-277,Poland,6,250,"53.1258244, 23.1699803",141,Open
+"Winchester (SC), UK",Easton Ln,Winchester,Winchester,SO23 7RR,United Kingdom,12,250,"51.0676563, -1.2999688",51,Open
+"Flimwell, UK",Hawkhurst Rd,Ticehurst,Wadhurst,TN5 7FJ,United Kingdom,6,250,"51.05251, 0.45483",125,Open
+"Treungen, Norway",Treungvegen close to the bridge over the river,Treungen,Vestfold og Telemark,3855,Norway,8,250,"59.018622, 8.52392",249,Open
+"Constanta, Romania",Bulevardul Alexandru Lapusneanu 116C,Constanta,Sud-Est,900419,Romania,6,250,"44.203265, 28.631145",7,Open
+"�nge, Sweden",141 Borgsj�byn,Erikslund,Medelpad,841 97,Sweden,12,250,"62.537337, 15.918862",124,Open
+"�fjord, Norway",Joachim Brevolds All� 2,�fjord,Tr�ndelag,7170,Norway,8,250,"63.960066, 10.226821",2,Open
+"Perugia South, Italy","SS3bis, Bar - Hotel ""Le Querce""",Perugia,Umbria,6132,Italy,8,250,"43.046182, 12.407823",180,Open
+"Guildford, UK",Guildford Spectrum Leisure Centre,Parkway,Guildford,GU1 1UP,United Kingdom,12,250,"51.2495063, -0.5597019",43,Open
+"Torino Grugliasco, Italy","Centro commerciale Le Gru, Grugliasco",Grugliasco,Piedmont,10095,Italy,12,250,"45.058812, 7.612638",272,Open
+"�vertorne� T�tort, Sweden",Hemv�gen 11,�vertorne�,Norrbotten,957 31,Sweden,3,250,"66.383193, 23.655125",60,Open
+"Blagnac, France",1 avenue Georges Brassens,Blagnac,Occitanie,31700,France,16,250,"43.64766, 1.3697",146,Open
+"Rosenheim, Germany",Am Oberfeld 25,Rosenheim,Bavaria,83026,Germany,12,250,"47.81703, 12.12042",454,Open
+"Str�mstad, Sweden",Lilla Oslov�gen,Str�mstad,Bohusl�n,452 35,Sweden,20,250,"58.945931, 11.192941",5,Open
+"Nottingham (SC), UK",29 Loughborough Rd,West Bridgford,,NG2 7LG,United Kingdom,8,250,"52.9361, -1.1343",25,Open
+"Rimini, Italy","via Caduti di Nassiriya, centro commerciale �Le Befane�, Rimini",Rimini,Emilia-Romagna,47924,Italy,8,250,"44.040563, 12.589111",6,Open
+"Oberhausen, Germany",Brammenring 30,Oberhausen,North Rhine-Westphalia,46047,Germany,12,250,"51.485653342468275, 6.8878134401085",39,Open
+"Rouen, France",Angle Avenue de l'Universit� Rue de la Mare Sansoure,Saint-�tienne-du-Rouvray,Normandie,76800,France,12,250,"49.388964, 1.059818",76,Open
+"Fleet Northbound, UK","Welcome Break, Northbound, M3",Fleet,,GU51 1AA,United Kingdom,8,150,"51.296156, -0.857274",67,Open
+"Brussels Urban, Belgium","Docks Bruxsel Shopping Centre, 1 Bd Lambermont 1",Brussels,Brussels Capital Region,1000,Belgium,8,250,"50.878699, 4.373226",14,Open
+"Jyv�skyl�, Finland",Kylm�lahdentie 6,Jyv�skyl�,Central Finland,40500,Finland,8,250,"62.214304, 25.722743",92,Open
+"Schiedam, Netherlands",Hargalaan 6,Schiedam,South Holland,3118 JA,Netherlands,16,250,"51.92486, 4.372225",-2,Open
+"Vado Ligure, Italy",via Piave 114,Vado Ligure,Liguria,17047,Italy,12,250,"44.265341, 8.425215",17,Open
+"Veggli, Norway",Kolvegen 4,Veggli,Viken,3628,Norway,12,250,"60.040342, 9.156244",239,Open
+"Villach Ost, Austria",Kleinsattelstra�e 4,Villach,Carinthia,9500,Austria,6,250,"46.601793, 13.882974",501,Open
+"Tralee, Ireland","BallyGarry House, Leebrook",Tralee,Kerry,V92 W279,Ireland,2,150,"52.260697, -9.659135",12,Open
+"Tangier, Morocco","Km 19.8, National Route 1 Tangier-Asilah",Tangier,,90100,Morocco,4,150,"35.666766, -5.965788",14,Open
+"Casablanca, Morocco",25 Bd Al Massira Al Khadra,Casablanca,,20250,Morocco,4,150,"33.586723, -7.63895",25,Open
+"Sindelsdorf, Germany",Urthal 4,Sindelsdorf,Bavaria,82404,Germany,12,250,"47.728161, 11.362397",599,Open
+"Sagunto, Spain",s/n Carrer Moreres,Sagunto,Valencia,46500,Spain,4,250,"39.672915, -0.266301",37,Open
+"Hartshead Moor West, UK","24-25 M62, South",Brighouse,,HD6 4JX,United Kingdom,6,150,"53.714315, -1.743758",141,Open
+"Parkhaus Gleisdreieck, Germany",Sch�neberger Ufer 3,Berlin,Berlin,10785,Germany,20,250,"52.502693, 13.37395",37,Open
+"Cuneo, Italy","via Guido Martino 8, Bigstore Gallery",Cuneo,Piedmont,12100,Italy,2,150,"44.420839, 7.55114",507,Open
+"Heathrow Airport - Terminals 2 & 3, UK",Renaissance Hotel,Hounslow,,TW6 2AQ,United Kingdom,16,250,"51.4804602, -0.4442261",26,Open
+"Saint-Julien-en-Genevois, France","9000 Route d'Annecy, Zone de Cervonnex",Saint-Julien-en-Genevois,Auvergne-Rh�ne-Alpes,74160,France,20,250,"46.130365, 6.088083",518,Open
+"J�nk�ping, Sweden",Kompanigatan 1,J�nk�ping,Sm�land,553 05,Sweden,20,250,"57.772279, 14.199647",101,Open
+"Kalwang, Austria",Bundesstra�e 3,Kalwang,Styria,8775,Austria,16,250,"47.42301737561254, 14.7598386271759",200,Open
+"Verviers, Belgium","Van Der Valk Hotel, Rue de la Station 4",Verviers,Li�ge,4800,Belgium,12,250,"50.592323, 5.848511",163,Open
+"Kozina, Slovenia",Bazovi_ka cesta 23,Kozina,Littoral�Inner Carniola,6240,Slovenia,4,150,"45.607387, 13.931518",482,Open
+"B�blingen, Germany",Charles-Lindbergh-Platz 1,B�blingen,Baden-W�rttemberg,71034,Germany,16,250,"48.69154, 9.003734",431,Open
+"H�fn, Iceland",Vikurbraut 1,H�fn,Southern Region,780,Iceland,3,250,"64.250138, -15.205464",1,Open
+"Grandate, Italy","Centro commerciale Grandate, via Leopardi 2/A",Grandate,Lombardy,22070,Italy,8,250,"45.768857, 9.056935",305,Open
+"Hengersberg, Germany",8 Donaustra�e,Hengersberg,Bavaria,94491,Germany,8,130,"48.765472, 13.046667",309,Open
+"Zvolen, Slovakia","Leteck� 19, 962 31 Slia_-Sielnica",Zvolen,Bansk� Bystrica,962 31,Slovakia,4,125,"48.627379, 19.103481",335,Open
+"Kleinostheim, Germany",Saal�ckerstrasse,Kleinostheim,Bavaria,63801,Germany,16,250,"49.993985, 9.070673",115,Open
+"Aosta, Italy - A5 dir. Mont-Blanc","Localit� Autoporto, 33B",Pollein,Aosta Valley,11020,Italy,6,150,"45.73732, 7.373068",544,Open
+"Ferrybridge, UK",A1-M62 Ferrybridge,Knottingley,,WF11 0AF,United Kingdom,12,250,"53.6986, -1.2654",21,Open
+"Endsee, Germany",Baukreativstra�e,Steinsfeld,Bavaria,91628,Germany,20,250,"49.445193, 10.247003",409,Open
+"Belgrade AVA Shopping Center, Serbia",Astrid Lindgren 23,Beograd,Belgrade,11231,Serbia,8,250,"44.711568, 20.562039",108,Open
+"Maastricht, Netherlands",Slakweg 5,Maastricht,Limburg,6228 NB,Netherlands,24,250,"50.816731, 5.725374",56,Open
+"Krakow, Poland",Henryka Kamie_skiego 11,Krak�w,Lesser Poland,30-644,Poland,4,133,"50.028017, 19.950902",225,Open
+"Wetzlar, Germany",Auf der Plank 1,Wetzlar,Hesse,35578,Germany,12,250,"50.5529731, 8.5328612",290,Open
+"Avignon - le Pontet, France",414 Av. Louis Braille,Le Pontet,Provence-Alpes-C�te d�Azur,84130,France,28,250,"43.980454, 4.879854",28,Open
+"Bardonecchia, Italy","A32 km 73, Frejus service area, Bardonecchia",Bardonecchia,Piedmont,10052,Italy,8,250,"45.082194, 6.711208",1297,Open
+"Alvdal, Norway","Steimosletta 1, Alvdal Taverna",Alvdal,Innlandet,2560,Norway,36,250,"62.114854, 10.616826",467,Open
+"Oviedo, Spain","Autov�a Ruta de la Plata, KM. 4, 5",Paredes El Cuetu,Asturias,33429,Spain,12,250,"43.389288, -5.803638",168,Open
+"S�len, Sweden",5 Hemfj�llsv�gen,S�len,Dalarna,780 67,Sweden,8,250,"61.163869, 13.203128",555,Open
+"Ch�tellerault, France",25 Rue de la D�sir�e,Ch�tellerault,Nouvelle-Aquitaine,86100,France,16,250,"46.835722, 0.541722",51,Open
+"Leipzig-Flughafen, Germany",An der Autobahn 1,Schkeuditz,Saxony,4435,Germany,16,250,"51.401278, 12.180194",125,Open
+"Salzburg-Nord, Austria",Carl-Zuckmayer-Stra�e 4,Salzburg,Salzburg,5101,Austria,10,250,"47.83591612046934, 13.0592124331495",441,Open
+"Burgdorf, Germany",Grundst�ber 11-12,Burgdorf,Lower Saxony,38272,Germany,12,250,"52.122337, 10.2287937",106,Open
+"Odense, Denmark","Roseng�rdcentret, �rb�kvej 75",Odense,Syddanmark,5220,Denmark,16,250,"55.38546, 10.426799",18,Open
+"Lappeenranta, Finland",ABC Viipurinportti - Hirsim�enkatu 1,Lappeenranta,South Karelia,53500,Finland,4,250,"61.052956, 28.261328",80,Open
+"Genova North, Italy","Centro Commerciale L'Aquilone, via Romairone 10, Genova",Genova,Liguria,16163,Italy,8,250,"44.470423, 8.900821",60,Open
+"Aosta, Italy - off highway","Localit� Autoporto, 33B",Pollein,Aosta Valley,11020,Italy,4,150,"45.737106, 7.372367",544,Open
+"Brokelandsheia, Norway",Brokelandsheia,Sundebru,Agder,4993,Norway,36,250,"58.820783, 9.073746",99,Open
+"Feucht, Germany",Wendelsteiner Stra�e,Feucht,Bavaria,90537,Germany,20,250,"49.365004, 11.207235",359,Open
+"Pf�ffikon, Switzerland",Gwattstrasse 11,Pf�ffikon,Schwyz,8808,Switzerland,15,250,"47.2, 8.794389",437,Open
+"Ystad, Sweden",Milit�rv�gen 4,Ystad,Sk�ne,271 39,Sweden,16,250,"55.43441, 13.83942",5,Open
+"Hall in Tirol, Austria","Schl�glstra�e 57, HWest Hotel Hall",Hall in Tirol,Tyrol,6060,Austria,16,250,"47.2734729, 11.4753949",565,Open
+"Harrogate, UK","Crimple Hall, Leeds Rd",Harrogate,,HG3 1EW,United Kingdom,6,250,"53.9623, -1.5285",87,Open
+"Kassel, Germany","Obere K�nigsstra�e 31, level 5",Kassel,Hesse,34117,Germany,12,250,"51.313688, 9.493689",185,Open
+"Malung, Sweden",Lisaringen / Postgatan,Malung,Dalarna,782 31,Sweden,20,250,"60.685287, 13.71351",294,Open
+"Salzburg, Austria",Salzachtal Bundesstra�e 135,Salzburg,Salzburg,5081,Austria,12,150,"47.726937, 13.060702",411,Open
+"Woringen, Germany",Bahnhofstra�e 12,Woringen,Bavaria,87789,Germany,16,250,"47.923423, 10.208561",632,Open
+"Hamburg-Wandsbek, Germany",Helbingtwiete 4/8,Hamburg,Hamburg,22047,Germany,12,250,"53.586773, 10.098058",18,Open
+"Niederndorf, Austria",Audorfer Stra�e 41,Niederndorf,Tyrol,6342,Austria,16,250,"47.6490467, 12.1977378",470,Open
+"Forte dei Marmi, Italy",142 Via Giovan Battista Vico Forte dei Marmi,Forte dei Marmi,Tuscany,55042,Italy,20,250,"43.956416, 10.194539",6,Open
+"Roma - South West, Italy","Via Salvatore Rebecchini 145, Hotel Sheraton Parco de' Medici",Roma,Lazio,148,Italy,8,250,"41.814475, 12.399297",9,Open
+"B�ziers, France",La M�ridienne,Villeneuve-l�s-B�ziers,Occitanie,34420,France,24,250,"43.335324, 3.284466",37,Open
+"Randers West, Denmark",Merkurvej 53,Randers,Midtjylland,8960,Denmark,16,250,"56.430193, 10.061864",28,Open
+"Palermo, Italy","via Filippo Pecoraino, Centro Commerciale Forum",Palermo,Sicily,90124,Italy,8,250,"38.08971, 13.409927",20,Open
+"Brindisi, Italy","SS7, Centro Commerciale Le Colonne",Brindisi,Apulia,72100,Italy,8,250,"40.6198604, 17.9026072",31,Open
+"Magliano Sabina, Italy","Hotel Ristorante ""La Pergola"", Via Flaminia km 64",Magliano Sabina,Lazio,2046,Italy,12,250,"42.372085, 12.471703",59,Open
+"Brescia, Italy","Via Einaudi 5, Eln�s Shopping, Roncadelle",Roncadelle,Lombardy,25030,Italy,16,250,"45.53224, 10.164969",120,Open
+"Gramschatzer Wald, Germany",A7 exit Gramschatzer Wald,Erbshausen,Bavaria,97262,Germany,14,250,"49.912046, 10.001735",307,Open
+"Carmarthen, UK","Car Park Saint Catherine�s Walk, Saint Catherine Street",Carmarthen,,SA31 1GA,United Kingdom,12,250,"51.8585, -4.311",20,Open
+"Kempele, Finland",Zeppelinintie 1,Kempele,North Ostrobothnia,90450,Finland,8,250,"64.9021, 25.5352",11,Open
+"San Giovanni Teatino, Italy",Via Pietro Nenni 280,San Giovanni Teatino,Abruzzo,66020,Italy,8,150,"42.399194, 14.16396",23,Open
+"London - Canary Wharf, UK","The Canada Square Car Park, Montgomery Street",London,,E14 5EW,United Kingdom,12,250,"51.504346, -0.016146",293,Open
+"London - Brent Cross, UK","Brent Cross, Prince Charles Drive",London,,NW4 3FP,United Kingdom,2,130,"51.57753, -0.223753",53,Open
+"Valli di Carnia, Italy",via Valli di Carnia 4,Amaro,Friuli-Venezia Giulia,33020,Italy,8,250,"46.36834, 13.072743",268,Open
+"�rebro, Sweden",Boglundsgatan 2,�rebro,N�rke,703 74,Sweden,12,250,"59.297839, 15.206485",27,Open
+"Fauske, Norway",Sj�gata 86,Fauske,Nordland,8200,Norway,12,250,"67.258883, 15.401309",5,Open
+"Fes, Morocco",Route de Sefrou,Fes,,30050,Morocco,4,150,"33.9969, -4.96994",474,Open
+"Frederikshavn, Denmark",Nordvej 4,Frederikshavn,Nordjylland,9900,Denmark,16,250,"57.389369, 10.510597",10,Open
+"Zusmarshausen, Germany",Am Innovationspark 2,Zusmarshausen,Bavaria,86441,Germany,12,250,"48.407771, 10.599622",446,Open
+"Barakaldo - MegaPark, Spain","Erribera Etorbidea, 5",Barakaldo,Basque Country,48902,Spain,16,250,"43.293824, -3.005147",8,Open
+"Newport, UK",Coldra Wood Drive,"Caerleon, Newport",,NP18 1HQ,United Kingdom,12,250,"51.601776, -2.934743",94,Open
+"Kirchheim, Germany",Hauptstra�e 1,Kirchheim,Hesse,36275,Germany,20,250,"50.834774, 9.57445",242,Open
+"Heston Eastbound, UK",M4 Junction 2-3,"Heston, Hounslow",,TW5 9NB,United Kingdom,16,250,"51.4885427, -0.390266",34,Open
+"Porto Sant�Elpidio, Italy",Via dell�economia 9,Porto Sant�Elpidio,Marche,63821,Italy,4,250,"43.232567, 13.7499841",516,Open
+"Bourg-Achard, France",510 Rue du Docteur Duvrac,Bourg-Achard,Normandie,27310,France,20,250,"49.359716, 0.81761358",131,Open
+"Vicolungo, Italy","Centro commerciale ""Vicolungo The Style Outlets""",Vicolungo,Piedmont,28060,Italy,12,250,"45.467383, 8.462251",165,Open
+"Belfast (SC), UK",15 Boucher Rd,Belfast,,BT12 6NT,United Kingdom,4,250,"54.5833611, -5.9606389",8,Open
+"Heede, Germany","Green Energy Park, Industriestra�e A31 Ost 3",Heede,Lower Saxony,26892,Germany,12,250,"52.985124, 7.247958",3,Open
+"Napoli North, Italy","Via Santa Maria la Nova 1, ""Le Porte di Napoli""",Afragola,Campania,80021,Italy,8,250,"40.93325, 14.357523",23,Open
+"Bergkamen, Germany",R�nther Str. 153,Bergkamen,North Rhine-Westphalia,59192,Germany,12,250,"51.6495434, 7.671207",57,Open
+"Kriens, Switzerland",Ringstrasse 19,Kriens,Lucerne,6010,Switzerland,12,250,"47.017449, 8.301457",449,Open
+"Biganos, France",31 rue des Fonderies,Biganos,Nouvelle-Aquitaine,33380,France,12,250,"44.6375463, -0.9599049",12,Open
+"Ridderkerk, Netherlands",Krommeweg 1,Ridderkerk,South Holland,2988 CB,Netherlands,24,250,"51.867752, 4.558174",0,Open
+"Norden, Germany",Zum Bahnkolk 1,Norden,Lower Saxony,26506,Germany,12,250,"53.613081, 7.168067",0,Open
+"Merklingen, Germany",Nellinger Str. 25,Merklingen,Baden-W�rttemberg,89188,Germany,40,250,"48.516369, 9.757292",707,Open
+"San Jos� de la Rinconada, Spain","Poligono Industrial los Espartales, 4A",Sevilla,Andalusia,41300,Spain,12,250,"37.440222, -5.885611",26,Open
+"Regensburg-Ostenviertel, Germany",Robert-Bosch-Str. 2,Regensburg,Bavaria,93055,Germany,12,250,"48.999425, 12.147763",334,Open
+"Alsfeld, Germany",Pfefferh�he 1A,Alsfeld,Hesse,36304,Germany,16,250,"50.733921, 9.241608",342,Open
+"Hannover, Germany",Opelstr. 3-5,Isernhagen,Lower Saxony,30916,Germany,20,250,"52.423726, 9.833422",57,Open
+"Joensuu, Finland",Sortavalankatu 2,Joensuu,North Karelia,80100,Finland,4,250,"62.601105, 29.782928",79,Open
+"�hringen, Germany",Austra�e 5,�hringen,Baden-W�rttemberg,74613,Germany,20,250,"49.204479, 9.488792",222,Open
+"Annecy, France",Avenue du Aix-les-Bains,Seynod,Auvergne-Rh�ne-Alpes,74600,France,16,250,"45.877176, 6.087829",561,Open
+"Le Touquet, France",Avenue de l'Hippodrome,Le Touquet,Hauts-de-France,62520,France,12,250,"50.5211728, 1.5980876",9,Open
+"Noyelles-Godault, France",Aushopping Noyelles,Noyelles-Godault,Hauts-de-France,62950,France,24,250,"50.409519, 2.9752786",39,Open
+"Kaunas, Lithuania",Inovacij_ g. 1,Biruli_k_s,Kaunas,54469,Lithuania,8,250,"54.942153, 24.006411",75,Open
+"�re, Sweden",�rev�gen 53,�re,J�mtland,837 52,Sweden,6,250,"63.395234, 13.087787",377,Open
+"Majadahonda, Spain","C. de los Qu�micos, 2",Majadahonda,Madrid,28222,Spain,8,250,"40.491081, -3.898054",683,Open
+"Leonberg - Glemseck, Germany",66 Glemseckstra�e,Leonberg,,71229,Germany,20,250,"48.78457, 9.01911",372,Open
+"Chelmsford (SC), UK",1 White Hart Ln,"Springfield, Chelmsford",,CM2 5EF,United Kingdom,8,250,"51.7503, 0.5114",41,Open
+"Aire du Bourbonnais, France","A79, Aire du Bourbonnais",Toulon-sur-Allier,Auvergne-Rh�ne-Alpes,3400,France,12,250,"46.49764, 3.36094",217,Open
+"Rjukan, Norway","Behind Spar, Sam Eydes gate 211",Rjukan,Vestfold og Telemark,3660,Norway,6,250,"59.880559, 8.626008",287,Open
+"Ankara, Turkey","2 Gazi, Konya Devlet Yolu",Alt�nda_/Ankara,,6560,Turkey,8,250,"39.949623, 32.832834",843,Open
+"Edirne, Turkey","_�kr�pa_a, K�y�k Cd. No:254, 22030 Edirne Merkez/Edirne,",Edirne,Marmara,,Turkey,6,250,"41.6802, 26.582326",119,Open
+"Angers, France","Centre Commercial Espace Anjou, 75 Avenue Montaigne",Angers,Pays de la Loire,49000,France,12,250,"47.46648, -0.523823",39,Open
+"Schleiz, Germany","Gewerbegebiet Heinrichsruh, Gottfried-Piegler-Stra�e",Schleiz,Thuringia,7907,Germany,40,250,"50.545994, 11.803457",538,Open
+"Lublin, Poland","SKENDE Shopping, Aleja Sp�_dzielczo_ci Pracy 88, 20-147 Lublin, Poland",Lublin,Lublin,20-147,Poland,4,250,"51.28216, 22.570014",211,Open
+"Chambray-L�s-Tours, France",213 Avenue du Grand Sud,Chambray-l�s-Tours,Centre-Val de Loire,37170,France,24,250,"47.325519, 0.7135",88,Open
+"Linstow, Germany",Krakower Ch. 1,Dobbin-Linstow,Mecklenburg-Vorpommern,18292,Germany,20,250,"53.618146, 12.371421",69,Open
+"Alessandria, Italy",Via Vecchia Torino 20,Alessandria,Piedmont,15121,Italy,12,250,"44.916645, 8.5996",92,Open
+"N�mes - Carr� Sud, France","Centre commercial Carr� Sud, 148 Rue Jean Lauret",N�mes,Occitanie,30000,France,28,250,"43.807933, 4.363589",27,Open
+"Rankweil, Austria",An der Maut 6,Rankweil,Vorarlberg,6830,Austria,16,250,"47.272928, 9.617586",445,Open
+"Strasbourg Nord, France",Boulevard des Enseignes,Reichstett,Grand Est,67116,France,16,250,"48.653058, 7.731964",143,Open
+"Pello, Finland",Kolarintie 9a,Pello,Lapland,95700,Finland,4,250,"66.808702, 23.99674",85,Open
+"Li�ge, Belgium",Rue de l'Arbre Courte Joie 323,Li�ge,Li�ge,4000,Belgium,16,250,"50.671274, 5.543516",171,Open
+"F�ssen, Germany",Kemptener Str. 88,F�ssen,Bavaria,87629,Germany,18,250,"47.567932, 10.675739",789,Open
+"Bourg-en-Bresse, France",101 Chemin du Champ de Chaux,Tossiat,Auvergne-Rh�ne-Alpes,1250,France,6,250,"46.144083, 5.282507",245,Open
+"Honfleur, France",Avenue de Normandie,Honfleur,Normandie,14600,France,12,250,"49.414044, 0.266027",5,Open
+"Reading - Katesgrove (SC), UK",160 Basingstoke Road,Reading,Reading,RG2 0HJ,United Kingdom,12,250,"51.43952, -0.96816",48,Open
+"Weert, Netherlands",Eindhovenseweg 101,Weert,Limburg,6002 TB,Netherlands,16,250,"51.28172, 5.65095",34,Open
+"Esbjerg, Denmark",Havnegade 62,Esbjerg,Syddanmark,6700,Denmark,12,250,"55.465687, 8.443793",8,Open
+"Bordeaux Lac, France","Bordeaux Lac, Avenue des 40 Journaux, Bordeaux",Bordeaux,Nouvelle-Aquitaine,33300,France,16,250,"44.882537, -0.563602",4,Open
+"Honningsv�g, Norway",Nordkappveien 28B next to Rema 1000,Honningsv�g,Troms og Finnmark,9750,Norway,3,250,"70.999582, 25.967243",18,Open
+"Lauenau, Germany",Hanomagstra�e 2,Lauenau,Lower Saxony,31867,Germany,12,250,"52.278674, 9.350953",83,Open
+"Xinzo de Limia, Spain","Pista de Morgade, 0 S N",Xinzo de Limia,Galicia,32630,Spain,12,250,"42.0785428, -7.7150867",618,Open
+"Lermoos, Austria","Innsbruckerstrasse 40, Hotel MOHR life resort",Lermoos,Tyrol,6631,Austria,10,125,"47.3948, 10.887553",1006,Open
+"Sch�nefeld, Germany",Hans-Grade-Allee 5,Sch�nefeld,,12529,Germany,16,250,"52.388579, 13.498116",46,Open
+"Lokeren, Belgium",Zelebaan 100,Lokeren,East Flanders,9160,Belgium,14,250,"51.095118, 4.011868",3,Open
+"Augsburg, Germany",Gablinger Weg 83,Augsburg,Bavaria,86145,Germany,12,250,"48.398919, 10.867978",471,Open
+"Landquart, Switzerland",Tardisstrasse 93,Landquart,Grisons,7302,Switzerland,20,250,"46.965802, 9.552839",522,Open
+"Gulsvik, Norway","Bj�rkvikmoen 5, next to Circle K station",Fl�,Viken,3539,Norway,22,150,"60.381236, 9.610003",147,Open
+"Bergamo Dalmine, Italy",via Provinciale,Dalmine,Lombardy,24040,Italy,20,250,"45.652139, 9.619",207,Open
+"Bunnik, Netherlands",Baan van Fectio 1,Bunnik,Utrecht,3981 HZ,Netherlands,24,250,"52.061418, 5.20582",2,Open
+"Forus, Norway",Lagerveien 9,Stavanger,Rogaland,4033,Norway,12,250,"58.896891, 5.703047",10,Open
+"Jettingen-Scheppach, Germany",Robert-Bosch-Str. 10 (Autohof),Jettingen,Bavaria,89343,Germany,8,130,"48.411068, 10.440378",464,Open
+"Cardiff (SC), UK",Croescadarn Close,Cardiff,Wales,CF23 8HE,United Kingdom,8,250,"51.5314, -3.1401",40,Open
+"Cesson, France",10 Rue Maison�ment,Cesson,�le-de-France,77240,France,12,250,"48.584586, 2.604098",83,Open
+"Chalon-sur-Sa�ne, France",Rue Thalie,Chalon-sur-Sa�ne,Bourgogne-Franche-Comt�,71100,France,28,250,"46.796141, 4.835155",177,Open
+"Agen, France",2 All�e Joseph Lacroix,Bo�,Nouvelle-Aquitaine,47550,France,20,250,"44.1781628, 0.629891",47,Open
+"�rnskoldsvik - South, Sweden",Rondellplan 3,�rnsk�ldsvik,�ngermanland,891 31,Sweden,20,250,"63.290372, 18.704289",18,Open
+"Leigh Delamere, UK","Leigh Delamere Westbound, M4, Chippenham",Chippenham,,SN14 6LB,United Kingdom,16,250,"51.5101, -2.1563",102,Open
+"Serravalle Scrivia, Italy","1 via della moda, Serravalle Designer Outlet",Serravalle Scrivia,Piedmont,15069,Italy,8,250,"44.735582, 8.839758",232,Open
+"Geiselwind, Germany",Scheinfelder Stra�e 15,Geiselwind,Bavaria,96160,Germany,34,250,"49.769144, 10.470409",354,Open
+"Riga, Latvia","Maskavas iela 257, Latgales priek_pils_ta",Riga,,LV-1019,Latvia,4,250,"56.9241585, 24.1769479",8,Open
+"Hartola, Finland",Yhdystie 2,Hartola,P�ij�t-H�me,19600,Finland,12,250,"61.579142, 26.007801",108,Open
+"Fredericia, Denmark",Strevelinsvej 13,Fredericia,Syddanmark,7000,Denmark,24,250,"55.534407, 9.717122",19,Open
+"Clermont-Ferrand, France",32-34 rue Georges Besse,Clermont-Ferrand,Auvergne-Rh�ne-Alpes,63100,France,16,250,"45.785937, 3.141488",332,Open
+"Zaventem, Belgium",Weiveldlaan 29,Zaventem,Flemish Brabant,1930,Belgium,16,250,"50.869908, 4.501757",64,Open
+"Brive-la-Gaillarde, France",H�tel Mercure Brive Le Griffolet,Ussac,Nouvelle-Aquitaine,19270,France,20,250,"45.16724, 1.483119",107,Open
+"Emsb�ren, Germany",Carl-von-Linne-Stra�e 1,Emsb�ren,Lower Saxony,48488,Germany,24,250,"52.359241, 7.264215",32,Open
+"Hilden, Germany",Zum J�gerhof,Hilden,North Rhine-Westphalia,40724,Germany,40,250,"51.191263, 6.937104",56,Open
+"V�stra Fr�lunda, Sweden",Lona Knapes gata 1 (shopping centre),G�teborg,V�sterg�tland,421 32,Sweden,28,250,"57.65163, 11.95111",15,Open
+"Kliplev, Denmark",Hjernesh�jvej 2,Aabenraa,Syddanmark,6200,Denmark,24,250,"54.940306, 9.378315",35,Open
+"Wallisellen, Switzerland",Neue Winterthurerstrasse 99,Wallisellen,Zurich,8304,Switzerland,20,250,"47.407882, 8.598128",433,Open
+"Ludvika, Sweden",Pr�stg�rdsgatan 13,Ludvika,Dalarna,771 32,Sweden,12,250,"60.151707, 15.192061",163,Open
+"Ringdalskogen, Norway",6 Ringdalskogen,Larvik,Vestfold og Telemark,3270,Norway,20,150,"59.112393, 10.108783",89,Open
+"Sisteron, France",1 All�e des Tilleuls,Sisteron,Provence-Alpes-C�te d�Azur,4200,France,12,250,"44.226199, 5.913554",505,Open
+"Puoltikasvaara, Sweden",Nya skolv�gen,G�llivare,Lappland,982 05,Sweden,6,250,"67.440617, 21.114774",405,Open
+"Northeim Nord, Germany",Westerlange 3,Northeim,Lower Saxony,37154,Germany,12,250,"51.731887, 9.972491",126,Open
+"Wertheim - Almosenberg, Germany",Almosenberg 7,Wertheim,Baden-W�rttemberg,97877,Germany,12,250,"49.7715509, 9.5828063",183,Open
+"Satteldorf, Germany",Marco-Polo-Stra�e 1,Satteldorf,Baden-W�rttemberg,74589,Germany,10,250,"49.181182, 10.069335",431,Open
+"R�sselsheim, Germany",Am Steinmarkt,R�sselsheim am Main,Hesse,65428,Germany,20,250,"49.9684, 8.39028",89,Open
+"Mantova, Italy","via Falcone, Mantova Village",Bagnolo San Vito,Lombardy,46031,Italy,16,250,"45.086572, 10.856197",18,Open
+"Milano - Citylife, Italy","Viale Cassiodoro 11, parcheggio CityLife, ingresso Cassiodoro, parcheggio B17",Milano,Lombardy,20145,Italy,6,250,"45.476797, 9.159615",126,Open
+"Beynost, France",Zac des Baterses,Beynost,Auvergne-Rh�ne-Alpes,1700,France,16,250,"45.823881, 4.9975498",178,Open
+"Hamburg - EEZ, Germany",Osdorfer Landstra�e,Hamburg,Hamburg,22609,Germany,12,250,"53.571600951, 9.86041623",40,Open
+"Swansea, UK","M4, Junction 47",Swansea,,SA4 9GT,United Kingdom,12,250,"51.6787, -3.994",78,Open
+"Murr, Germany",Gottlieb-Daimler-Str. 40,Murr,Baden-W�rttemberg,71711,Germany,12,250,"48.956252, 9.245274",229,Open
+"Bron, France","Rue Andr� Boulloche, Aushopping Porte des Alpes, section 14",Bron,Auvergne-Rh�ne-Alpes,69500,France,28,250,"45.721799, 4.923919",200,Open
+"Poysdorf, Austria",Am Golfplatz,Poysdorf,Lower Austria,2170,Austria,6,125,"48.676647, 16.622998",234,Open
+"St. Valentin, Austria","OMV St. Valentin, Rasthausstra�e 3",St. Valentin,Lower Austria,4300,Austria,8,125,"48.19653, 14.527744",263,Open
+"Machelen, Belgium",Culliganlaan 4,Machelen,Flemish Brabant,1831,Belgium,8,73,"50.887736, 4.453052",42,Open
+"Kamenn_ �jezd, Czech Republic","520, Kamenn_ �jezd 520",Kamenn_ �jezd,South Bohemian,370 07,Czech Republic,8,250,"48.887612, 14.436796",486,Open
+"Lovosice, Czech Republic",Si_ejovick� 233,Lovosice,�st� nad Labem,410 02,Czech Republic,8,250,"50.511472, 14.052583",154,Open
+"Vestec, Czech Republic",V�de_sk� 360,Vestec,Central Bohemian,252 42,Czech Republic,8,125,"49.9898398, 14.4907623",313,Open
+"Mantorp, Sweden",Runv�gen 2,Mantorp,�sterg�tland,590 17,Sweden,40,250,"58.365742, 15.29407",94,Open
+"Spittal an der Drau, Austria",Villacher Str. 136,Spittal an der Drau,Carinthia,9800,Austria,12,250,"46.7861, 13.5218105",537,Open
+"Slagelse, Denmark","By Hotel Antvorskov Trafikcenter Alle 2-4, exit 39 from E20",Slagelse,Sj�lland,4200,Denmark,10,150,"55.387922, 11.361762",48,Open
+"K�ge, Denmark",Servicevej,K�ge,Sj�lland,4600,Denmark,26,150,"55.489273, 12.162788",32,Open
+"Biberwier, Austria",Pfarrer-Fink-Weg,Biberwier,Tyrol,106633,Austria,6,150,"47.372431, 10.886093",1028,Open
+"St. Anton, Austria",Arlbergstrasse 77,St. Anton am Arlberg,Tyrol,6580,Austria,10,125,"47.130862, 10.270811",1285,Open
+"Vienna - Tech Park Vienna (SC), Austria",Gutheil Schoder-Gasse 17,Vienna,Vienna,1230,Austria,4,150,"48.1574455, 16.3345536",190,Open
+"Wavre, Belgium",Rue de la Wastinne 45,Wavre,Walloon Brabant,1301,Belgium,24,250,"50.707559, 4.597822",46,Open
+"Arlon, Belgium",Rue des Ardennes,Arlon,Luxembourg,6706,Belgium,30,250,"49.647975, 5.818863",363,Open
+"Aalst, Belgium",Villalaan 16,Aalst,East Flanders,9300,Belgium,12,250,"50.921724, 4.032527",22,Open
+"Randers, Denmark",Graceland Randers Vej 3,Randers,Midtjylland,8960,Denmark,14,130,"56.433685, 10.055412",30,Open
+"Schweitenkirchen, Germany",Robert-Koch-Stra�e 1,Schweitenkirchen,Bavaria,85301,Germany,8,150,"48.510724, 11.58227",511,Open
+"Dasing Bauernmarkt, Germany",An den Brandleiten 6,Dasing,Bavaria,86453,Germany,16,250,"48.393731, 11.070452",486,Open
+"T�rkheim, Germany",Mindelheimer Str. 1,T�rkheim,Bavaria,86842,Germany,8,250,"48.042523, 10.62013",607,Open
+"Motten, Germany",Hauptstra�e 13,Motten,Bavaria,97786,Germany,16,150,"50.355562, 9.753987",360,Open
+"Erlangen, Germany",Wetterkreuz 7,Erlangen,Bavaria,91058,Germany,16,250,"49.543976, 11.028674",305,Open
+"Kirchheim bei M�nchen (SC), Germany",Ammerthalstra�e 24,Kirchheim bei M�nchen,Bavaria,85551,Germany,2,150,"48.150947, 11.74846",524,Open
+"M�nchen - OEZ, Germany",Riesstra�e 59,M�nchen,Bavaria,80993,Germany,12,250,"48.184472, 11.532417",505,Open
+"Neum�nster - Freesen Center, Germany",Wasbeker Str. 330,Neum�nster,Schleswig-Holstein,24537,Germany,20,250,"54.070285, 9.94136",21,Open
+"Zella-Mehlis, Germany",An der Quelle 5 by Toschis Station,Zella-Mehlis,Thuringia,98544,Germany,20,250,"50.643912, 10.68499",544,Open
+"Panketal, Germany",Dorfstra�e 1a,Panketal,Brandenburg,16341,Germany,8,250,"52.621233, 13.541756",64,Open
+"Gelnhausen, Germany","L�tzelh�user Weg 13, by HEM gas station",Gelnhausen,Hesse,63571,Germany,11,250,"50.188705, 9.18604",136,Open
+"Pyht��, Finland",Kotitie 10,Pyht��,Kymenlaakso,49270,Finland,10,150,"60.489054, 26.554835",20,Open
+"Strasbourg, France",Rue du 23 Novembre,Ostwald,Grand Est,67400,France,8,150,"48.534041, 7.702054",144,Open
+"Eurotunnel, France","Eurotunnel boarding/waiting area, ticket for tunnel needed",Coquelles,Hauts-de-France,62231,France,8,125,"50.935031, 1.812951",6,Open
+"Bordeaux, France",80 Avenue J. F. Kennedy,Merignac,Nouvelle-Aquitaine,33700,France,10,150,"44.835346, -0.681374",50,Open
+"Val-de-Meuse, France","Route d'Avrecourt, D132, A31",Val-de-Meuse,Grand Est,52140,France,16,150,"47.99147, 5.51296",355,Open
+"Ch�teauroux, France","Relais Saint Jacques, Ch�teauroux-Centre",Coings,Centre-Val de Loire,36130,France,8,150,"46.863058, 1.716048",160,Open
+"Limoges, France",2 Avenue d'Uzurat,Limoges,Nouvelle-Aquitaine,87280,France,10,150,"45.867722, 1.271213",307,Open
+"Dardilly, France",All�e Du Camping International,Dardilly,Auvergne-Rh�ne-Alpes,69570,France,16,250,"45.820521, 4.760541",330,Open
+"Aire de l�Abis, France",Aire de Service de l'Abis,Saint Jeoire-Prieur�,Auvergne-Rh�ne-Alpes,73190,France,12,250,"45.52497, 5.976822",318,Open
+"Aire des Portes d'Angers, France",Aire des Portes d'Angers,Saint-Sylvain-d'Anjou,Pays de la Loire,49480,France,12,250,"47.49886598483882, -0.4914664827243",27,Open
+"Rivesaltes, France",Rue Georges M�li�s,Rivesaltes,Occitanie,66000,France,20,250,"42.775309, 2.908242",18,Open
+"Laxou, France",Rue de la Sapini�re,Laxou,Grand Est,54520,France,28,250,"48.691333, 6.127778",352,Open
+"Bailly-Romainvilliers, France",Av. Johannes Gutenberg,Bailly-Romainvilliers,�le-de-France,77700,France,16,250,"48.83624, 2.799896",128,Open
+"Sallanches, France",Avenue de Gen�ve 1751,Sallanches,Auvergne-Rh�ne-Alpes,74700,France,12,250,"45.951545, 6.62879",531,Open
+"Orange, France",Rue Cinsault,Orange,Provence-Alpes-C�te d�Azur,84100,France,16,250,"44.112164, 4.851759",61,Open
+"Meg�ve, France",271 Route de Sallanches,Meg�ve,Auvergne-Rh�ne-Alpes,74120,France,8,250,"45.870906, 6.6300185",1106,Open
+"Avallon, France",33 Rue de la Bergerie,Magny,Bourgogne-Franche-Comt�,89200,France,20,250,"47.5020819, 3.9844909",260,Open
+"Psathopyrgos North, Greece","Psathopyrgos North, E.O. Korinthou Patron",Psathopirgos,Western Greece,265 04,Greece,4,250,"38.325399, 21.868387",46,Open
+"Marseille - La Valentine, France","Centre commercial G�ant, Route de la Sabli�re",Marseille,Provence-Alpes-C�te d�Azur,13011,France,12,250,"43.293595, 5.475508",76,Open
+"Alta, Norway",Skiferveien 4,Alta,Troms og Finnmark,9511,Norway,6,250,"69.961211, 23.232935",14,Open
+"Le Bosc, France",Route des Ruffes,Le Bosc,Occitanie,34700,France,16,250,"43.688484, 3.35455",123,Open
+"Gy�r, Hungary",Gy_r�jbar�t,Gy�r,Western Transdanubia,9081,Hungary,12,250,"47.633274, 17.660977",115,Open
+"Debrecen, Hungary",Kishat�r utca 1.,Debrecen,Northern Great Plain,4031,Hungary,8,125,"47.541266, 21.583575",112,Open
+"Mondov�, Italy","Piazza Cerea 15, Mondovicino Shopping Center",Mondov�,Piedmont,12084,Italy,12,250,"44.420085, 7.850088",386,Open
+"Arezzo, Italy",36t Localita' Battifolle,Arezzo,Tuscany,52100,Italy,24,250,"43.437399, 11.777607",264,Open
+"Arese, Italy",Viale Giuseppe Eugenio Luraghi 11,Arese,Lombardy,20020,Italy,20,250,"45.561389, 9.055827",175,Open
+"Eemnes, Netherlands",Rijksweg 2 Laren,Eemnes,Utrecht,3755 MV,Netherlands,24,250,"52.235563, 5.230138",6,Open
+"Horst, Netherlands",Tienrayseweg 2,Horst,Limburg,5961,Netherlands,16,250,"51.470008, 6.056974",23,Open
+"Urmond, Netherlands","Hotel Stein-Urmond, Mauritslaan 65",Urmond,Limburg,6129 EL,Netherlands,20,150,"50.9881005, 5.7805974",57,Open
+"Zaltbommel, Netherlands",Hogeweg 65,Zaltbommel,Gelderland,5301 LJ,Netherlands,16,150,"51.796286, 5.255085",4,Open
+"Apeldoorn, Netherlands","Van Golsteinlaan 20, 7339 GT",Ugchelen,Gelderland,7339 GT,Netherlands,12,150,"52.177996, 5.912627",42,Open
+"N�rburgring Motorsport Hotel, Germany",Eifel-Ardennen-Stra�e,N�rburg,Rhineland-Palatinate,53520,Germany,4,250,"50.331382, 6.945171",609,Open
+"Wittenburg, Germany",Zur Winterwelt 1,Wittenburg,Mecklenburg-Vorpommern,19243,Germany,10,250,"53.507389, 11.096827",40,Open
+"Aberdeen (SC), UK",Wellington Circle,Aberdeen,Scotland,AB12,United Kingdom,8,250,"57.1103, -2.0925",88,Open
+"Reoc�n, Spain","Autov�a del Cant�brico, km 234",Reoc�n,Cantabria,39538,Spain,8,150,"43.355686, -4.094038",54,Open
+"�desh�g, Sweden","Liljekonvaljv�gen 1, Dinners �stg�taporten",�desh�g,�sterg�tland,599 31,Sweden,14,150,"58.227173, 14.668821",140,Open
+"Sveg, Sweden",Vallarv�gen 5,Sveg,H�rjedalen,84233,Sweden,12,250,"62.034577, 14.366466",350,Open
+"S�derhamn, Sweden",Stickv�gen 3,S�derhamn,H�lsingland,826 40,Sweden,20,250,"61.294906, 17.021147",20,Open
+"Stockholm Infracity (SC), Sweden",Kanalv�gen 16,Upplands V�sby,Uppland,194 61,Sweden,2,120,"59.500624, 17.926818",28,Open
+"St. Moritz, Switzerland","Parkhaus Serletta, via Grevas 53",St. Moritz,Grisons,7500,Switzerland,4,125,"46.496797, 9.84272",1786,Open
+"Ballacolla, Ireland","Topaz Service Station Junction 3, M8",Ballacolla,,,Ireland,8,130,"52.86704, -7.481818",92,Open
+"R�dekro, Denmark","Shell/7eleven, Kometvej 1",R�dekro,Syddanmark,6230,Denmark,16,150,"55.067258, 9.361119",48,Open
+"Str�ngn�s, Sweden",Kvartsgatan 6,Str�ngn�s,S�dermanland,645 47,Sweden,12,250,"59.327976, 17.0165366",30,Open
+"Vernier, Switzerland","Avenue du Pailly 21, P3",Vernier,Geneva,1220,Switzerland,24,250,"46.2190156, 6.1104601",430,Open
+"Padova North, Italy","via Po, Crowne Plaza Hotel",Padova,Veneto,35135,Italy,20,250,"45.454333, 11.856398",15,Open
+"Fleet Southbound, UK","Welcome Break, Southbound, M3",Fleet,,GU51 1AA,United Kingdom,8,120,"51.295806, -0.854643",68,Open
+"Aalborg, Denmark",Hobrovej 452,Aalborg,Nordjylland,9300,Denmark,16,250,"57.004169, 9.871296",6,Open
+"Heston Westbound, UK",M4 Junction 2-3,"Heston, Hounslow",,TW5 9NB,United Kingdom,10,250,"51.4883, -0.3957",30,Open
+"Burghfield Westbound, UK",M4 Motorway,"Burghfield, Reading,",,RG30 3UQ,United Kingdom,12,250,"51.422854, -1.035311",44,Open
+"Birch Westbound, UK","M62 Birch Services, Whittle Lane",Heywood,,OL10 2RB,United Kingdom,10,250,"53.5675, -2.2294",112,Open
+"Salamanca, Spain","Av. E. Leclerc, 1",Carbajosa de la Sagrada,Castile and Le�n,37900,Spain,16,250,"40.94559, -5.63941",791,Open
+"Thurrock, UK",31135 Arterial Rd West Thurrock,Grays,,RM16 3BG,United Kingdom,16,150,"51.4926, 0.2713",16,Open
+"Kongens Lyngby, Denmark",Gasv�rksvej 6-8,Kongens Lyngby,Hovedstaden,2800,Denmark,12,250,"55.771271, 12.504473",23,Open
+"Matosinhos, Portugal",Avenida Doutor �scar Lopes,Matosinhos,Norte,4450-745,Portugal,12,250,"41.208194, -8.688396",44,Open
+"Sallent, Spain","C-16, km 59",Sallent,Catalonia,8650,Spain,16,250,"41.789777, 1.897887",270,Open
+"Svolv�r - Caroline Harveys vei, Norway",Caroline Harveys vei 8,Svolv�r,Nordland,8300,Norway,8,250,"68.238823, 14.566358",12,Open
+"Innlandsporten, Norway",Kolomoen,Tangen,Innlandet,2337,Norway,20,250,"60.630735, 11.301699",183,Open
+"Castelo Branco, Portugal",Av. Prof. Dr. Egas Moniz,Castelo Branco,Centro,6000-459,Portugal,8,250,"39.806555, -7.515678",365,Open
+"Steinkjer, Norway","Bogavegen, close to Rema 1000 Nordsia",Steinkjer,Tr�ndelag,7725,Norway,28,250,"64.01945407468439, 11.4916092346726",3,Open
+"Arendal, Norway",Frolandsveien 174,Arendal,Agder,4848,Norway,20,250,"58.467275, 8.721572",41,Open
+"Haninge, Sweden",�sterport 4,Haninge,S�dermanland,136 65,Sweden,20,250,"59.180888, 18.159521",34,Open
+"�vry-Courcouronnes, France",3 Rue de la Mare Neuve,�vry-Courcouronnes,�le-de-France,91080,France,8,250,"48.615962, 2.423852",81,Open
+"Blintendorf, Austria",Blintendorfer Str. 20,Blintendorf,Carinthia,9300,Austria,12,250,"46.73038, 14.37838",462,Open
+"Carcassonne, France","G�ant Casino, Boulevard Henry Bouffet",Carcassonne,Occitanie,11000,France,20,250,"43.208029, 2.3100652",120,Open
+"Mandelieu-la-Napoule, France","791 Avenue de Fr�jus, G�ant Casino",Mandelieu-la-Napoule,Provence-Alpes-C�te d�Azur,6210,France,12,250,"43.533144, 6.9333836",3,Open
+"Maribo, Denmark",Europavej,Maribo,Sj�lland,,Denmark,12,250,"54.778712, 11.477333",13,Open
+"Antequera, Spain","Estaci�n de Servicio, Autovia de Malaga A-45 salida 92, 29200 Antequera, M�laga, Spain",Antequera,Andalusia,29200,Spain,12,250,"37.1128821, -4.566694",422,Open
+"Mors, Denmark",Vester Fald 3,Nyk�bing Mors,Nordjylland,7900,Denmark,16,250,"56.788448, 8.828567",4,Open
+"Kaufering, Germany",Viktor-Frankl-Stra�e 3,Kaufering,Bavaria,86916,Germany,12,250,"48.080891, 10.858479",588,Open
+"Bobbau, Germany",Sonnenfeld 2,Bitterfeld-Wolfen,,6766,Germany,20,250,"51.636518, 12.200712",91,Open
+"Ipswich, UK",16 Anglia Parkway South,Ipswich,Ipswich,IP1 5QR,United Kingdom,12,250,"52.0842, 1.1175",40,Open
+"Barcelona Northeast (Badalona), Spain","Carrer de la Conc�rdia, 1",Badalona,Catalonia,8917,Spain,16,250,"41.444076, 2.231425",14,Open
+"Lohfelden, Germany",Alexander-von-Humboldt-Stra�e,Lohfelden,Hesse,34253,Germany,8,250,"51.27187563197629, 9.52591726573977",166,Open
+"M�laga, Spain",C. Alfonso Ponce de Le�n,M�laga,Andalusia,29140,Spain,12,250,"36.6558055, -4.4784348",8,Open
+"San Javier (San Pedro del Pinatar), Spain","N-332, 7, San Pedro del Pinatar",San Javier,Murcia,30740,Spain,12,250,"37.823702, -0.8090609",19,Open
+"Montabaur, Germany",In der Kesselwiese,Montabaur,,56410,Germany,24,250,"50.443448124710024, 7.831554485702848",220,Open
+"Solingen, Germany",Landwehr,Solingen,,42697,Germany,8,250,"51.1300415, 6.9970277",84,Open
+"Riom, France",4 Avenue Georges Gershwin,Riom,Auvergne-Rh�ne-Alpes,63200,France,16,250,"45.896297, 3.137733",322,Open
+"Norwich (SC), UK",79 Mile Cross Ln NR6 6TX,Norwich,,NR6 6TX,United Kingdom,12,250,"52.656328, 1.287747",20,Open
+"Rodez, France","Ch�teau de Fontanges, Route de Conques",Onet-le-Ch�teau,Occitanie,12850,France,6,250,"44.3778535, 2.56482",532,Open
+"Graz, Austria",Weblinger G�rtel 25,Graz,Styria,8054,Austria,16,250,"47.033508, 15.415308",351,Open
+"Bielefeld, Germany",Beckhausstra�e 64,Bielefeld,North Rhine-Westphalia,33611,Germany,12,250,"52.03915, 8.54419",104,Open
+"Blyth, UK",Moto Service Area,Blyth,,S81 8HG,United Kingdom,12,250,"53.387004, -1.0595363",29,Open
+"Barberino di Mugello, Italy","Via Antonia Meucci, Designer Outlet Barberino",Barberino di Mugello,,50031,Italy,8,250,"43.984139, 11.215834",271,Open
+"Espoo, Finland","Nimismiehenpelto 1, behind Neste station",Espoo,,2770,Finland,10,250,"60.214756, 24.653074",17,Open
+"Bonn, Germany",Am Bonner Bogen,Bonn,North Rhine-Westphalia,53227,Germany,12,250,"50.71866, 7.152266",57,Open
+"Sheffield, UK",Meadowhall retail park,Sheffield,,S9 2YZ,United Kingdom,12,250,"53.4053285, -1.4144881",38,Open
+"Durham, UK",Roadchef Durham Services,Tursdale Rd,Durham,DH6 5NP,United Kingdom,12,250,"54.7295, -1.5229",96,Open
+"Wetherby, UK","Moto Wetherby Services, J46,",Wetherby,,LS22 5GT,United Kingdom,12,250,"53.9479261, -1.3698199",23,Open
+"Bergen - Gullgruven senter, Norway",Liamyrane 1,Nyborg,Vestland,5132,Norway,24,250,"60.472583, 5.332918",90,Open
+Vejle. Denmark,Godth�bsvej,Vejle,Syddanmark,7100,Denmark,16,250,"55.663885, 9.55047487",76,Open
+"Vestnes, Norway","Brugata 2, next to Shell",Vestnes,M�re og Romsdal,6390,Norway,20,250,"62.622539, 7.089357",7,Open
+"Stafford Northbound, UK",M6 Motorway (N) Junction 14/15,"Stone, Staffordshire,",,ST15 0EU,United Kingdom,12,250,"52.885291, -2.171902",115,Open
+"Glasgow (SC), UK",20 Kennedy Street,Glasgow,,G4 0EB,United Kingdom,8,250,"55.8675, -4.2392",47,Open
+"Gateshead, UK",Park Road,Felling,Gateshead,NE10 0XF,United Kingdom,4,250,"54.9608607, -1.5833435",30,Open
+"Lillesand - YX Station, Norway",Legdene 1,Lillesand,Agder,4790,Norway,40,250,"58.2398, 8.29855",102,Open
+"Uckfield, UK",*Land south of Copwood Farm*,Uckfield,,TN22 3PT,United Kingdom,8,250,"50.968, 0.0797",21,Open
+"Gatwick Airport, UK",Gatwick Airport,Horley,,RH6 0NT,United Kingdom,8,250,"51.1563, -0.1535",59,Open
+"Rownhams Northbound, UK",Northbound Services,Southampton,Hampshire,SO16 8AP,United Kingdom,12,250,"50.9581273, -1.4480566",55,Open
+"Porta Westfalica, Germany",Am Autohof 4,Porta Westfalica,,32457,Germany,20,250,"52.2095, 8.87243",61,Open
+"Kajaani, Finland",Koulukato 15,Kajaani,Kainuu,87100,Finland,4,250,"64.222992, 27.738964",132,Open
+"Trysil, Norway",Storvegen 5 - Trysil r�dhus,Trysil,Innlandet,2420,Norway,10,250,"61.31603515619022, 12.2644302248954",368,Open
+"Ferndown (SC), UK",282 New Road,West Parley,Ferndown,BH22 8ER,United Kingdom,8,250,"50.7909134, -1.8868013",30,Open
+"Skedsmokorset, Norway",Furuholtet 10 by Rema 1000,Skedsmokorset,Viken,2020,Norway,12,250,"59.999433, 11.041793",196,Open
+"Reine, Norway",Reine ytre havn,Reine,Nordland,8390,Norway,6,250,"67.934635, 13.094319",0,Open
+"Stevenage, UK",J7 A1M,Stevenage,Herts,SG1 2AX,United Kingdom,8,250,"51.887469, -0.207803",95,Open
+"Plymouth, UK",90 90 Outland Road,Plymouth,,PL2 3DE,United Kingdom,4,250,"50.3905524, -4.1511681",53,Open
+"Bridgwater, UK","Taunton Rd, North Petherton",Bridgwater,,TA6 6ZG,United Kingdom,8,250,"51.1030234, -3.0003515",25,Open
+"Parndorf, Austria",Shoppingstra�e 1,Parndorf,Burgenland,7111,Austria,20,250,"47.98035, 16.8426158",175,Open
+"Bromborough, UK","Bromborough Electric Forecourt, Old Hall Road",Bromborough,Wirral,CH62 3PE,United Kingdom,8,250,"53.3312, -2.9725",36,Open
+"Nevendon, UK","Nevendon Electric Forecourt, A127 Nevendon Flyover",Wickford,Essex,SS12 0FH,United Kingdom,4,250,"51.5939593, 0.5004898",14,Open
+"Selb, Germany",Vielitzer Str. 30-32,Selb,,95100,Germany,12,250,"50.17141845, 12.1225639",546,Open
+"�rnes, Norway","Havnevesen, near the ferry terminal",�rnes,Nordland,8150,Norway,8,250,"66.86819948415906, 13.7033575773239",0,Open
+"Yeovil, UK",Lynx West Trading Estate,Yeovil,,BA20 2HP,United Kingdom,4,250,"50.9341711, -2.6679615",48,Open
+"Buchholz, Germany",An der Autobahn 4,Buchholz (Aller),,29690,Germany,8,250,"52.673902, 9.68717",29,Open
+"Sheffield (SC), UK",Drakehouse Cresent,Sheffield,,S20 7JG,United Kingdom,14,250,"53.346122, -1.3563877",83,Open
+"Annandale Water, UK",Roadchef - Annandale Water (A74),Johnstonebridge,,DG11 1HD,United Kingdom,9,250,"55.2195818, -3.41087",74,Open
+"Oslo-Bogstadveien, Norway",Bostadveien 1 Parking,Oslo,Oslo,355,Norway,20,250,"59.924146, 10.726216",48,Open
+"Kristiansand, Norway",Avenyen 45,Kristiansand,Agder,4636,Norway,12,250,"58.177074, 8.136053",82,Open
+"Evenes, Norway","Normann Skoglunds Vei 19, by Sure hotel",Evenes,Nordland,8536,Norway,8,250,"68.497551, 16.702765",41,Open
+"Roye, France",Route de Rosi�res,Roye,Hauts-de-France,80700,France,40,250,"49.7093132, 2.773372",83,Open
+"Nordfjordeid, Norway",Sj�gata 111,Nordfjordeid,Vestland,6770,Norway,16,250,"61.912502, 5.980337",4,Open
+"Bern, Switzerland",Riedbachstrasse 100,Bern,Bern,3027,Switzerland,20,250,"46.943633, 7.370574",549,Open
+"Zeltweg, Austria",Hauptstr. 242,Zeltweg,Styria,8740,Austria,12,250,"47.194345, 14.722713",689,Open
+"Stord, Norway",Vabakkjen 5,Stord,Vestland,5411,Norway,12,250,"59.775422, 5.487135",47,Open
+"Brierley Hill, UK","Port West Retail Park, Dudley Road, Brierley Hill, DY5 1AJ",Birmingham,West Midlands,DY5 1AJ,United Kingdom,12,250,"52.488298, -2.119374",146,Open
+"R�dberg, Norway","Norevegen 3, by Kiwi",R�dberg,Viken,3630,Norway,12,250,"60.266219, 8.946864",381,Open
+"Yl�j�rvi, Finland",Kumitie 2,Yl�j�rvi,Pirkanmaa,33470,Finland,12,250,"61.55679, 23.562391",138,Open
+"Peine, Germany",Wilhelm-Rausch-Stra�e,Peine,,31228,Germany,40,250,"52.340043, 10.24739",66,Open
+"Gudvangen, Norway",Shell station by E16,Gudvangen,Vestland,5747,Norway,9,250,"60.87962, 6.845877",23,Open
+"Hartlepool, UK",Whelly Hill Farm,Hartlepool,,TS27 3BH,United Kingdom,4,250,"54.701179, -1.306508",126,Open
+"Kupferzell, Germany",G�nther-Ziehl-Stra�e,Kupferzell,Baden-W�rttemberg,74635,Germany,22,250,"49.205262, 9.681546",348,Open
+"London-Edmonton (SC), UK",Ravenside retail park,Edmonton,London,N18 3HA,United Kingdom,12,250,"51.61135595469978, -0.0431683199",11,Open
+"Narvik, Norway",Inside Parkhallen parking at Kommuneveien,Narvik,Nordland,8514,Norway,12,250,"68.436604, 17.425121",41,Open
+"F�rde, Norway",Kronborgvegen 34,F�rde,Vestland,6800,Norway,20,250,"61.4483, 5.886444",0,Open
+"Winchester (Northbound), UK","Winchester Services (nortbhound), M3",Wincehster,,SO21 1PP,United Kingdom,12,250,"51.120003, -1.254721",95,Open
+"Winchester (Southbound), UK","Winchester Services (Soutbhound), M3",Wincehster,,SO21 1PP,United Kingdom,12,250,"51.115658, -1.254711",106,Open
+"Montmarault, France",ZAC du Ch�teau d�Eau,Montmarault,Auvergne-Rh�ne-Alpes,3390,France,15,250,"46.331152, 2.974362",489,Open
+"Milton Keynes (SC), UK","Unit 3 Merton Drive, Redmoor",Milton Keynes,,MK6 4AG,United Kingdom,8,250,"52.0138367, -0.745584",88,Open
+"V�ringsfossen, Norway",Fossatromma,V�ringsfoss,,5785,Norway,16,250,"60.425737, 7.245859",570,Open
+"Krokstadelva, Norway",Flisveien 3,Krokstadelva,,3055,Norway,16,250,"59.758305, 9.994753",8,Open
+"London - Park Royal (SC), UK",152 Dukes Road,London,,W3 0SL,United Kingdom,16,250,"51.526668, -0.283421",45,Open
+"Aksdal, Norway","by Aksdal senter, E134",Aksdal,Rogaland,5570,Norway,8,150,"59.423006, 5.44306",41,Open
+"London Tower, UK",St. Katharines Way,London,,E1W 1LD,United Kingdom,2,130,"51.506333, -0.072778",12,Open
+"Kastrup, Denmark",Kirstineh�j 43,Kastrup,Hovedstaden,2770,Denmark,2,120,"55.614459, 12.613533",2,Open
+"Stuhr (Bremen-Brinkum), Germany","103-117 Bremer Stra�e, by Ochtum park. Exit 57 from A1",Stuhr,Lower Saxony,28816,Germany,4,120,"53.02836, 8.806156",6,Open
+"Graz (SC), Austria",Maggstra�e 19,Graz,Styria,8042,Austria,4,120,"47.037208, 15.478644",348,Open
+"Aire de Reims-Champagne-Nord, France",A4 Aire de Reims Nord,Les Petites-Loges,Grand Est,51400,France,6,150,"49.119348, 4.245689",119,Open
+"Linz - B�ckerfeldstra�e (SC), Austria",B�ckerfeldstra�e 9,Traun,Upper Austria,4050,Austria,4,120,"48.237012, 14.240255",273,Open
+"Royal Victoria Docks, UK",Tidal Basin Rd,London,,E16 1GB,United Kingdom,2,130,"51.507022, 0.015928",2,Open
+"Kozina, Slovenia (old)",u blizini Po_ivali__e Ravne,Kozina,Littoral�Inner Carniola,6240,Slovenia,6,150,"45.60492, 13.928521",494,Open
+"Thaur, Austria",Physiothermstra�e 1,Thaur,Tyrol,6065,Austria,6,150,"47.276895, 11.469563",564,Open
+"London - North Greenwich, UK -old","Waterview Dr, Greenwich Peninsula",London,,SE10 0TW,United Kingdom,12,150,"51.503454, -0.000312",6,Open
+"Grafarholt, Iceland",Kr�kh�ls 13,Reykjav�k,Capital Region,110,Iceland,2,120,"64.124411, -21.776826",43,Open
+"Berlin (SC), Germany",Alexander-Mei�ner Strasse 24-26,Berlin,,12526,Germany,2,120,"52.394056, 13.542307",44,Open
+"Villach-Ost, Austria",Kleinstattelstra�e 4,Villach,Carinthia,9500,Austria,6,120,"46.6017853, 13.8833392",506,Open
+"N�rburgring, Germany",Dorint Am N�rburgring Hocheifel,N�rburg,,53520,Germany,2,135,"50.3352, 6.949047",619,Open
+"Hamburg - Essener Stra�e (SC), Germany","Valvo Park, Unit C-20",Hamburg,,22419,Germany,2,120,"53.668642, 9.995189",24,Open
+"M�nchen-Feldkirchen service center, Germany",Hohenlindner Stra�e 48a,Feldkirchen,,85622,Germany,2,120,"48.145652, 11.741631",527,Open
+"Amsterdam, Netherlands",Burgemeester Stramanweg 122,Amsterdam,North Holland,1101 GG,Netherlands,16,120,"52.31061, 4.936187",-3,Open
+"Cagnes-sur-Mer � Polygone Riviera P2, France",27-9 Rue de la Grange Rimade,Cagnes-sur-Mer,Provence-Alpes-C�te d'Azur,6800,France,4,125,"43.666884, 7.124728",30,Open
+"Naarden, Netherlands",IJsselmeerweg 3,Naarden,North Holland,1411 AA,Netherlands,32,150,"52.30858, 5.141127",2,Open
+"Karlskrona, Sweden","Landbron 1 (private initiative but free for all, max 60kW)",Karlskrona,Blekinge,371 33,Sweden,2,60,"56.165403, 15.585989",4,Open

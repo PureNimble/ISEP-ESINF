@@ -1,0 +1,456 @@
+@startuml
+
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class AVL<E> {
+  + AVL():
+  - twoRotations(Node<E>): Node<E>
+  + insert(E): void
+  + equals(Node<E>, Node<E>): boolean
+  + find(E): E
+  - balanceFactor(Node<E>): int
+  - remove(E, Node<E>): Node<E>
+  + contains(E): boolean
+  + equals(AVL<E>): boolean
+  - rightRotation(Node<E>): Node<E>
+  - leftRotation(Node<E>): Node<E>
+  - insert(E, Node<E>): Node<E>
+  + remove(E): void
+  - balanceNode(Node<E>): Node<E>
+   AVL: AVL<E>
+}
+class BST<E> {
+  + BST():
+  # root: Node<E>
+  + preOrder(): Iterable<E>
+  + height(): int
+  + size(): int
+  - toStringRec(Node<E>, int, StringBuilder): void
+  - processBstByLevel(Node<E>, Map<Integer, List<E>>, int): void
+  - posOrderSubtree(Node<E>, List<E>): void
+  # find(Node<E>, E): Node<E>
+  + countAllNodes(): int
+  + smallestElement(): E
+  - insert(E, Node<E>): Node<E>
+  - preOrderSubtree(Node<E>, List<E>): void
+  + nodesByLevel(): Map<Integer, List<E>>
+  + greatestElement(): E
+  # root(): Node<E>
+  + posOrder(): Iterable<E>
+  + printAVL(Node<E>): void
+  + greatestElement(Node<E>): E
+  - size(Node<E>): int
+  + inOrder(): Iterable<E>
+  + countAllNodes(Node<E>): int
+  - remove(E, Node<E>): Node<E>
+  + print(): void
+  + remove(E): void
+  # height(Node<E>): int
+  - inOrderSubtree(Node<E>, List<E>): void
+  # smallestElement(Node<E>): E
+  + insert(E): void
+  + toString(): String
+   empty: boolean
+   root: Node<E>
+}
+interface BSTInterface<E> << interface >> {
+  + preOrder(): Iterable<E>
+  + remove(E): void
+  + smallestElement(): E
+  + size(): int
+  + posOrder(): Iterable<E>
+  + nodesByLevel(): Map<Integer, List<E>>
+  + insert(E): void
+  + height(): int
+  + inOrder(): Iterable<E>
+   empty: boolean
+}
+class BatteryUsage {
+  + BatteryUsage(String, String, String, String, String, String):
+  - batteryVoltage: String
+  - batterySoc: String
+  - airPowerKw: String
+  - baterryCurrent: String
+  - airPowerWatts: String
+  - heatPowerWatts: String
+  + toString(): String
+  + equals(Object): boolean
+  + hashCode(): int
+   airPowerKw: String
+   baterryCurrent: String
+   batterySoc: String
+   batteryVoltage: String
+   airPowerWatts: String
+   heatPowerWatts: String
+}
+class Coordinates {
+  + Coordinates():
+  + Coordinates(String, String):
+  - latitude: double
+  - longitude: double
+  + equals(Object): boolean
+  + compare(Coordinates, Coordinates): int
+  + toString(): String
+  + hashCode(): int
+  + distance(Coordinates): double
+   latitude: Double
+   longitude: Double
+}
+class DayNum {
+  + DayNum(String):
+  + DayNum(String, AVL<TripID>):
+  - daynum: String
+  ~ tripAVL: AVL<TripID>
+  + compareTo(DayNum): int
+  + toString(): String
+   tripAVL: AVL<TripID>
+   daynum: String
+}
+class FuelExpendures {
+  + FuelExpendures(String, String, String, String, String, String):
+  - speed: Double
+  - oat: String
+  - maf: String
+  - rpm: String
+  - fuelRate: String
+  - load: String
+  + equals(Object): boolean
+  + hashCode(): int
+   oat: String
+   fuelRate: String
+   speed: Double
+   maf: String
+   load: String
+   rpm: String
+}
+class FuelTrimBank {
+  + FuelTrimBank(String, String, String, String):
+  - shortFuelTrimBank1: String
+  - shortFuelTrimBank2: String
+  - longFuelTrimBank2: String
+  - longFuelTrimBank1: String
+  + toString(): String
+  + equals(Object): boolean
+  + hashCode(): int
+   shortFuelTrimBank1: String
+   longFuelTrimBank1: String
+   longFuelTrimBank2: String
+   shortFuelTrimBank2: String
+}
+class Import {
+  + Import():
+  + importTrips(): List<Trip>
+  - importVehicles(InputStream): List<Vehicle>
+  + mergeImportedVehicles(): List<Vehicle>
+}
+class KDNode<E> {
+  + KDNode(E, KDNode<E>, KDNode<E>, double, double):
+  + KDNode(E, double, double):
+  # right: KDNode<E>
+  # coords: Double
+  # left: KDNode<E>
+  # element: E
+   right: KDNode<E>
+   element: E
+   coords: Double
+   left: KDNode<E>
+}
+class KDTree<E> {
+  + KDTree():
+  # root: KDNode<E>
+  + preOrder(): Iterable<E>
+  - findKNearestNeighbors(KDNode<E>, Double, PriorityQueue<Neighbor<E>>, int, boolean): void
+  + rangeSearch(double, double, double, double): List<E>
+  + exactFind(double, double): E
+  - insertByMedian(List<KDNode<E>>, boolean): KDNode<E>?
+  + remove(double, double): void
+  - size(KDNode<E>): int
+  - postOrderTraversal(KDNode<E>, List<E>): void
+  + countAllNodes(): int
+  - findMinNode(KDNode<E>, boolean): KDNode<E>
+  + findNearestNeighbor(double, double): E
+  - findNearestNeighbor(KDNode<E>, Double, KDNode<E>, boolean): KDNode<E>
+  - countNodes(KDNode<E>): int
+  - isWithinRange(Double, Double, Double): boolean
+  + insert(E, double, double): void
+  + height(): int
+  - remove(KDNode<E>, Double, boolean): KDNode<E>
+  - height(KDNode<E>): int
+  - preOrderTraversal(KDNode<E>, List<E>): void
+  + posOrder(): Iterable<E>
+  - exactFind(KDNode<E>, Double, boolean): E
+  + size(): int
+  + insertByMedian(List<E>, List<Double>, List<Double>): void
+  + findKNearestNeighbors(double, double, int): List<E>
+  - inOrderTraversal(KDNode<E>, List<E>): void
+  - rangeSearch(KDNode<E>, List<E>, boolean, Double, Double): void
+  - insert(KDNode<E>, KDNode<E>, boolean): KDNode<E>
+  + inOrder(): Iterable<E>
+   root: KDNode<E>
+   empty: boolean
+   kdTree: KDTree<E>
+}
+interface KDTreeInterface<E> << interface >> {
+  + posOrder(): Iterable<E>
+  + insert(E, double, double): void
+  + insertByMedian(List<E>, List<Double>, List<Double>): void
+  + remove(double, double): void
+  + findNearestNeighbor(double, double): E
+  + countAllNodes(): int
+  + preOrder(): Iterable<E>
+  + height(): int
+  + rangeSearch(double, double, double, double): Iterable<E>
+  + exactFind(double, double): E
+  + findKNearestNeighbors(double, double, int): List<E>
+  + size(): int
+  + inOrder(): Iterable<E>
+   empty: boolean
+}
+class Main {
+  + Main():
+  + exercicio6(String, String, String, String, int): List<String>
+  + exercicio4(List<Integer>): Map<Integer, String>
+  + exercicio3(LinkedList<String>): LinkedList<TripOriginDest>
+  + mainKDTree(): AVL<TripKD>
+  + exercicio1(Integer, String): TripSummary
+  - fillTripList(LinkedList<String>): LinkedList<String>
+  - processVehicle(int, Trip, AVL<DayNum>, AVL<Vehicle>): void
+  - collectStatisticsFromDayNum(Node<DayNum>, String, String, List<MaxMinAverageDayNum>, String): void
+  - vehicleVerify(List<Integer>): void
+  - getStandardDeviationSpeed(List<Double>, Double): Double
+  - fillTripOriginDestList(LinkedList<TripOriginDest>, Map<String, TripOriginDest>): void
+  - verifyCoordinates(double, double): void
+  - mainTree(): AVL<Vehicle>
+  - obtainTrips(LinkedList<String>, Map<String, TripOriginDest>): void
+  - getAverageSpeed(List<Double>): Double
+  - collectStatistics(Node<Vehicle>, String, String, List<MaxMinAverageDayNum>): void
+  + exercicio5(String, String, String, String): List<TimeStamp>
+  - checkCoordsString(String, String, String, String): void
+  - collectStatisticsFromTripID(Node<TripID>, String, String, List<MaxMinAverageDayNum>, String): void
+  + exercicio2(String, String): List<MaxMinAverageDayNum>
+  - collectStatisticsFromTimeStamp(Node<TimeStamp>, String, String, List<MaxMinAverageDayNum>, String): void
+  + calculateMaxMinAvg(MaxMinAverageDayNum, TimeStamp): MaxMinAverageDayNum
+   trips: List<Trip>
+   vehicles: List<Vehicle>
+}
+class MaxMinAverageDayNum {
+  + MaxMinAverageDayNum(String):
+  + MaxMinAverageDayNum():
+  - avgAbsoluteLoad: double
+  - vehicleType: String
+  - minAbsoluteLoad: double
+  - avgOutsideAirTemperature: double
+  - maxVehicleSpeed: double
+  - maxAbsoluteLoad: double
+  - dayNum: String
+  - maxOutsideAirTemperature: double
+  - avgVehicleSpeed: double
+  - minVehicleSpeed: double
+  - minOutsideAirTemperature: double
+   minVehicleSpeed: double
+   maxOutsideAirTemperature: double
+   avgOutsideAirTemperature: double
+   maxAbsoluteLoad: double
+   minAbsoluteLoad: double
+   avgAbsoluteLoad: double
+   dayNum: String
+   minOutsideAirTemperature: double
+   avgVehicleSpeed: double
+   vehicleType: String
+   maxVehicleSpeed: double
+}
+class Neighbor<E> {
+  + Neighbor(KDNode<E>, double):
+  # node: KDNode<E>
+  - distance: double
+   node: KDNode<E>
+   distance: double
+}
+class NeighborComparator<E> {
+  + NeighborComparator():
+  + compare(Neighbor<E>, Neighbor<E>): int
+}
+class Node<E> {
+  + Node(E, Node<E>, Node<E>):
+  - element: E
+  - right: Node<E>
+  - left: Node<E>
+   left: Node<E>
+   element: E
+   right: Node<E>
+}
+class TimeStamp {
+  + TimeStamp(String, TripID, BatteryUsage, Coordinates, FuelExpendures, FuelTrimBank):
+  - tripId: TripID
+  - fuelExpendures: FuelExpendures
+  - timestamp: int
+  - batteryUsage: BatteryUsage
+  - coordenates: Coordinates
+  - fuelTrimBank: FuelTrimBank
+  + compareTo(TimeStamp): int
+  + toString(): String
+   fuelTrimBank: FuelTrimBank
+   coordenates: Coordinates
+   fuelExpendures: FuelExpendures
+   tripId: TripID
+   batteryUsage: BatteryUsage
+   timestamp: int
+}
+class Trip {
+  + Trip(String, TripID, BatteryUsage, String, Coordinates, FuelExpendures, FuelTrimBank, String):
+  - timestamp: int
+  - coordenates: Coordinates
+  - batteryUsage: BatteryUsage
+  - fuelExpendures: FuelExpendures
+  - fuelTrimBank: FuelTrimBank
+  - VehId: String
+  - tripId: TripID
+  - dayNum: String
+  + hashCode(): int
+  + compareTo(Trip): int
+  + equals(Object): boolean
+  + toString(): String
+   timestampString: String
+   tripId: TripID
+   VehId: String
+   timestamp: int
+   dayNum: String
+   fuelTrimBank: FuelTrimBank
+   coordenates: Coordinates
+   fuelExpendures: FuelExpendures
+   batteryUsage: BatteryUsage
+}
+class TripID {
+  + TripID(String):
+  + TripID(String, AVL<TimeStamp>):
+  - timeStampAVL: AVL<TimeStamp>
+  + compareTo(TripID): int
+  + hashCode(): int
+  + toString(): String
+   id: String
+   timeStampAVL: AVL<TimeStamp>
+}
+class TripKD {
+  + TripKD(String, KDTree<TimeStamp>):
+  - tripID: String
+  - timeStampKDTree: KDTree<TimeStamp>
+  + hashCode(): int
+  + toString(): String
+  + equals(Object): boolean
+  + compareTo(TripKD): int
+   tripID: String
+   timeStampKDTree: KDTree<TimeStamp>
+}
+class TripOriginDest {
+  + TripOriginDest(Double, Double, Double, Double):
+  - tripID: String
+  - originLatitude: Double
+  - originLongitude: Double
+  - destinationLatitude: Double
+  - destinationLongitude: Double
+  + toString(): String
+   tripID: String
+   destinationLongitude: Double
+   originLongitude: Double
+   originLatitude: Double
+   destinationLatitude: Double
+}
+class TripSummary {
+  + TripSummary(int, Double, Double, Coordinates, Coordinates, int):
+  + TripSummary():
+  - averageSpeed: Double
+  - destination: Coordinates
+  - origin: Coordinates
+  - standardDeviationSpeed: Double
+  - totalTime: int
+  - tripRecordsNum: int
+  + toString(): String
+  + compareTo(TripSummary): int
+   totalTime: int
+   standardDeviationSpeed: Double
+   destination: Coordinates
+   origin: Coordinates
+   averageSpeed: Double
+   tripRecordsNum: int
+}
+class Vehicle {
+  + Vehicle(int, String, String, String, String, String, String):
+  + Vehicle(int):
+  + Vehicle(int, String, String, String, String, String, String, AVL<DayNum>):
+  - vehicleClass: String
+  - engineConfig: String
+  - transmission: String
+  - driveWheels: String
+  - dayNumAVL: AVL<DayNum>
+  - vehType: String
+  - vehID: int
+  - generalizedWeight: String
+  + toString(): String
+  + hashCode(): int
+  + equals(Object): boolean
+  + compareTo(Vehicle): int
+   engineConfig: String
+   dayNumAVL: AVL<DayNum>
+   driveWheels: String
+   vehIDString: String
+   vehType: String
+   vehID: int
+   transmission: String
+   vehicleClass: String
+   generalizedWeight: String
+}
+
+AVL                  -[#000082,plain]-^  BST
+AVL                  -[#595959,dashed]->  Node                : "«create»"
+BST                  -[#008200,dashed]-^  BSTInterface
+BST                 "1" *-[#595959,plain]-> "root\n1" Node
+BST                  -[#595959,dashed]->  Node                : "«create»"
+DayNum              "1" *-[#595959,plain]-> "tripAVL\n1" AVL
+Import               -[#595959,dashed]->  BatteryUsage        : "«create»"
+Import               -[#595959,dashed]->  Coordinates         : "«create»"
+Import               -[#595959,dashed]->  FuelExpendures      : "«create»"
+Import               -[#595959,dashed]->  FuelTrimBank        : "«create»"
+Import               -[#595959,dashed]->  Trip                : "«create»"
+Import               -[#595959,dashed]->  TripID              : "«create»"
+Import               -[#595959,dashed]->  Vehicle             : "«create»"
+KDNode               +-[#820000,plain]-  KDTree
+KDTree               -[#595959,dashed]->  KDNode              : "«create»"
+KDTree              "1" *-[#595959,plain]-> "root\n1" KDNode
+KDTree               -[#008200,dashed]-^  KDTreeInterface
+KDTree               -[#595959,dashed]->  Neighbor            : "«create»"
+KDTree               -[#595959,dashed]->  NeighborComparator  : "«create»"
+Main                 -[#595959,dashed]->  AVL                 : "«create»"
+Main                "1" *-[#595959,plain]-> "VEHICLE_AVL\n1" AVL
+Main                 -[#595959,dashed]->  Coordinates         : "«create»"
+Main                 -[#595959,dashed]->  DayNum              : "«create»"
+Main                 -[#595959,dashed]->  Import              : "«create»"
+Main                 -[#595959,dashed]->  KDTree              : "«create»"
+Main                 -[#595959,dashed]->  MaxMinAverageDayNum : "«create»"
+Main                 -[#595959,dashed]->  TimeStamp           : "«create»"
+Main                "1" *-[#595959,plain]-> "TRIPS\n*" Trip
+Main                 -[#595959,dashed]->  TripID              : "«create»"
+Main                 -[#595959,dashed]->  TripKD              : "«create»"
+Main                 -[#595959,dashed]->  TripOriginDest      : "«create»"
+Main                 -[#595959,dashed]->  TripSummary         : "«create»"
+Main                 -[#595959,dashed]->  Vehicle             : "«create»"
+Main                "1" *-[#595959,plain]-> "VEHICLES\n*" Vehicle
+Neighbor            "1" *-[#595959,plain]-> "node\n1" KDNode
+NeighborComparator   +-[#820000,plain]-  Neighbor
+Node                 +-[#820000,plain]-  BST
+TimeStamp           "1" *-[#595959,plain]-> "batteryUsage\n1" BatteryUsage
+TimeStamp           "1" *-[#595959,plain]-> "coordenates\n1" Coordinates
+TimeStamp           "1" *-[#595959,plain]-> "fuelExpendures\n1" FuelExpendures
+TimeStamp           "1" *-[#595959,plain]-> "fuelTrimBank\n1" FuelTrimBank
+TimeStamp           "1" *-[#595959,plain]-> "tripId\n1" TripID
+Trip                "1" *-[#595959,plain]-> "batteryUsage\n1" BatteryUsage
+Trip                "1" *-[#595959,plain]-> "coordenates\n1" Coordinates
+Trip                "1" *-[#595959,plain]-> "fuelExpendures\n1" FuelExpendures
+Trip                "1" *-[#595959,plain]-> "fuelTrimBank\n1" FuelTrimBank
+Trip                "1" *-[#595959,plain]-> "tripId\n1" TripID
+TripID              "1" *-[#595959,plain]-> "timeStampAVL\n1" AVL
+TripKD              "1" *-[#595959,plain]-> "timeStampKDTree\n1" KDTree
+TripSummary         "1" *-[#595959,plain]-> "origin\n1" Coordinates
+Vehicle             "1" *-[#595959,plain]-> "dayNumAVL\n1" AVL
+@enduml
